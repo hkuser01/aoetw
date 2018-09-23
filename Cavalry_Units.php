@@ -827,7 +827,7 @@
                 </td>
                 <td class="tunitc4">雇傭兵</td>
                 <td class="tunitc5">200F 300G</td>
-                <td class="tunitc6">訓練馬札爾驃騎兵不需消耗食物。</td>
+                <td class="tunitc6">訓練馬札爾驃騎兵不需消耗黃金。</td>
               </tr>
               <tr>
                 <td class="tunitc6">

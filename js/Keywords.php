@@ -571,6 +571,7 @@ $json = '[
 {"kWord":"帝王世紀", "kUrl":"aoe.php", "kWeight":0},
 {"kWord":"征服者入侵", "kUrl":"aoc.php", "kWeight":0},
 {"kWord":"失落的帝國", "kUrl":"aof.php", "kWeight":0},
+{"kWord":"失落的王朝", "kUrl":"aof.php", "kWeight":0},
 {"kWord":"非洲王國", "kUrl":"ak.php", "kWeight":0},
 {"kWord":"王者崛起", "kUrl":"aor.php", "kWeight":0},
 {"kWord":"勘查", "kUrl":"Reconquista.php", "kWeight":0}

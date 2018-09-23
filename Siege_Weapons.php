@@ -71,6 +71,9 @@
               <li>
                 <img class="gg" src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">手風琴砲</a>
               </li>
+			  <li>
+                <img class="gg" src="img/Ballistaelephanticon.png" alt=""><a href="Organ_Gun.php">弩砲象</a>
+              </li>
             </ul>
             <ul>
               <p>從非洲王朝資料片開始，<a href="Siege_Tower.php">攻城塔</a>無法攻擊敵方建築或單位，所以無法歸類在上面兩類。而在失落的帝國資料片攻城塔可以開火，然而他們的主要目的還是運送部隊，所以還是不歸類於以上兩種。</p>
@@ -407,6 +410,44 @@
                 <td class="tta3">9</td>
                 <!--視野!-->
                 <td class="tta3">0.85</td>
+                <!--速度!-->
+              </tr>
+			  <tr>
+                <td class="tta1">
+                  <img class="gg" src="img/Ballistaelephanticon.png"><a href="Ballista_Elephant.php">弩炮象</a>
+                </td>
+                <td class="tta3">250</td>
+                <!--生命值!-->
+                <td class="tta3">8</td>
+                <!--攻擊!-->
+                <td class="tta3">0/3</td>
+                <!--防禦!-->
+                <td class="tta3">5</td>
+                <!--射程!-->
+                <td class="tta3">2.5</td>
+                <!--射速!-->
+                <td class="tta3">7</td>
+                <!--視野!-->
+                <td class="tta3">0.8</td>
+                <!--速度!-->
+              </tr>
+              <tr>
+                <td class="tta1">
+                  <img class="gg" src="img/Ballistaelephanticon.png"><a href="Ballista_Elephant.php">精銳弩炮象</a>
+                </td>
+                <td class="tta3">290</td>
+                <!--生命值!-->
+                <td class="tta3">9</td>
+                <!--攻擊!-->
+                <td class="tta3">0/3</td>
+                <!--防禦!-->
+                <td class="tta3">5</td>
+                <!--射程!-->
+                <td class="tta3">2.5</td>
+                <!--射速!-->
+                <td class="tta3">7</td>
+                <!--視野!-->
+                <td class="tta3">0.8</td>
                 <!--速度!-->
               </tr>
             </table>

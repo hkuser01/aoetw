@@ -59,7 +59,7 @@
             <tr>
               <td class="tta1">伐木工</td>
               <td class="tta2">木材</td>
-              <td class="tta3">0.444</td>
+              <td class="tta3">0.39</td>
             </tr>
             <tr>
               <td class="tta1">漁夫</td>

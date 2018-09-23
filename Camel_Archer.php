@@ -267,7 +267,7 @@
             </tr>
             <tr>
               <td class="unit3">訓練時間</td>
-              <td class="unit4">21秒</td>
+              <td class="unit4">25秒</td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;text-align: center;">

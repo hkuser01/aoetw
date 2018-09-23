@@ -354,7 +354,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">32秒</td>
+            <td class="unit4">封建60秒/城堡35秒</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
