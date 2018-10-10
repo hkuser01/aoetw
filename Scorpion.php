@@ -65,7 +65,7 @@
                 <a
                 href="Mangudai.php">蒙古突騎</a>、<a href="Mangonel.php">投石車</a>、<a href="Eagle_Warrior.php">鷹勇士</a>、
                   <a
-                  href="Woad_Raider.php">松藍武士</a>、<a href="Huskarl.php">哥德衛隊</a>、遠距離單位。</td>
+                  href="Woad_Raider.php">菘藍武士</a>、<a href="Huskarl.php">哥德衛隊</a>、遠距離單位。</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">

@@ -201,14 +201,12 @@
             <div
             class="col-md-12">
               <div class="col-md-6">
-                <img position="centered" class="imgn" class="hg" width="500" src="img/聖女貞德4小道.png"
-                alt="">
+                <img position="centered" class="imgn" class="hg" width="500" src="img/s4.png" alt="">
                 <p class="text-center"><em>走小道(斥侯所在處)可以暫時躲過不列顛禁衛軍。</em>
                 </p>
               </div>
               <div class="col-md-6">
-                <img position="centered" class="imgn" class="hg" width="500" src="img/Joan4chalon.png"
-                alt="">
+                <img position="centered" class="imgn" class="hg" width="500" src="img/Joan4chalon.png" alt="">
                 <p class="text-center"><em>沙朗的城鎮中心陷落。</em>
                 </p>
               </div>

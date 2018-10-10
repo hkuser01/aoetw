@@ -319,7 +319,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>
+                  <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
                 </td>
                 <td class="tta3">65</td>
                 <!--生命值!-->
@@ -338,7 +338,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">精銳松藍武士</a>
+                  <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">精銳菘藍武士</a>
                 </td>
                 <td class="tta3">80</td>
                 <!--生命值!-->

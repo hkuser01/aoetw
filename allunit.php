@@ -85,7 +85,7 @@
 
                 <br> <a href="Cataphract.php">聖騎兵</a>
 
-                <br> <a href="Woad_Raider.php">松藍武士</a>
+                <br> <a href="Woad_Raider.php">菘藍武士</a>
 
                 <br> <a href="Chu_Ko_Nu.php">連弩兵</a>
 

@@ -123,7 +123,7 @@
                     </tr>     
                     
                     <tr>
-                        <td class="tunitc6"><img style="margin: 2px;" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a></td>
+                        <td class="tunitc6"><img style="margin: 2px;" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a></td>
                         <td class="tunitc4">賽爾特</td>
                         <td class="tunitc6">移動相當快速的步兵。</td>
                        

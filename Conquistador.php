@@ -27,7 +27,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>征服者是<a href="aoc.php">《世界帝國:征服者入侵》</a>資料片中<a href="Spanish.php">西班牙</a>的特殊單位，能夠在
+            <p>征服者是<a href="aoc.php">征服者入侵</a>資料片中<a href="Spanish.php">西班牙</a>的特殊單位，能夠在
               <a
               href="Castle_Age.php">城堡時代</a>的<a href="Castle.php">城堡</a>中訓練。是個高裝甲且騎馬的火藥單位。</p>
             <p>征服者可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳征服者。</div>
@@ -37,16 +37,10 @@
           <div class="n1">
             <ul>
               <li>征服者是具有高攻擊力的騎兵，但和<a href="Cavalry_Archer.php">馬弓騎兵</a>的玩法類似。征服者在機動性和持久性方面比
-                <a
-                href="Hand_Cannoneer.php">火槍兵</a>具有優勢。雖然他們是最短距離的火藥單位，也不像<a href="Cavalry_Archer.php">馬弓騎兵</a>受益於科技的範圍增加，他們的機動性使他們變得強大而且致命，讓他們非常適合使用打帶跑戰術。在團隊中他們可以製造巨量傷害破壞敵人的陣型。征服者經常搭配
-                  <a
-                  href="Knight.php">騎士</a>吸收遠程單位的傷害，而征服者則殺死敵人的<a href="Monk.php">僧侶</a>。敵軍騎兵對征服者來說是一個巨大的威脅，尤其是
-                    <a
-                    href="Camel.php">駱駝騎兵</a>。<a href="Siege_Weapons.php">攻城武器</a>也是，所以戰鬥時不應該在同一地點停留太久。<a href="Halberdier.php">戟兵</a>可以傷到征服者，只要他們能追到征服者。
-                      <a
-                      href="Imperial_Skirmisher.php">帝王戰矛兵</a>也是有效的，雖然不如對付<a href="Cavalry_Archer.php">馬弓騎兵</a>那樣有效，而且征服者打他們也很痛。
-                        <a
-                        href="Eagle_Warrior.php">鷹勇士</a>也可對付征服者。由於征服者對<a href="Battering_Ram.php">衝撞車</a>的攻擊加成讓他們在防禦城堡方面做得很好，尤其是在城堡時代。</li>
+                <a href="Hand_Cannoneer.php">火槍兵</a>具有優勢。雖然他們是最短距離的火藥單位，也不像<a href="Cavalry_Archer.php">馬弓騎兵</a>受益於科技的範圍增加，他們的機動性使他們變得強大而且致命，讓他們非常適合使用打帶跑戰術。在團隊中他們可以製造巨量傷害破壞敵人的陣型。征服者經常搭配
+                  <a href="Knight.php">騎士</a>吸收遠程單位的傷害，而征服者則殺死敵人的<a href="Monk.php">僧侶</a>。敵軍騎兵對征服者來說是一個巨大的威脅，尤其是
+                    <a href="Camel.php">駱駝騎兵</a>。<a href="Siege_Weapons.php">攻城武器</a>也是，所以戰鬥時不應該在同一地點停留太久。<a href="Halberdier.php">戟兵</a>可以傷到征服者，只要他們能追到征服者。<a href="Imperial_Skirmisher.php">帝王戰矛兵</a>也是有效的，雖然不如對付<a href="Cavalry_Archer.php">馬弓騎兵</a>那樣有效，而且征服者打他們也很痛。
+            </li>
             </ul>
           </div>
            <h3>更多數據</h3>

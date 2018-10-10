@@ -32,13 +32,13 @@
          <span class="tt">完整、準確的世紀帝國百科全書</sapn>         
       </div>
       </div>    
-      <div class="container">
+      <div class="container" style=" margin-bottom: 30px; ">
          <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-12">
                <div class="col-md-12">
                   <p> <span style="text-align: center; color:#dc3545;"><a href="https://discord.gg/ymNuMVg"><img width="100" src="img/discord.png" alt=""> Discord語音聊天群</a>，歡迎各位前來約戰、聊天與發問問題。          
                </div>
-               <div class="col-md-6" style="text-align: right;font-size: 25px;">已有689篇條目</div>
+               <div class="col-md-12" style="text-align: right;font-size: 25px;">已有758篇條目</div>
                <div class="row">
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="civ.php">文明</a></h3>
@@ -74,7 +74,9 @@
                   </div>
                </div>
             </div>
-            <div class="col-md-6">
+            <br>
+            <!--
+            <div class="col-md-4">
                <div class="nw">
                   <h4 style="margin-top:30px;"><strong>精選圖片</strong></h4>
                   <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
@@ -100,6 +102,7 @@
                   <p style="text-align: right;font-size: 15px;"><a href="uknow.php">歷史圖片</a> <a href="uknow.php">投稿圖片</a></p>
                </div>
             </div>
+            !-->
          </div>
       </div>
       <div class="container">
@@ -143,6 +146,7 @@
                <div class="nw">
                   <h4 style="margin-top:30px;"><strong>最新消息</strong></h4>
                   <ul>
+                     <li>各文明的<a href="vie.php">科技樹</a>完成拉！</li>
                      <li>2018年9月7日:5.8改版上線，<a href="ver5-8.php">改版內容</a></li>
                      <li>新增<a href="http://aoetw.com/save/">記錄檔上傳區</a></li>
                      <li>2018年1月25日:5.7改版上線，<a href="ver5-7.php">改版內容</a></li>

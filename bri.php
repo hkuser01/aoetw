@@ -24,7 +24,62 @@
     </script>
     <!-- Custom styles for this template -->
     <style>
-      body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .flg{          width: 25px;margin: 0px 5px;"        }        .not{          opacity: 0.3;        }        .allciv{        }        .gg{          width: 45px;        }        .trm{          font-size: 22px;        }#banner ul li {  float: left;  list-style-type: none;}#banner a::after {  content: " · ";  font-weight: bold;  color: #373a3c;}.treetd{    width: 10%;    background: #ccc;    font-weight: bold;    border: 1px solid;    text-align: right;    padding: 5px;}.ult li{  margin-left: 20px;} @media only screen }}and (max-width: 480px), (min-device-width: 480px) and (max-device-width: 480px)  {        .gg{          width: 22px;        }        .trm{          font-size: 16px;        }}}
+        body {
+            padding-top: 0px;
+            font-family: "微軟正黑體";
+            background-color: #f5f5f5;
+            font-size: 18px;
+        }
+        .flg{
+          width: 25px;margin: 0px 5px;"
+        }
+        .not{
+          opacity: 0.3;
+        }
+        .allciv{
+
+        }
+        .gg{
+          width: 45px;
+        }
+        .trm{
+          font-size: 22px;
+        }
+#banner ul li {
+  float: left;
+  list-style-type: none;
+
+}
+#banner a::after {
+  content: " · ";
+  font-weight: bold;
+  color: #373a3c;
+}
+.treetd{
+    width: 10%;
+    background: #ccc;
+    font-weight: bold;
+    border: 1px solid;
+    text-align: right;
+    padding: 5px;
+}
+.ult li{
+  margin-left: 20px;
+}
+ @media only screen 
+}
+}
+and (max-width: 480px), (min-device-width: 480px) 
+and (max-device-width: 480px)  {
+        .gg{
+          width: 22px;
+        }
+        .trm{
+          font-size: 16px;
+        }
+}
+}
+
     </style>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
     integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
@@ -473,7 +528,7 @@
 
       </td>
       <td class="t13 trm">
-        <img class="gg" src="img/ShotelIcon.png" width="30" alt="">
+        <img class="gg" src="img/LongbowmanIcon.jpg" width="30" alt="">
         <div><a href="Longbowman.php">長弓兵</a>
 
         </div>
@@ -501,7 +556,7 @@
 
       </td>
       <td class="t13 trm">
-        <img class="gg" src="img/ShotelIcon.png" width="30" alt="">
+        <img class="gg" src="img/LongbowmanIcon.jpg" width="30" alt="">
         <div><a href="Longbowman.php">精銳長弓兵</a>
 
         </div>

@@ -189,7 +189,7 @@
             </div>
           </div>以下技術可讓以下單位對豹勇士有額外攻擊力
           <div class="n1">
-            <img class="gg" src="img/Unique-tech.jpg" width="22" alt=""> <a href="Parthian_Tactics.php">後勤學</a> 
+            <img class="gg" src="img/Unique-tech.jpg" width="22" alt=""> <a href="Logistica.php">後勤學</a> 
             <div style="margin:12px 0px;"><strong>+6攻擊</strong>
             </div>
             <ul>

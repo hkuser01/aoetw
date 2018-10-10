@@ -63,7 +63,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>
+                <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
               </td>
               <td class="tunitc4"><a href="Celts.php">賽爾特</a>
               </td>

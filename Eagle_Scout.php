@@ -172,7 +172,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""> <a href="Woad_Raider.php">精銳松藍武士</a> 
+                      <img class="gg" src="img/WBRSK.jpg" alt=""> <a href="Woad_Raider.php">精銳菘藍武士</a> 
                     </li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>
@@ -197,7 +197,7 @@
                       <img class="gg" src="img/ManAtArmsIcon.jpg" alt="" width="22"> <a href="Man-at-Arms.php">裝甲步兵</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>
+                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
 
                     </li>
                     <li>

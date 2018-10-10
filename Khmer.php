@@ -70,6 +70,12 @@
               </ul>
             </div>
           </div>
+        <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="khm.php">高棉科技樹</a></em>
+          </div>
+          <br>
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">

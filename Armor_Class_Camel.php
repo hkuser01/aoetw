@@ -177,7 +177,7 @@
             <div class="hrn1"></div>
             <div class="n1">
               <img class="gg" src="img/CastleAgeUnique.png" width="22" alt=""><a href="Chieftains.php">酋長</a> 
-              <div style="margin:12px 0px;"><strong>+4攻擊</strong>(<a href="Vikings.php">維京</a>限定)</div>
+              <div style="margin:12px 0px;"><strong>+2攻擊</strong>(<a href="Vikings.php">維京</a>限定)</div>
               <ul>
                 <li>
                   <img class="gg" src="img/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>→

@@ -90,7 +90,7 @@
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4">近戰<a href="Cavalry_Units.php">騎兵單位</a>、<a href="Magyar_Huszar.php">馬札爾驃騎兵</a>、
                 <a
-                href="Mangudai.php">蒙古突騎</a>、<a href="Woad_Raider.php">松藍武士</a>、<a href="Condottiero.php">傭兵</a>、
+                href="Mangudai.php">蒙古突騎</a>、<a href="Woad_Raider.php">菘藍武士</a>、<a href="Condottiero.php">傭兵</a>、
                   <a
                   href="Eagle_Warrior.php">鷹勇士</a>、<a href="Bombard_Cannon.php">火炮</a>。</td>
             </tr>

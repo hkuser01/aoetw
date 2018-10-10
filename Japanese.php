@@ -36,11 +36,11 @@
           <div class="n1">
             <ul>
               <li>日本是東亞的步兵文明，為世紀帝國最初種族之一。</li>
-              <li>日本的步兵很是強大，但是作為代價卻有很弱的騎兵。</li>
+              <li>日本的步兵很是強大，但是作為代價騎兵很弱。</li>
               <li>箭塔的強大火力讓日本有很不錯的防禦性。</li>
               <li>日本在前期有強大的經濟與海上優勢，代價是後期的經濟落後與虛弱騎兵。</li>
-              <li>他的特殊單位是日本武士，歸類為步兵，對所有文明的特殊單位傷害有加成。</li>
-              <li>城堡時代特殊科技射箭孔，搭配箭狹槽使用，讓日本箭塔堪稱最強火力。帝王時代的特殊科技為彈射器，這個科技則減少了投石機的拆裝時間，讓投石機更具機動性。</li>
+              <li>特殊單位日本武士歸類為步兵，對所有文明的特殊單位傷害有加成。</li>
+              <li>城堡時代特殊科技<a href="Yasama.php">射箭孔</a>，搭配箭狹槽使用，讓日本箭塔堪稱最強火力。帝王時代的特殊科技為彈射器，這個科技則減少了投石機的拆裝時間，讓投石機更具機動性。</li>
             </ul>
             <h3>特殊單位</h3>
             <ul>
@@ -50,7 +50,7 @@
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">射箭孔：塔可以多射兩支箭</li>
+                <img class="gg" src="img/CastleAgeUnique.png" alt=""><a href="Yasama.php">射箭孔</a>：塔可以多射兩支箭</li>
               <li>
                 <img class="gg" src="img/Unique-tech.jpg" alt="">帝王時代：彈射器：投石機拆裝速度四倍，且攻擊速率快33%</li>
             </ul>
@@ -65,6 +65,12 @@
               <li><strong>團隊加分:</strong>戰船系視野+50%</li>
             </ul>
           </div>
+          <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="jap.php">日本科技樹</a></em>
+          </div>
+          <br>
           <h3>戰術概論</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -88,18 +94,18 @@
               <li>害怕火藥單位的日本有個地方可以反制，那就是火藥單位是屬於遊戲中後期才會出現的單位，而日本有能力在前期就殲滅大部分火藥單位強的民族。</li>
               <li>日本在封建時代異常強大，漁船加成加上步兵攻擊速度加成，使的日本在封建時代的陸上戰鬥近乎無敵。</li>
               <li>日本的漁船優勢可以讓日本在前期領先不少對手，所以想要玩日本最好選擇有水的地圖。</li>
-              <li>日本的漁船捕魚速度極快，容易把最有效率的魚群迅速捕撈完畢，所以在漁船開始變得沒有效率時，他們可以當成誘餌去吸引對方戰艦的火力。</li>
+              <li>日本的漁船捕魚速度極快，能迅速捕撈完魚群，所以在漁船開始變得沒有效率時，他們可以當成誘餌去吸引對方戰艦的火力。</li>
               <li>日本的前期經濟強盛，但後期相比其他種族更差，所以盡量在遊戲前期取得勝利。</li>
-              <li>日本的箭塔從城堡時代開始變得相當優良，可以讓基地得到莫大保護，但是要使用塔攻則比較沒有優勢，因為通常塔攻發生在封建時代，而城堡時代之前的日本並沒有可以作為塔攻優勢的加成。</li>
+              <li>日本的箭塔從城堡時代開始變得相當強大，可以讓基地得到莫大保護，但是要使用塔攻則比較沒有優勢，因為通常塔攻發生在封建時代，而城堡時代之前的日本並沒有可以作為塔攻優勢的加成。</li>
               <li>研發了特殊科技的投石機是日本的一大戰力，若進入帝王時代了則善用他們，無論在進攻與防禦都能取得成功，他們甚至可以在敵軍的投石機攻擊到他們前組裝完成進行閃躲。</li>
-              <li>除非對手非常依賴特殊單位，否則武士的實用度不如劍兵勇士。</li>
+              <li>除非對手非常依賴特殊單位，否則日本武士的實用度不如劍兵勇士。</li>
               <li>強弩手與戟兵是非常好的配合，但是要斟酌是否該投資每一種兵種。</li>
               <li>日本對付哥德這樣的後期文明會有很好的效果，或是用來對付印加這樣的步兵民族將有優勢(日本的步兵素質太好了)；但是對於火藥單位強盛的文明則很乏力，比方土耳其，也很害怕賽爾特這樣擁有強大投石車的文明。</li>
             </ul>
             <ul><strong>盟友選擇</strong> 
               <li>日本是維京與薩拉森這樣的海軍文明的好隊友，更高的戰船視野可以讓海戰更加輕鬆。</li>
               <li>哥德，義大利這樣能夠增強軍營的文明是日本的好朋友，不過要注意這些文明通常沒有好的騎兵。</li>
-              <li>越南可以說是日本的最佳盟友之一，因為他直接提供了敵方的位置，讓日本有機會在前期封殺對手，而越南的矛象伕則可以補足日本騎兵的缺陷，最重要的是越南擁有火炮，可以很好的打擊對手的投石車來保護日本步兵。</li>
+              <li>越南可以說是日本的最佳盟友之一，因為能直接提供敵方城鎮中心的位置，讓日本有機會在前期封殺對手，而越南的矛象伕則可以補足日本騎兵的缺陷，最重要的是越南擁有火炮，可以很好的打擊對手的投石車來保護日本步兵。</li>
               <li>總的來說，日本的隊友最好在對付攻城武器必須有好的表現，反而海戰或是軍營加成是次要的。</li>
             </ul> <strong>對抗要點</strong> 
             <ul>
@@ -123,4 +129,119 @@
               </tr>
               <tr>
                 <td class="tta1">征服者的戰役-洛陽點(1598)</td>
-                <td class="tta2"><span style="color: #d9534f;" class="glyphicon glyphicon-remove noc" aria-hidden="true"></td>                        <td class="tta3">日本海軍(敵對)<div class="p4"></div><BR>日本侵略者(敵對)<div class="p6"></div></td>                    </tr>                    <tr>                        <td class="tta1">征服者的戰役-京都(1582)</td>                        <td class="tta2"><span style="color: green;" class="glyphicon glyphicon-ok okc" aria-hidden="true"></td>                        <td class="tta3">玩家<div class="p5"></div><BR>大阪(敵對)<div class="p2"></div><BR>京都(敵對)<div class="p3"></div><BR>織田信長(友軍)<div class="p4"></div><BR>靜岡(敵對)<div class="p1"></div></td>                    </tr>                    <tr>                        <td class="tta1">征服者的戰役-礪波山(1183)</td>                        <td class="tta2"><span style="color: green;" class="glyphicon glyphicon-ok okc" aria-hidden="true"></td>                        <td class="tta3">玩家<div class="p1"></div><BR>木曾義仲(友軍)<div class="p6"></div><BR>北条式(友軍)<div class="p4"></div><BR>平式軍閥(敵對)<div class="p2"></div><BR>京都(敵對)<div class="p5"></div><BR>平家軍(敵對)<div class="p8"></div><BR>平式守衛(敵對)<div class="p3"></div><BR>當地人(友軍)<div class="p7"></div></td>                    </tr>                </table><h3>更新日誌</h3><div class="hrn1"></div><div class="n1"><h3><em><a href="aoc.php">征服者入侵</a></em></h3><ul>    <li>步兵從封建時代攻擊速度快25%。</li></ul><h3><em><a href="aof.php">失落的帝國</a></em></h3><ul>    <li>現在有了品種。</li>    <li>能夠研發礦井採金。</li></ul><h3><em><a href="ak.php">非洲王國</a></em></h3><ul>    <li>射箭孔成本從400w/300f降低為300w/300f。</li>    <li>現在有了踏輪起重機。</li></ul></div><h3>趣事</h3><div class="hrn1"></div><div class="n1"><ul>  <li>火炮在日本稱之為大銃，在戰國時代曾被多次使用，然而遊戲裡面日本沒有火炮。</li>  <li>日本的語音似乎比其他的種族多一點(僧侶與國王)。</li>  <li>日本的世界奇觀是東大寺，至今仍在日本奈良。</li>  <li>很神奇的，日本知名度最高的織田信長竟然沒有獨立的戰役。</li>  <li>武士是中世紀日本作戰時的關鍵力量，而他們的訓練異常精良，可以說比西方的騎士是有過之而無不及，而訓練精良這點在遊戲中以提高步兵攻擊速度來體現。</li>  <li>綜觀日本歷史，騎兵真正主宰戰場的例子少之又少，這或許是為甚麼遊戲中的日本騎兵相對貧弱。</li>  <li>日本是個新生島嶼，鐵礦產量不如歐洲各國，這讓日本在中世紀時期大量地使用弓箭來進行防禦，這就是特殊科技射箭孔的由來，也能解釋為甚麼日本有完美的射箭場。</li>  <li>日本有許多火山，使日本的土地以島嶼來說是非常肥沃的，遊戲中日本有便宜的經濟建築，就是為了體現這一點。</li>  <li>作為一個島嶼民族，日本人酷愛吃魚，遊戲中的漁船加成由此而來。</li></ul></div><h3>圖庫</h3><div class="hrn1"></div><div class="n1"> <div class="col-md-12">  <div class="col-md-4">  <a href="img/Wonderjapanese.png"><img class="imgn" class="hg" src="img/Wonderjapanese.png" alt=""></a>  <p><em>日本的世界奇觀，東大寺。</em></p>  </div>   </div></div></div>  </div>  <div class="col-md-4">      <table class="table-bordered" width="100%">      <tr>        <td class="unit" colspan="2" style=" background-color:#e6992c;">       <div class="unititle2">日本</div>       </td>      </tr>      <tr>       <td colspan="2" ><div class="unititle">       <img src="img/Himeji_Castle_repainted_3.jpg" width="300px;" alt="">       <p><em>最具日本象徵意義的姬路城</em></p>       </div>       </td>      </tr>      <tr>        <td class="unit" colspan="2" style=" background-color:#e6992c;">       <div class="unititle2">概要</div>       </td>      </tr>      <tr>        <td class="unit3">建築風格</td>       <td class="unit4">東亞</td>      </tr>      <tr>        <td class="unit3">分類文明</td>       <td class="unit4">步兵</td>      </tr>      <tr>        <td class="unit3">特殊單位</td>       <td class="unit4"><img class="gg" src="img/SMURI.jpg">日本武士</td>      </tr>      <tr>        <td class="unit3">首選戰略</td>       <td class="unit4">封建快攻，海戰</td>      </tr>      <tr>        <td class="unit3">特殊技術</td>       <td class="unit4"> <img class="gg" src="img/CastleAgeUnique.png">射箭孔<br><img class="gg" src="img/Unique-tech.jpg">彈射器</td>      </tr>           </table><div class="thanks">       感謝! 此頁面由Dennis協助編輯</div>  </div></div>    </div>    <!-- /container --><?php include("allciv.php"); ?><?php include("foot.php"); ?></body></html>
+                  <td class="tta2"><i class="fas fa-times" style="color: #d9534f;"></i>
+                   </td>     
+                  <td class="tta3">
+                      <div class="p4">日本海軍(敵對)</div><br>
+                      <div class="p6">日本侵略者(敵對)</div></td>                    
+              </tr>                    
+              <tr>                        
+                  <td class="tta1">征服者的戰役-京都(1582)</td>                        
+                  <td class="tta2"><i class="fas fa-check" style="color: green;"></i></td>                        
+                  <td class="tta3">
+                      <div class="p5">玩家</div><br>
+                      <div class="p2">大阪(敵對)</div><br>
+                      <div class="p3">京都(敵對)</div><br>
+                      <div class="p4">織田信長(友軍)</div><br>
+                      <div class="p1">靜岡(敵對)</div></td>                    
+                </tr>                    
+              <tr>                        
+                  <td class="tta1">征服者的戰役-礪波山(1183)</td>                        
+                  <td class="tta2"><i class="fas fa-check" style="color: green;"></i></td>                        
+                  <td class="tta3"><div class="p1">玩家</div><br>
+                      <div class="p6">木曾義仲(友軍)</div><br>
+                          <div class="p4">北条式(友軍)</div><br>
+                          <div class="p2">平式軍閥(敵對)</div><br>
+                          <div class="p5">京都(敵對)</div><br>
+                          <div class="p8">平家軍(敵對)</div><br>
+                          <div class="p3">平式守衛(敵對)</div><br>
+                          <div class="p7">當地人(友軍)</div></td>                    
+                </tr>                
+                      
+             </table>
+              
+              <h3>更新日誌</h3>
+              <div class="hrn1"></div>
+              <div class="n1">
+                  
+            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+            <ul>    
+               <li>步兵從封建時代攻擊速度快25%。</li>
+            </ul>
+            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+            <ul>    
+                <li>現在有了品種。</li>    
+                <li>能夠研發礦井採金。</li>
+            </ul>
+            <h3><em><a href="ak.php">非洲王國</a></em></h3>
+            <ul>    
+                <li><a href="Yasama.php">射箭孔</a>成本從400w/300f降低為300w/300f。</li>    
+                <li>現在有了踏輪起重機。</li>
+            </ul></div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+            <ul>  
+                <li>火炮在日本稱之為大銃，在戰國時代曾被多次使用，然而遊戲裡面日本沒有火炮。</li>  
+                <li>日本的語音似乎比其他的種族多一點(僧侶與國王)。</li>  
+                <li>日本的世界奇觀是東大寺，至今仍在日本奈良。</li>  
+                <li>很神奇的，日本知名度最高的織田信長竟然沒有獨立的戰役。</li>  
+                <li>武士是中世紀日本作戰時的關鍵力量，而他們的訓練異常精良，可以說比西方的騎士是有過之而無不及，而訓練精良這點在遊戲中以提高步兵攻擊速度來體現。</li>  
+                <li>綜觀日本歷史，騎兵真正主宰戰場的例子少之又少，這或許是為甚麼遊戲中的日本騎兵相對貧弱。</li>
+                <li>日本是個新生島嶼，鐵礦產量不如歐洲各國，這讓日本在中世紀時期大量地使用弓箭來進行防禦，這就是特殊科技<a href="Yasama.php">射箭孔</a>的由來，也能解釋為甚麼日本有完美的射箭場。</li>  
+                <li>日本有許多火山，使日本的土地以島嶼來說是非常肥沃的，遊戲中日本有便宜的經濟建築，就是為了體現這一點。</li>  
+                <li>作為一個島嶼民族，日本人酷愛吃魚，遊戲中的漁船加成由此而來。</li>
+            </ul></div>
+              
+        <h3>圖庫</h3>
+              <div class="hrn1"></div>
+              <div class="n1"> 
+                  <div class="col-md-12">  
+                      <div class="col-md-4">  <a href="img/Wonderjapanese.png"><img class="imgn" class="hg" src="img/Wonderjapanese.png" alt=""></a>  <p><em>日本的世界奇觀，東大寺。</em></p>  
+                      </div>   
+                  </div>
+              </div>
+            </div>  
+          </div>  
+          <div class="col-md-4">      
+        <table class="table-bordered" width="100%">      
+            <tr><td class="unit" colspan="2" style=" background-color:#e6992c;">       
+                <div class="unititle2">日本</div>       
+                </td>      
+            </tr>      
+            <tr>       
+                <td colspan="2" ><div class="unititle">
+                <img src="img/Himeji_Castle_repainted_3.jpg" width="300px;" alt="">       
+                    <p><em>最具日本象徵意義的姬路城</em></p>     </div>       
+            </td>      
+            </tr>      
+            <tr>        
+                <td class="unit" colspan="2" style=" background-color:#e6992c;">
+                <div class="unititle2">概要</div>       </td>      
+            </tr>      
+            <tr>        
+                <td class="unit3">建築風格</td>       
+                <td class="unit4">東亞</td>      
+            </tr>      
+            <tr>        
+                <td class="unit3">分類文明</td>       
+                <td class="unit4">步兵</td>      
+            </tr>      
+            <tr>        
+                <td class="unit3">特殊單位</td>       
+                <td class="unit4"><img class="gg" src="img/SMURI.jpg">日本武士</td>      
+            </tr>      
+            <tr>        
+                <td class="unit3">首選戰略</td>       
+                <td class="unit4">封建快攻，海戰</td>      
+            </tr>      
+            <tr>        
+                <td class="unit3">特殊技術</td>       
+                <td class="unit4"><img class="gg" src="img/CastleAgeUnique.png"><a href="Yasama.php">射箭孔</a><br>
+                                  <img class="gg" src="img/Unique-tech.jpg">彈射器</td>      
+            </tr>           
+              </table>
+              <div class="thanks">       感謝! 此頁面由Dennis協助編輯</div>  
+          </div>
+        </div>    
+      </div>    <!-- /container --><?php include("allciv.php"); ?><?php include("foot.php"); ?></body></html>

@@ -98,25 +98,38 @@ padding: 5px;
       color: #d9534f; 
          margin-left: 2px;
     }
-    .tta3{
-      text-align: center;
-      background: #fff5e7;
-    }
+    
     .tta1{
       padding: 5px;
-      background:#fff5e7;
+      background:#fff3e3;
     }
     .tta2{
       padding: 5px;
       text-align: center;
-      background:#fff5e7;
+      background:#fff4e5;
+    }
+	.tta3{
+      text-align: center;
+      background: #fff5e7;
     }
     .tta4{
       padding: 5px;
       text-align: left;
-      background:#fff5e7;
+      background:#fff6e9;
     }
-
+	.ttb1{
+      padding: 5px;
+      background:#bcfbcc;
+    }
+    .ttb2{
+      padding: 5px;
+      text-align: center;
+      background:#bcfccf;
+    }
+	.ttb3{
+      text-align: center;
+      background: #bcfddc;
+    }
 
 
     .tc1{

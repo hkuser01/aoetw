@@ -63,6 +63,12 @@
               <li><strong>團隊加分:</strong>城牆便宜50%</li>
             </ul>
           </div>
+        <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="may.php">瑪雅科技樹</a></em>
+          </div>
+          <br>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">

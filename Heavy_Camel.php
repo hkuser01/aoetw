@@ -33,31 +33,46 @@
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可訓練</span></strong></h4>  <a href="Berbers.php">柏柏</a>、 <a href="Byzantines.php">拜占庭</a>、 <a href="Chinese.php">中國</a>、
-                <a
-                href="Ethiopians.php">衣索比亞</a>、 <a href="Indians.php">印度</a>、 <a href="Malians.php">馬利</a>、
-                  <a
-                  href="Mongols.php">蒙古</a>、 <a href="Persians.php">波斯</a>、 <a href="Saracens.php">薩拉森</a>、
-                    <a
-                    href="Turks.php">土耳其</a>。</div>
+                 <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可訓練</span></strong></h4>  
+                  <a href="Berbers.php">柏柏</a>、 
+                  <a href="Byzantines.php">拜占庭</a>、 
+                  <a href="Chinese.php">中國</a>、                
+                  <a href="Ethiopians.php">衣索比亞</a>、 
+                  <a href="Indians.php">印度</a>、 
+                  <a href="Malians.php">馬利</a>、                  
+                  <a href="Mongols.php">蒙古</a>、 
+                  <a href="Persians.php">波斯</a>、 
+                  <a href="Saracens.php">薩拉森</a>、                    
+                  <a href="Turks.php">土耳其</a>。
+            </div>
             </div>
           </div>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  <a href="Aztecs.php">阿茲特克</a>、 <a href="Britons.php">不列顛</a>、 <a href="Burmese.php">緬甸</a>、
-                <a
-                href="Celts.php">賽爾特</a>、 <a href="Franks.php">法蘭克</a>、 <a href="Goths.php">哥德</a>、 <a href="Huns.php">匈奴</a>、
-                  <a
-                  href="Incas.php">印加</a>、 <a href="Italians.php">義大利</a>、 <a href="Japanese.php">日本</a>、
-                    <a
-                    href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、 <a href="Magyar.php">馬札爾</a>、 <a href="Malay.php">馬來</a>、
-                      <a
-                      href="Mayans.php">馬雅</a>、 <a href="Portuguese.php">葡萄牙</a>、 <a href="Slavs.php">斯拉夫</a>、
-                        <a
-                        href="Spanish.php">西班牙</a>、 <a href="Teutons.php">條頓</a>、 <a href="Vietnamese.php">越南</a>、
-                          <a
-                          href="Vikings.php">維京</a>。</div>
+                 <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  
+                  <a href="Aztecs.php">阿茲特克</a>、 
+                  <a href="Britons.php">不列顛</a>、 
+                  <a href="Burmese.php">緬甸</a>、                
+                  <a href="Celts.php">賽爾特</a>、 
+                  <a href="Franks.php">法蘭克</a>、 
+                  <a href="Goths.php">哥德</a>、 
+                  <a href="Huns.php">匈奴</a>、                  
+                  <a href="Incas.php">印加</a>、 
+                  <a href="Italians.php">義大利</a>、 
+                  <a href="Japanese.php">日本</a>、                    
+                  <a href="Khmer.php">高棉</a>、 
+                  <a href="Koreans.php">韓國</a>、 
+                  <a href="Magyar.php">馬札爾</a>、 
+                  <a href="Malay.php">馬來</a>、                      
+                  <a href="Mayans.php">馬雅</a>、 
+                  <a href="Portuguese.php">葡萄牙</a>、 
+                  <a href="Slavs.php">斯拉夫</a>、                        
+                  <a href="Spanish.php">西班牙</a>、 
+                  <a href="Teutons.php">條頓</a>、 
+                  <a href="Vietnamese.php">越南</a>、                          
+                  <a href="Vikings.php">維京</a>。
+                </div>
             </div>
           </div>
            <h3>戰術</h3>
@@ -148,68 +163,47 @@
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
-                  <div style="margin:12px 0px;"><strong>+32攻擊</strong>
+                  <div style="margin:12px 0px;"><strong>+26攻擊</strong>
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
                     </li>
                   </ul>
-                  <div style="margin:12px 0px;"><strong>+22攻擊</strong>
+                  <div style="margin:12px 0px;"><strong>+18攻擊</strong>
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
                     </li>
                   </ul>
-                  <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-                  </div>
-                  <ul>
-                    <li>
-                      <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
-                      <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+15攻擊</strong>
+                  <div style="margin:12px 0px;"><strong>+12攻擊</strong>
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
                     </li>
-                    <li>
-                      <img class="gg" src="img/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
-                      <img class="gg" src="img/CannonGalleonIcon.jpg"
-                      alt=""> <a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a> 
-                    </li>
                   </ul>
-                  <div style="margin:12px 0px;"><strong>+12攻擊</strong>
+                  <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                   </div>
                   <ul>
-                    <li>
-                      <img class="gg" src="img/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">精銳奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
                     <li>
                       <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
-                </div>
-                <div class="col-md-6">
-                  <div style="margin:12px 0px;"><strong>+9攻擊</strong>
+                <div style="margin:12px 0px;"><strong>+9攻擊</strong>
+                    <li>
+                      <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
+                      <img class="gg" src="img/ImperialCamelIcon.jpg"
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </div>
-                  <ul>
-                    <li>
-                      <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-                    </li>
-                    <li>
-                      <img class="gg" src="img/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+8攻擊</strong>
+                </div>
+                  
+                <div class="col-md-6">
+                    <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
-                  </ul>
-                  <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-                  </div>
-                  <ul>
                     <li>
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
@@ -217,20 +211,45 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
+                    </li>
+                    
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
+                  </div>
+                  <ul>
+                    <li>
+                      <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                  </ul>
+                  <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
                     </li>
                   </ul>
-                  <div style="margin:12px 0px;"><strong>+3攻擊</strong>
+                  <div style="margin:12px 0px;"><strong>+2攻擊</strong>
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
+                    </li>
+                  </ul>
+                    <div style="margin:12px 0px;"><strong>+1攻擊</strong>
+                  </div>
+                  <ul>
+                    <li>
+                      <img class="gg" src="img/Town-center-logo.jpg" alt=""><a href="Town_Center.php">城鎮中心</a> 
+                    </li>
+                    <li>
+                      <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>→
+                      <img class="gg" src="img/Watchtowericon.png"
+                  width="22" alt=""> <a href="Guard_Tower.php">防禦箭塔</a>→
+                      <img class="gg" src="img/Watchtowericon.png"
+                  alt=""> <a href="Keep.php">大型箭塔</a> 
+                    </li>
+                    <li>
+                      <img class="gg" src="img/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a> 
                     </li>
                   </ul>
                 </div>
@@ -238,7 +257,7 @@
             </div>以下技術可讓以下單位對重裝駱駝騎兵有額外攻擊力
             <div class="n1">
               <img class="gg" src="img/CastleAgeUnique.png" width="22" alt=""> <a href="Chieftains.php">酋長</a> 
-              <div width="22" style="margin:12px 0px;"><strong>+4攻擊</strong>(<a href="Vikings.php">維京</a>限定)</div>
+              <div width="22" style="margin:12px 0px;"><strong>+2攻擊</strong>(<a href="Vikings.php">維京</a>限定)</div>
               <ul>
                 <li>
                   <img class="gg" src="img/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>→
@@ -259,8 +278,6 @@
                 <li>
                   <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>→
                   <img class="gg" src="img/VBRSK.jpg" alt=""> <a href="Berserk.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
-                <li>
-                  <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a>(如果和<a href="Italians.php">義大利</a>同盟的話)</li>
               </ul>
             </div>
           </div>

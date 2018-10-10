@@ -63,6 +63,12 @@
               <li><strong>團隊加分:</strong><a href="Scout_Cavalry.php">斥候</a>+2視野</li>
             </ul>
           </div>
+        <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="mon.php">蒙古科技樹</a></em>
+          </div>
+          <br>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -140,7 +146,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="img/CastleAgeUnique.png">
-                <p> <a href="Nomads.php">游牧</a>:房子被拆後，人口不會減少
+                <a href="Nomads.php">游牧</a>
                   <br>
                   <img class="gg" src="img/Unique-tech.jpg"><a href="Drill.php">鑿岩機</a>
               </td>

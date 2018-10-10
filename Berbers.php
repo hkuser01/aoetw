@@ -86,6 +86,12 @@
               <li><strong><a href="  ">團隊加分</a>:</strong>同盟可以在射箭場訓練標槍騎兵</li>
             </ul>
           </div>
+        <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="ber.php">柏柏科技樹</a></em>
+          </div>
+          <br>
            <h3>更新日誌</h3>
 
           <div class="hrn1"></div>

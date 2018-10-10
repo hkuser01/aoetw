@@ -401,7 +401,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3">食物</td>
+              <td class="unit3">木材</td>
               <td class="unit4">225</td>
             </tr>
             <tr>

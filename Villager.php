@@ -56,30 +56,71 @@
               <td>資源</td>
               <td>收集效率</td>
             </tr>
+			<tr>
+              <td class="ttb1">賽爾特伐木工</td>
+              <td class="ttb2">木材</td>
+              <td class="ttb3">0.449</td>
+            </tr>
             <tr>
               <td class="tta1">伐木工</td>
               <td class="tta2">木材</td>
               <td class="tta3">0.39</td>
+            </tr>
+			<tr>
+              <td class="ttb1">土耳其礦工</td>
+              <td class="ttb2">黃金</td>
+              <td class="ttb3">0.455</td>
+            </tr>
+			<tr>
+              <td class="tta1">礦工</td>
+              <td class="tta2">黃金</td>
+              <td class="tta3">0.379</td>
+            </tr>
+			<tr>
+              <td class="ttb1">韓國礦工</td>
+              <td class="ttb2">石頭</td>
+              <td class="ttb3">0.431</td>
+            </tr>
+            <tr>
+              <td class="tta1">礦工</td>
+              <td class="tta2">石頭</td>
+              <td class="tta3">0.359</td>
+            </tr>
+			<tr>
+              <td class="ttb1">蒙古獵人</td>
+              <td class="ttb2">食物</td>
+              <td class="ttb3">0.612</td>
+            </tr>
+			<tr>
+              <td class="ttb1">印度漁夫</td>
+              <td class="ttb2">食物</td>
+              <td class="ttb3">0.490</td>
             </tr>
             <tr>
               <td class="tta1">漁夫</td>
               <td class="tta2">食物</td>
               <td class="tta3">0.426</td>
             </tr>
+			<tr>
+              <td class="ttb1">不列顛牧羊人</td>
+              <td class="ttb2">食物</td>
+              <td class="ttb3">0.413</td>
+            </tr>
             <tr>
               <td class="tta1">獵人</td>
               <td class="tta2">食物</td>
               <td class="tta3">0.408</td>
             </tr>
-            <tr>
-              <td class="tta1">礦工</td>
-              <td class="tta2">黃金</td>
-              <td class="tta3">0.379</td>
+			<tr>
+              <td class="ttb1">法蘭克漿果收集員</td>
+              <td class="ttb2">食物</td>
+              <td class="ttb3">0.388</td>
             </tr>
-            <tr>
-              <td class="tta1">礦工</td>
-              <td class="tta2">石頭</td>
-              <td class="tta3">0.359</td>
+			
+			<tr>
+              <td class="ttb1">斯拉夫農民</td>
+              <td class="ttb2">食物</td>
+              <td class="ttb3">0.367</td>
             </tr>
             <tr>
               <td class="tta1">牧羊人</td>
@@ -96,6 +137,7 @@
               <td class="tta2">食物</td>
               <td class="tta3">0.310</td>
             </tr>
+			
           </table>
           <p>請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發科技
             <a

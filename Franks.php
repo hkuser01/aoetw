@@ -68,6 +68,12 @@
               <li><strong>團隊加分:</strong>騎士視野+2</li>
             </ul>
           </div>
+          <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="fra.php">法蘭克科技樹</a></em>
+          </div>
+          <br>
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">

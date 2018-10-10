@@ -43,15 +43,19 @@
               <li>條頓弓兵系統非常的不完善，沒有強弩兵/拇指環/帕提亞戰術/護腕。</li>
               <li>條頓的特殊單位條頓武士，高攻擊力/高近防/打建築物有加成/高生命，卻因為走路緩慢/遠防偏低導致實戰上不常出現，得要搭配特定兵種或者搭乘衝撞車得宜快速接近目標給予傷害。</li>
               <li>條頓城堡是遊戲中最有傷害力的城堡，又因特殊科技垛口含有城堡本身的條頓武士因此在破壞城堡上非常難的，使條頓適合防守戰略。</li>
+              <li>因為三大垃圾兵中，條頓卻一個半殘（矛兵沒有三級射），一個全殘（無法升級為輕騎兵），導致條頓在單挑後期的戰爭中非常難以使用。</li>
             </ul>
             <h3>特殊單位</h3>
-            <li>
-              <img class="gg" src="img/Crusade_avatar.jpg" alt="">條頓武士:厚重緩慢，但是戰鬥力近乎恐怖的步兵，對建築物有加成</li>
+            <ul>
+              <li><img class="gg" src="img/Crusade_avatar.jpg" alt="">條頓武士:厚重緩慢，但是戰鬥力近乎恐怖的步兵，對建築物有加成</li>
+            </ul>
             <h3>特殊科技</h3>
+            <ul>
             <li>
               <img class="gg" src="img/CastleAgeUnique.png" alt="">鋼鐵甲：給予攻城單位+4的近防</li>
             <li>
               <img class="gg" src="img/Unique-tech.jpg" alt="">垛口：城堡攻擊距離+3、且步兵可以射箭</li>
+              </ul>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
@@ -65,6 +69,12 @@
               <li><strong>團隊加分:</strong>單位抵抗僧侶招降能力增強</li>
             </ul>
           </div>
+          <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="teu.php">條頓科技樹</a></em>
+          </div>
+          <br>
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">

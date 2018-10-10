@@ -89,12 +89,12 @@
       <div class="hrn1"></div>
       <div class="n1">
         <p>聖騎兵:對步兵單位有強大的傷害力
-           <h3>特殊單位</h3>
+           <h3>特殊科技</h3>
 
           <div class="hrn1"></div>
           <p>希臘之火:火戰船射程+1</p>
           <p>後勤學:聖騎兵會對周遭單位造成傷害</p>
-           <h3>特殊單位</h3>
+           <h3>對戰評價</h3>
 
           <div class="hrn1"></div>
           <p>拜占庭是單挑算是蠻強勢的文明，原因在於封建的槍兵矛兵便宜25％，可以在封建初期爆出大量的槍兵矛海，對方將很難反制。世界知名高手Liereey就是知名的拜占庭愛用者，使用拜占庭在比賽中先後解決了世界第一TheViper與中國第一Yo。當然Liereey的控矛技術為世界頂尖，有世界矛王之稱。</p>
@@ -114,6 +114,12 @@
           <li><strong>團隊加分</strong>:僧侶治療速度提高50％</li>
         </ul>
       </div>
+    <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="byz.php">拜占庭科技樹</a></em>
+          </div>
+          <br>
        <h3>戰役</h3>
 
       <div class="hrn1"></div>
@@ -162,7 +168,7 @@
         <br>
         <div class="col-md-12">
           <div class="col-md-3"> <a href="img/Dome_of_the_Rock_(Saladin).png"><img class="imgn" class="hg" src="img/Dome_of_the_Rock_(Saladin).png" alt=""></a> 
-            <p><em>岩石圓頂，出現在薩拉丁的第四關</em>
+            <p><em>岩石圓頂，出現在薩拉丁的第四關及巴巴羅薩的最後一關</em>
 
             </p>
           </div>
@@ -217,7 +223,7 @@
       <div class="hrn1"></div>
       <div class="n1">拜占庭，也就是東羅馬帝國是一個歷史上知名的帝國。羅馬帝國自東西分治後，帝國東部羅馬政權的延續被稱為東羅馬帝國（相對於帝國西部的西羅馬帝國），16世紀以後，開始有學者稱之為拜占庭帝國。其國民在其一千多年的存在期內自稱為「羅馬帝國」（。帝國位於歐洲東部，領土曾包括歐亞非三大洲的亞洲西部和非洲北部，是古代和中世紀歐洲歷史上最悠久的君主制國家。</div>
     </div>
-    </div>
+    
     <!-- /container -->
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>

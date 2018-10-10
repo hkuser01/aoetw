@@ -40,7 +40,7 @@
                 <img class="gg" src="img/Aethelfirthicon.png" alt=""><a href="Aethelfirth.php">埃特爾</a>
               </td>
               <td class="tunitc4">步兵</td>
-              <td class="tunitc6">松藍武士</td>
+              <td class="tunitc6">菘藍武士</td>
               <td class="tunitc6"><a href="Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</a>
               </td>
             </tr>

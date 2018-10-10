@@ -89,7 +89,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">精銳松藍武士</a>(<a href="Celts.php">塞爾特</a>限定)</li>
+                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">精銳菘藍武士</a>(<a href="Celts.php">塞爾特</a>限定)</li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                     <li>
@@ -108,7 +108,7 @@
 
                     </li>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>(<a href="Celts.php">塞爾特</a>限定)</li>
+                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>(<a href="Celts.php">塞爾特</a>限定)</li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                     <li>

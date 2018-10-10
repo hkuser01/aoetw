@@ -2,11 +2,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <link href="css/style.css" rel="stylesheet">
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js">
-    </script  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js">
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js">
   </script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
   <script src="/js/key-search.js"></script>
@@ -44,8 +45,13 @@
             </li>
             <li class="nav-item"> <a class="nav-link" href="http://aoetw.com/save">記錄檔區</a> 
             </li>
-            <input id="tags">
-            <button id="tags_btn">搜尋</button>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="vie.php">科技樹</a> 
+            </li>
+            <div class="nav-item">
+            <input id="tags" style="padding-bottom: 5px;height: calc(2.25rem + 2px); font-size: 1rem; line-height: 1.5; color: #495057; background-color: #fff; border: 1px solid #ced4da; border-radius: .25rem;">
+            <button id="tags_btn" class="btn btn-primary">搜尋</button>
+            </div>
           </ul>
         </div>
       </div>

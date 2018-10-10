@@ -22,10 +22,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
           <h1>僧侶</h1>
-          <div class="hrn1"></div>
-          <div class="dc"><em><img src="img/Vladdraculaicon.png" width="50px;" alt="" style="margin-right:20px;">這條目相當完整，是一篇<a href="ue.php">優異條目</a><img src="img/u1.png" style="margin-left: 15px;" width="25px;" alt="" style="margin-right:10px;"></em>
+                   <div class="dc"><em><img src="img/Vladdraculaicon.png" width="50px;" alt="" style="margin-right:20px;">這條目相當完整，是一篇<a href="ue.php">優異條目</a><img src="img/u1.png" style="margin-left: 15px;" width="25px;" alt="" style="margin-right:10px;"></em>
           </div>
-          <div class="col-md-8">
+          <div class="hrn1"></div>
+        </div>
+        <div class="col-md-8">
             <div class="n1">
               <p>僧侶是遊戲中的一個特殊單位，可以在 <a href="Monastery.php">修道院</a> 進行訓練。雖然缺乏一切攻擊手段，他們仍然佔有一席之地，因為他們是能夠將其他單位轉換為玩家己方單位（另一個是
                 <a
@@ -77,7 +78,7 @@
                     <img class="gg" src="img/Blockprinting.jpg" alt=""><a href="Block_Printing.php">雕版印刷術</a>:僧侶(傳教士)的招降範圍+3。</li>
                   <li>
                     <img class="gg" src="img/Theocracy.png" alt=""><a href="Theocracy.php">神權統治</a>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。</li>
-                </ul>
+              </ul>
               </div>
               <h3><a href="Relic.php">遺跡</a> </h3>
               <p><em>請見主條目：<a href="Relic.php">遺跡</a></em>
@@ -110,6 +111,9 @@
                         <a
                         href="Eagle_Warrior.php">鷹勇士</a>或<a href="Scout_Cavalry.php">斥侯</a>隨意進你的陣地。</p>
             </div>
+
+
+            
             <h3>控僧技巧</h3>
             <div class="hrn1"></div>
             <div class="n1">
@@ -242,7 +246,9 @@
                 </div>
               </div>
             </div>
-          </div>
+         
+   </div>
+
           <div class="col-md-4">
             <table class="table-bordered" width="100%">
               <tr>
@@ -335,8 +341,12 @@
             </table>
             <div class="thanks">感謝! 此頁面由賜齡、眠協助編輯</div>
           </div>
+
+
         </div>
-      </div>
+</div>
+</div>
+
       <!-- /container -->
       <?php include( "allunit.php"); ?>
       <?php include( "foot.php"); ?>

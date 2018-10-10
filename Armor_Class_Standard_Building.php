@@ -206,7 +206,7 @@
 
                     </li>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">精銳松藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
+                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">精銳菘藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
                     <li>
                       <img class="gg" src="img/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">精銳哥德衛隊</a>(<a href="Goths.php">哥德</a>限定)</li>
                     <li>
@@ -231,7 +231,7 @@
                     <li>
                       <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定</li>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
+                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
                     <li>
                       <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">精銳擲斧兵</a>(<a href="Franks.php">法蘭克</a>限定)</li>
                     <li>
@@ -307,9 +307,9 @@
                   alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
                 </li>
                 <li>
-                  <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>→
+                  <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>→
                   <img class="gg" src="img/WBRSK.jpg"
-                  alt=""><a href="Woad_Raider.php">精銳松藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
+                  alt=""><a href="Woad_Raider.php">精銳菘藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
                 <li>
                   <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>→
                   <img class="gg" src="img/TAXEM.jpg"

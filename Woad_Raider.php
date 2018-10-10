@@ -21,21 +21,21 @@
       <!-- Example row of columns -->
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
-          <h1>松藍武士</h1>
+          <h1>菘藍武士</h1>
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>松藍武士是<a href="Celts.php">賽爾特</a>的特殊單位，能夠在城堡時代的城堡中訓練。</p>
-            <p>松藍武士是一個速度快和對建築物有高攻擊力的單位，而且生產快速。</p>
-            <p>松藍武士可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳松藍武士。</div>
+            <p>菘藍武士是<a href="Celts.php">賽爾特</a>的特殊單位，能夠在城堡時代的城堡中訓練。</p>
+            <p>菘藍武士是一個速度快和對建築物有高攻擊力的單位，而且生產快速。</p>
+            <p>菘藍武士可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳菘藍武士。</div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>松藍武士是整個遊戲中數一數二快的步兵單位，他們可以有效的執行游擊戰，高攻擊力和HP的條件下讓他們可以應付大多數的步兵單位，也能輕易地摧毀攻城武器和巨型投石機。然而在對上騎兵和更強的步兵單位(如:
+              <li>菘藍武士是整個遊戲中數一數二快的步兵單位，他們可以有效的執行游擊戰，高攻擊力和HP的條件下讓他們可以應付大多數的步兵單位，也能輕易地摧毀攻城武器和巨型投石機。然而在對上騎兵和更強的步兵單位(如:
                 <a
-                href="Jaguar_Warrior.php">豹勇士</a>、<a href="Teutonic_Knight.php">條頓武士</a>、<a href="Samurai.php">日本武士</a>)時，請隨侍做好撤退的準備遠離他們，對上弓兵時也請避戰因為松藍武士的護甲十分薄弱。</li>
+                href="Jaguar_Warrior.php">豹勇士</a>、<a href="Teutonic_Knight.php">條頓武士</a>、<a href="Samurai.php">日本武士</a>)時，請隨侍做好撤退的準備遠離他們，對上弓兵時也請避戰因為菘藍武士的護甲十分薄弱。</li>
             </ul>
           </div>
           <h3>更多數據</h3>
@@ -110,9 +110,9 @@
                 <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
             </tr>
           </table>
-          <h3>剋松藍武士的單位與建築</h3>
+          <h3>剋菘藍武士的單位與建築</h3>
           <div class="hrn1"></div>
-          <div class="n1">以下單位擁有對松藍武士的額外傷害，按造傷殺力排列。
+          <div class="n1">以下單位擁有對菘藍武士的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
@@ -173,7 +173,7 @@
                       <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
                   </ul>
                 </div>
-              </div>以下技術可給以下單位對松藍武士有額外攻擊加成:
+              </div>以下技術可給以下單位對菘藍武士有額外攻擊加成:
               <div class="n1">
                 <img class="gg" src="img/Unique-tech.jpg" width="22" alt=""> <a href="Parthian_Tactics.php">後勤學</a> 
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong>
@@ -189,18 +189,18 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Celts.php">賽爾特</a>：松藍武士移動速度快+15%。</li>
+              <li><a href="Celts.php">賽爾特</a>：菘藍武士移動速度快+15%。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高松藍武士的生產速度還有加速
+              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高菘藍武士的生產速度還有加速
                 <a
                 href="Conscription.php">徵兵制度</a>的研究時間(快25%)。</li>
               <li><a href="Goths.php">哥德</a>：研發科技<a href="Tracking.php">追縱技術</a>、<a href="Arson.php">縱火</a>的時間快20%。</li>
-              <li><a href="Teutons.php">條頓</a>：松藍武士更不容易被招降。</li>
+              <li><a href="Teutons.php">條頓</a>：菘藍武士更不容易被招降。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
@@ -208,15 +208,15 @@
           <div class="n1">
              <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
-              <li>松藍武士訓練時間為16。</li>
-              <li>松藍武士移動速度為1.03。</li>
-              <li>松藍武士的遠城護甲為0。</li>
+              <li>菘藍武士訓練時間為16。</li>
+              <li>菘藍武士移動速度為1.03。</li>
+              <li>菘藍武士的遠城護甲為0。</li>
             </ul>
             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
             <ul>
-              <li>松藍武士訓練時間為10。</li>
-              <li>松藍武士移動速度為1.2。</li>
-              <li>松藍武士的遠城護甲為1。</li>
+              <li>菘藍武士訓練時間為10。</li>
+              <li>菘藍武士移動速度為1.2。</li>
+              <li>菘藍武士的遠城護甲為1。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
             </ul>
             <h3><em><a href="aok.php">非洲王朝</a></em></h3>
@@ -227,20 +227,20 @@
           <h3>豆知識</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>松藍武士臉上的塗裝早在中世紀之前的1000年皮克特人就曾使用木材作為塗在臉上的顏料，而不是在中世紀時期的蘇格蘭人做的。</p>
+            <p>菘藍武士臉上的塗裝早在中世紀之前的1000年皮克特人就曾使用木材作為塗在臉上的顏料，而不是在中世紀時期的蘇格蘭人做的。</p>
           </div>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <p>“Woad是在不列顛群島發現的一種植物，可以從中提取藍色色素，賽爾特戰士在戰鬥前用這種色素塗抹自己，讓自己看起來更加可怕並且使他們的敵人感到不安。賽爾特戰士一直在襲擊英國和歐洲的發展地區
-              例如，蘇格蘭人最初是愛爾蘭侵略者，他們從英國北部的皮克特人手中奪取的土地最後成為蘇格蘭;當英國人試　著征服居住在中世紀愛爾蘭，威爾士和蘇格蘭的賽爾特人時，英國騎士對賽爾特人來說是一個很頭痛的麻煩，賽爾特人轉而採用游擊戰術，襲擊英國營地，並在英國援軍到達之前撤退;這樣的策略徹底地摧毀了邊界地區的安寧，最著名的松藍武士是蘇格蘭的威廉華萊士，他不間斷地席吉了英格蘭北部地區十年之久“。</p>
+              例如，蘇格蘭人最初是愛爾蘭侵略者，他們從英國北部的皮克特人手中奪取的土地最後成為蘇格蘭;當英國人試　著征服居住在中世紀愛爾蘭，威爾士和蘇格蘭的賽爾特人時，英國騎士對賽爾特人來說是一個很頭痛的麻煩，賽爾特人轉而採用游擊戰術，襲擊英國營地，並在英國援軍到達之前撤退;這樣的策略徹底地摧毀了邊界地區的安寧，最著名的菘藍武士是蘇格蘭的威廉華萊士，他不間斷地席吉了英格蘭北部地區十年之久“。</p>
           </div>
         </div>
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;text-align: center;">
-                <div class="unititle" style="color: #fff">松藍武士</div>
+                <div class="unititle" style="color: #fff">菘藍武士</div>
               </td>
             </tr>
             <tr>
@@ -347,7 +347,7 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="img/WBRSK.jpg" width="45" alt="">精銳松藍武士</td>
+                <img class="gg" src="img/WBRSK.jpg" width="45" alt="">精銳菘藍武士</td>
             </tr>
             <tr>
               <td class="unit3">升級成本</td>
@@ -368,21 +368,21 @@
             <div class="col-md-4"> <a href="img/Woadraider.png"><img class="imgn" class="hg" width="180" src="img/Woadraider.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
-                <p><em>一群松藍武士。</em>
+                <p><em>一群菘藍武士。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <a href="img/Elite_Woad_Raider.jpg"><img class="imgn" class="hg" width="200" src="img/Elite_Woad_Raider.jpg" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
-              <p><em>精銳松藍武士。</em>
+              <p><em>精銳菘藍武士。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <a href="img/Woad.jpg"><img class="imgn" class="hg" width="200" src="img/Woad.jpg" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
-            <p><em>松藍武士3D圖。</em>
+            <p><em>菘藍武士3D圖。</em>
             </p>
         </div>
       </div>
@@ -390,14 +390,14 @@
         <div class="col-md-4"> <a href="img/Woadraiders.png"><img class="imgn" class="hg" width="180" src="img/Woadraiders.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:220px" ;>
-            <p><em>歷史記載的松藍武士手稿。</em>
+            <p><em>歷史記載的菘藍武士手稿。</em>
             </p>
         </div>
       </div>
       <div class="col-md-4"> <a href="img/Pictish_Warrior.jpg"><img class="imgn" class="hg" width="200" src="img/Pictish_Warrior.jpg" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
-          <p><em>畫家筆下的皮克特人可能是松藍武士的發想。</em>
+          <p><em>畫家筆下的皮克特人可能是菘藍武士的發想。</em>
           </p>
       </div>
     </div>

@@ -56,7 +56,7 @@
                       href="Long_Swordsman.php">長劍兵</a>，轉<a href="Crossbowman.php">弩兵</a>甚至<a href="Plumed_Archer.php">羽毛箭射手</a>都可以輕易解決。</p>
             <p>而特殊兵種是快速步兵的也可以考慮，例如馬來的<a href="Karambit_Warrior.php">爪刀勇士</a>、馬利的<a href="Gbeto.php">飛刀女獵手</a>、賽爾特的
               <a
-              href="Woad_Raider.php">松藍武士</a>與衣索比亞的<a href="Shotel_Warrior.php">彎刀勇士</a>都非常適合打鷹勇士，但說到城堡時代打鷹勇士最強的莫過於
+              href="Woad_Raider.php">菘藍武士</a>與衣索比亞的<a href="Shotel_Warrior.php">彎刀勇士</a>都非常適合打鷹勇士，但說到城堡時代打鷹勇士最強的莫過於
                 <a
                 href="Incas.php">印加</a>的<a href="Slinger.php">投石手</a>了。</p>
           </div>
@@ -184,7 +184,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""> <a href="Woad_Raider.php">精銳松藍武士</a> 
+                      <img class="gg" src="img/WBRSK.jpg" alt=""> <a href="Woad_Raider.php">精銳菘藍武士</a> 
                     </li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>
@@ -209,7 +209,7 @@
                       <img class="gg" src="img/ManAtArmsIcon.jpg" alt="" width="22"> <a href="Man-at-Arms.php">裝甲步兵</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>
+                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
 
                     </li>
                     <li>

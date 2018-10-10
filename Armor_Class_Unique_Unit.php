@@ -55,9 +55,9 @@
                   </ul>
                   <ul>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士</a>→
+                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>→
                       <img class="gg" src="img/WBRSK.jpg"
-                      alt=""><a href="Woad_Raider.php">精銳松藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
+                      alt=""><a href="Woad_Raider.php">精銳菘藍武士</a>(<a href="Celts.php">賽爾特</a>限定)</li>
                   </ul>
                   <ul>
                     <li>

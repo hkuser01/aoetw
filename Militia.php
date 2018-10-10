@@ -276,6 +276,13 @@
             </div>
           </div>
         </div>
+
+
+
+
+
+
+
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
@@ -396,9 +403,8 @@
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-12"></div>
-      </div>
+
+
     </div>
     <!-- /container -->
     <?php include( "allunit.php"); ?>

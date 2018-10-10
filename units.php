@@ -413,8 +413,68 @@
             <tr>
               <td>
                 <div class="unitcontent">
-                  <img class="gg" src="img/Elite-unique-research.jpg" alt=""> <a href="Unique_Unit.php">特殊單位</a> 
+                  <img class="gg" src="img/Elite-unique-research.jpg" alt=""> <a href="Unique_Unit.php">特 殊 單 位</a> 
                 </div>
+				<div class="btn-group">
+				  <button type="button" class="btn btn-success">
+					<img class="gg" src="img/Elite-unique-research.jpg" alt="">
+					特 殊 單 位
+				  </button>
+				  <button type="button" class="btn btn-success dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="sr-only">Toggle Dropdown</span>
+				  </button>
+				  <div class="dropdown-menu">
+					<a class="dropdown-item" href="#">帝王世紀</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">長弓兵</a>
+					<a class="dropdown-item" href="#">聖騎兵</a>
+					<a class="dropdown-item" href="#">菘藍武士</a>
+					<a class="dropdown-item" href="#">連弩兵</a>
+					<a class="dropdown-item" href="#">擲斧兵</a>
+					<a class="dropdown-item" href="#">日本武士</a>
+					<a class="dropdown-item" href="#">蒙古突騎</a>
+					<a class="dropdown-item" href="#">波斯戰象</a>
+					<a class="dropdown-item" href="#">奴隸兵</a>
+					<a class="dropdown-item" href="#">條頓武士</a>
+					<a class="dropdown-item" href="#">土耳其火槍兵</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">征服者入侵</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">狂戰士</a>
+					<a class="dropdown-item" href="#">豹勇士</a>
+					<a class="dropdown-item" href="#">馬戰車</a>
+					<a class="dropdown-item" href="#">羽毛箭射手</a>
+					<a class="dropdown-item" href="#">征服者</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">失落的帝國</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">槍隊長</a>
+					<a class="dropdown-item" href="#">投石手</a>
+					<a class="dropdown-item" href="#">象弓騎兵</a>
+					<a class="dropdown-item" href="#">帝王駱駝騎兵</a>
+					<a class="dropdown-item" href="#">熱那亞弩手</a>
+					<a class="dropdown-item" href="#">僱傭兵</a>
+					<a class="dropdown-item" href="#">馬札爾驃騎兵</a>
+					<a class="dropdown-item" href="#">貴族鐵騎</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">非洲王朝</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">駱駝弓騎兵</a>
+					<a class="dropdown-item" href="#">標槍騎兵</a>
+					<a class="dropdown-item" href="#">彎刀勇士</a>
+					<a class="dropdown-item" href="#">飛刀女獵手</a>
+					<a class="dropdown-item" href="#">手風琴砲</a>
+					<a class="dropdown-item" href="#">卡拉維爾戰船</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">王者崛起</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">飛鏢騎兵</a>
+					<a class="dropdown-item" href="#">弩砲象</a>
+					<a class="dropdown-item" href="#">爪刀勇士</a>
+					<a class="dropdown-item" href="#">藤甲弓兵</a>
+					<a class="dropdown-item" href="#">帝王戰茅兵</a>
+				  </div>
+				</div>
               </td>
             </tr>
             <tr>

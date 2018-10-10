@@ -68,7 +68,7 @@
               <li>
                 <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</li>
               <li>
-                <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">松藍武士(精銳)</a>(<a href="Celts.php">塞爾特</a>限定)</li>
+                <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士(精銳)</a>(<a href="Celts.php">塞爾特</a>限定)</li>
               <li>
                 <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵(精銳)</a>(<a href="Franks.php">法蘭克</a>限定)</li>
               <li>

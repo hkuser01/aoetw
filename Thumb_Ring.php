@@ -26,16 +26,14 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>拇指環於<a href="Castle_Age.php">城堡時代</a>在<a href="Archery_Range">射箭場</a>研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技
-              <a
-              href="Ballistics.php">彈道學</a>則是針對移動目標。</p>
+            <p>拇指環於<a href="Castle_Age.php">城堡時代</a>在<a href="Archery_Range">射箭場</a>研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<a href="Ballistics.php">彈道學</a>則是針對移動目標。</p>
           </div>
            <h3>可研發文明</h3> 
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可研發</span></strong></h4>  <a href="Berbers.php">柏柏</a>、 <a href="Byzantines.php">拜占庭</a>、 <a href="Chinese.php">中國</a>、
+                 <h4><strong><i class="fas fa-check" style="color: green;"></i><span class="" style="margin-left: 2px;">可研發</span></strong></h4>  <a href="Berbers.php">柏柏</a>、 <a href="Byzantines.php">拜占庭</a>、 <a href="Chinese.php">中國</a>、
                 <a
                 href="Ethiopians.php">衣索比亞</a>、 <a href="Huns.php">匈奴</a>、 <a href="Incas.php">印加</a>、 <a href="Indians.php">印度</a>、
                   <a
@@ -50,16 +48,19 @@
                           href="Vikings.php">維京</a>。</div>
             </div>
           </div>
+          <br>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可研發</span></strong></h4>  <a href="Aztecs.php">阿茲特克</a>、 <a href="Britons.php">不列顛</a>、 <a href="Burmese.php">緬甸</a>、
+                 <h4><strong><i class="fas fa-times" style="color: #d9534f;"></i>
+                  <span class="" style="margin-left: 2px;">不可研發</span></strong></h4>  <a href="Aztecs.php">阿茲特克</a>、 <a href="Britons.php">不列顛</a>、 <a href="Burmese.php">緬甸</a>、
                 <a
                 href="Celts.php">賽爾特</a>、 <a href="Franks.php">法蘭克</a>、 <a href="Goths.php">哥德</a>、 <a href="Khmer.php">高棉</a>、
                   <a
                   href="Slavs.php">斯拉夫</a>、 <a href="Teutons.php">條頓</a>。</div>
             </div>
           </div>
+          <br>
            <h3>受影響的單位</h3> 
           <div class="hrn1"></div>
           <div class="n1">
@@ -75,7 +76,7 @@
               <td class="tta1"><a href="Archer.php">弓兵</a>、<a href="Crossbowman.php">弩兵</a>、<a href="Arbalest.php">強弩兵</a>
               </td>
               <td class="tta2">+18%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
@@ -83,88 +84,88 @@
                 <a
                 href="Imperial_Skirmisher.php">帝王戰矛兵</a>
               </td>
-              <td class="tta2"><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span>
+              <td class="tta2"><i class="fas fa-times" style="color: #d9534f;"></i>
               </td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Cavalry_Archer.php">馬弓騎兵</a>、<a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
               </td>
               <td class="tta2">+11%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Chu_Ko_Nu.php">連弩兵</a>、<a href="Chu_Ko_Nu.php">精銳連弩兵</a>
               </td>
               <td class="tta2">+25%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Mangudai.php">蒙古突騎</a>、<a href="Mangudai.php">精銳蒙古突騎</a>
               </td>
               <td class="tta2">+18%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="War_Wagon.php">馬戰車</a>、<a href="War_Wagon.php">精銳馬戰車</a>
               </td>
               <td class="tta2">+11%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-times" style="color: #d9534f;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Plumed_Archer.php">羽毛箭射手</a>、<a href="Plumed_Archer.php">精銳羽毛箭射手</a>
               </td>
               <td class="tta2">+18%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Slinger.php">投石手</a>
               </td>
-              <td class="tta2"><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span>
+              <td class="tta2"><i class="fas fa-times" style="color: #d9534f;"></i>
               </td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Ballista_Elephant.php">弩砲象</a>、<a href="Ballista_Elephant.php">精銳弩砲象</a>
               </td>
               <td class="tta2">+18%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-times" style="color: #d9534f;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>
               </td>
               <td class="tta2">+18%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-times" style="color: #d9534f;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Camel_Archer.php">駱駝弓箭手</a>、<a href="Camel_Archer.php">精銳駱駝弓箭手</a>
               </td>
               <td class="tta2">+18%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Genitour.php">標槍騎兵</a>、<a href="Genitour.php">精銳標槍騎兵</a>
               </td>
-              <td class="tta2"><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span>
+              <td class="tta2"><i class="fas fa-times" style="color: #d9534f;"></i>
               </td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
             <tr>
               <td class="tta1"><a href="Rattan_Archer.php">藤甲弓兵</a>、<a href="Rattan_Archer.php">精銳藤甲弓兵</a>
               </td>
               <td class="tta2">+18%</td>
-              <td class="tta3"><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span>
+              <td class="tta3"><i class="fas fa-check" style="color: green;"></i>
               </td>
             </tr>
           </table>
