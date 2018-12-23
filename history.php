@@ -96,7 +96,7 @@
 <li>　<span style="color:#ffca00" class="glyphicon glyphicon-glass" aria-hidden="true"></span>冠軍<img src="img/kr.png" class="flg" alt="">Grunt</li>
 <li>　<span style="color:#9ca1a5" class="glyphicon glyphicon-glass" aria-hidden="true"></span>亞軍<img src="img/tw.png" class="flg" alt="">Kaohen</li></ul>
 
-<p>2001年 <strong><a href="https://www.aoezone.net/forums/microsofts-international-tournament-2001.178/">世界電競大賽 (WCG 2001)</a></strong></p>
+<p>2001年 <strong><a href="https://www.aoezone.net/forums/wcg-2001.177/">世界電競大賽 (WCG 2001)</a></strong></p>
 <ul class="list-unstyled">
 <li>　<span style="color:#ffca00" class="glyphicon glyphicon-glass" aria-hidden="true"></span>冠軍<img src="img/tw.png" class="flg" alt="">IamKmkm (曾政承)</li>
 <li>　<span style="color:#9ca1a5" class="glyphicon glyphicon-glass" aria-hidden="true"></span>亞軍<img src="img/kr.png" class="flg" alt="">Grunt</li>

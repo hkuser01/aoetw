@@ -223,7 +223,7 @@ $(document).ready(function(){
             <div>弩兵</div></a><i class="fas fa-arrow-down"></i></td>
           <td class="t15 trm"><img class="gg" src="img/EliteSkirmisherIcon.jpg"><a href="Elite_Skirmisher.php"><div>戰矛兵</div></a><i class="fas fa-arrow-down"></i> </td>
           <td class="t15 trm"><img class="gg" src="img/CavalryArcherIcon.jpg"><a href="Cavalry_Archer.php"><div>馬弓騎兵</div></a><i class="fas fa-arrow-down"></i> </td>
-          <td class="t15 trm"><img class="gg" src="img/Slingericon.png"><a href="Slinger.php"><div>投石手</div></a></td>
+          <td class="t15 trm not"><img class="gg" src="img/Slingericon.png"><a href="Slinger.php"><div>投石手</div></a></td>
           <td class="t15 trm not"><img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php"><div>標槍騎兵</div></a> <i class="fas fa-arrow-down"></i></td>
           <td class="t15 trm"><img class="gg" src="img/Thumb_Ring.png"><a href="Thumb_Ring.php"><div>拇指環</div></a></td>
         </tr>

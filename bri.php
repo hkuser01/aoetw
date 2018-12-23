@@ -403,13 +403,8 @@ and (max-device-width: 480px)  {
               <img class="gg" src="img/CavalierIcon.jpg">
               <div><a href="Cavalier.php">騎兵</a>
 
-              </div> <i class="fas fa-arrow-down"></i>
-
-              <br>
-              <img class="gg" src="img/PaladinIcon.jpg">
-              <div><a href="Paladin.php" class="">遊俠</a>
-
-              </div>
+              </div> 
+			  <i class="fas fa-arrow-down"></i><br><div class="not"><img class="gg" src="img/PaladinIcon.jpg"><div><a href="Paladin.php" class="">遊俠</a></div></div>
             </td>
             <td class="t19 trm not">
               <img class="gg" src="img/HeavyCamelIcon.jpg">
@@ -418,8 +413,8 @@ and (max-device-width: 480px)  {
               </div><i class="fas fa-arrow-down"></i>
 
               <br>
-              <img class="gg not" src="img/ImperialCamelIcon.jpg">
-              <div><a href="Imperial_Camel.php" class="not">帝王駱駝騎兵</a>
+              <img class="gg" src="img/ImperialCamelIcon.jpg">
+              <div><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
 
               </div>
             </td>

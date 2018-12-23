@@ -426,7 +426,7 @@
                     <td class="tunitc6">步兵護甲+1/+2。</td>
                   </tr>
                 </table>
-                 <h3><a href="unitech.php">城堡特殊科技</a></h3> 
+                 <h3><a href="untech.php">城堡特殊科技</a></h3> 
                 <div class="hrn1"></div>
                 <table class="table-bordered table-striped" width="100%">
                   <tr>

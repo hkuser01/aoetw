@@ -246,7 +246,7 @@ and (max-device-width: 480px)  {
         <td class="t15 trm">
           <img class="gg" src="img/CavalryArcherIcon.jpg"><a href="Cavalry_Archer.php"><div>馬弓騎兵</div></a><i class="fas fa-arrow-down"></i> 
         </td>
-        <td class="t15 trm">
+        <td class="t15 trm not">
           <img class="gg" src="img/Slingericon.png"><a href="Slinger.php"><div>投石手</div></a>
         </td>
         <td class="t15 trm not">

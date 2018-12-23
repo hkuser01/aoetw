@@ -92,7 +92,7 @@
           <div class="n1">
             <h3><em><a href="aok.php">帝王世紀</a></em></h3> 
             <ul>
-              <li>城門從封建時代都是27500HP。</li>
+              <li>城門從封建時代都是2750HP。</li>
               <li>升級到垛牆需要200食物和100石材。</li>
             </ul>
             <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 

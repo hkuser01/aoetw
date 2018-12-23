@@ -380,7 +380,7 @@
               <tr>
                 <td class="unit3">從升級</td>
                 <td class="unit4">
-                  <img class="gg" src="img/EliteSkirmisherIcon.jpg" alt=""><a href="EliteSkirmisher.php">戰矛兵</a>
+                  <img class="gg" src="img/EliteSkirmisherIcon.jpg" alt=""><a href="Elite_Skirmisher.php">戰矛兵</a>
                 </td>
               </tr>
         </table>

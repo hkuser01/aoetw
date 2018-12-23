@@ -45,8 +45,11 @@
             </li>
             <li class="nav-item"> <a class="nav-link" href="http://aoetw.com/save">記錄檔區</a> 
             </li>
-            </li>
+            <li>
             <li class="nav-item"> <a class="nav-link" href="vie.php">科技樹</a> 
+            </li>
+            <li>
+            <li class="nav-item"> <a class="nav-link" href="map.php">地圖</a> 
             </li>
             <div class="nav-item">
             <input id="tags" style="padding-bottom: 5px;height: calc(2.25rem + 2px); font-size: 1rem; line-height: 1.5; color: #495057; background-color: #fff; border: 1px solid #ced4da; border-radius: .25rem;">

@@ -1072,7 +1072,7 @@ and (max-device-width: 480px)  {
           <div><a href="Herbal_Medicine.php">草藥學</a>
           </div>
         </td>
-        <td class="t11 trm">
+        <td class="t11 trm not">
           <img class="gg" src="img/Heresy.png" width="30" alt="">
           <div><a href="Heresy.php">異端邪說</a>
           </div>

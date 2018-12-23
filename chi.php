@@ -145,7 +145,7 @@ and (max-device-width: 480px)  {
             </div> <i class="fas fa-arrow-down"></i>
 
           </td>
-          <td class="t19 trm">
+          <td class="t19 trm not">
             <img class="gg" src="img/EagleScoutIcon.jpg" alt="">
             <div><a href="Eagle_Scout.php">鷹斥侯</a>
 
@@ -383,7 +383,7 @@ and (max-device-width: 480px)  {
       "><img class="ng " src="img/Castleicon.png " alt=" "></a>                <div id="城堡
       "><a href="Castle.php
       ">城堡</a></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><a href="Castle_Age.php
-      ">城堡時代</a></td>         <td class="t13 trm ">          <img class="gg " src="img/JaguarWarriorIcon.jpg
+      ">城堡時代</a></td>         <td class="t13 trm ">          <img class="gg " src="img/ChuKoNuIcon.jpg
       " width="30 " alt=" "><div><a href="Chu_Ko_Nu.php ">連弩兵</a></div><i class="fas
       fa-arrow-down ">          </td>          <td class="t13 trm
       ">            <img class="gg " src="img/PetardIcon.jpg " width="30 " alt=" "><div><a href="Petard.php
@@ -393,7 +393,7 @@ and (max-device-width: 480px)  {
       "></td>          <td class="t13 trm "></td>          <td class="t13 trm
       "></td>          <td class="t13 trm "></td>            </tr>        <tr>          <td style=" vertical-align:
       middle; " class="t5 trm im "><a href="Imperial_Age.php
-      ">帝王時代</a></td>          <td class="t13 trm "><img class="gg " src="img/JaguarWarriorIcon.jpg " width="30
+      ">帝王時代</a></td>          <td class="t13 trm "><img class="gg " src="img/ChuKoNuIcon.jpg " width="30
       " alt=" "><div><a href="Chu_Ko_Nu.php
       ">精銳連弩兵</a></div></td>          <td class="t13 trm "><img class="gg " src="img/TrebuchetPackedIcon.jpg " width="30
       " alt=" "><div><a href="Trebuchet.php

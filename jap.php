@@ -196,7 +196,7 @@ and (max-device-width: 480px)  {
             <div><a href="Halberdier.php">戟兵</a>
             </div>
           </td>　　　　
-          <td class="t19 trm">
+          <td class="t19 trm not">
             <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt="">
             <div><a href="Eagle_Warrior.php not">精銳鷹勇士</a>
             </div>

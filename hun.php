@@ -254,7 +254,7 @@ $(document).ready(function(){
           <td class="t15 trm not"><img class="gg" src="img/ArbalestIcon.jpg"><a href="Arbalest.php"><div>強弩兵</div></a></td>
           <td class="t15 trm not"><img class="gg" src="img/Imperialskirmishericon.png"><a href="Imperial_Skirmisher.php"><div>帝王戰矛兵</div></a></td>
           <td class="t15 trm"><img class="gg" src="img/HeavyCavArcherIcon.jpg"><a href="Heavy_Cavalry_Archer.php"><div>重裝馬弓騎兵</div></a></td>
-          <td class="t15 trm"><img class="gg" src="img/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php"><div>火槍兵</div></a></td>
+          <td class="t15 trm not"><img class="gg" src="img/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php"><div>火槍兵</div></a></td>
           <td class="t15 trm not"><img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php"><div>精銳標槍騎兵</div></a></td>
           <td class="t15 trm"><img class="gg" src="img/Parthian-Tactics.jpg"><a href="Parthian_Tactics.php"><div>帕提亞戰術</div></a></td>
         </tr>

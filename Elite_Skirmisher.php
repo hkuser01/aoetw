@@ -459,7 +459,7 @@
             <tr>
               <td class="unit3">從升級</td>
               <td class="unit4">
-                <img class="gg" src="img/SkirmisherIcon.jpg" alt=""><a href="EliteSkirmisher.php">矛兵</a>
+                <img class="gg" src="img/SkirmisherIcon.jpg" alt=""><a href="Skirmisher.php">矛兵</a>
 
               </td>
             </tr>

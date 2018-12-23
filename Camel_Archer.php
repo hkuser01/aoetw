@@ -27,7 +27,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>駱駝弓騎兵<a href="ak.php">《世界帝國II HD:非洲王朝》</a>資料片中<a href="Berbers.php">柏柏</a>的特殊單位，能夠在
+            <p>駱駝弓騎兵<a href="ak.php">非洲王朝</a>資料片中<a href="Berbers.php">柏柏</a>的特殊單位，能夠在
               <a
               href="Castle_Age.php">城堡時代</a>的<a href="Castle.php">城堡</a>中訓練。是個對<a href="Cavalry_Archer.php">馬弓騎兵</a>有攻擊加成的騎馬射手。</p>
             <p>駱駝弓騎兵可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳駱駝弓騎兵。</div>
@@ -164,7 +164,7 @@
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Maghrabi Camels.php">馬格拉比駱駝</a>(給予回血能力)</td>
+                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Maghrabi_Camels.php">馬格拉比駱駝</a>(給予回血能力)</td>
             </tr>
           </table>
            <h3>團隊加成</h3>
@@ -172,12 +172,10 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高駱駝弓騎兵的生產速度還有加速
-                <a
-                href="Conscription.php">徵兵制度</a>、<a href="Kasbah.php">聚居堡壘</a>、<a href="Maghrabi Camels.php">馬格拉比駱駝</a>的研究時間(快25%)</li>
+              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高駱駝弓騎兵的生產速度還有加速</li>
+              <li><a href="Conscription.php">徵兵制度</a>、<a href="Kasbah.php">聚居堡壘</a>、<a href="Maghrabi_Camels.php">馬格拉比駱駝</a>的研究時間(快25%)</li>
               <li><a href="Britons.php">不列顛</a>：研究<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
-              <li><a href="Huns.php">匈奴</a>：研究<a href="Bloodlines.php">品種</a>和<a href="Husbandry.php">畜牧培育</a>速度快80%。</li>
-              <li><a href="Indians.php">印度</a>：駱駝弓騎兵對<a href="bulding.php">建築物</a>攻擊+5。</li>
+              <li><a href="Huns.php">匈奴</a>：研究<a href="Bloodlines.php">品種</a>和<a href="Husbandry.php">畜牧培育</a>速度快20%。</li>
               <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>速度快80%。</li>
               <li><a href="Teutons.php">條頓</a>：駱駝弓騎兵更不容易被招降。</li>
             </ul>

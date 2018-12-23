@@ -131,7 +131,7 @@
             <tr>
               <td>
                 <div class="unitcontent">
-                  <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a> 
+                  <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a>(義大利及其同盟限定)
                 </div>
               </td>
             </tr>

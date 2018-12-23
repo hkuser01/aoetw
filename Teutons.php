@@ -47,7 +47,7 @@
             </ul>
             <h3>特殊單位</h3>
             <ul>
-              <li><img class="gg" src="img/Crusade_avatar.jpg" alt="">條頓武士:厚重緩慢，但是戰鬥力近乎恐怖的步兵，對建築物有加成</li>
+              <li><img class="gg" src="img/Crusade_avatar.png">條頓武士:厚重緩慢，但是戰鬥力近乎恐怖的步兵，對建築物有加成</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
@@ -75,6 +75,37 @@
             <em><a href="teu.php">條頓科技樹</a></em>
           </div>
           <br>
+           <h3>更新日誌</h3>
+
+          <div class="hrn1"></div>
+          <div class="n1">
+            <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+            <ul>
+              <li>城鎮中心有+2攻擊與+5射程</li>
+              <li>條頓武士移動速度0.65</li>
+              <li>條頓武士訓練時間為19秒</li>
+              <li>非精銳條頓武士有70hp</li>
+            </ul>
+             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+            <ul>
+              <li>城鎮中心有+2攻擊與+5視野</li>
+              <li>條頓人免費垛口</li>
+              <li>條頓武士訓練時間為12秒</li>
+            </ul>
+             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+            <ul>
+              <li>城鎮中心移除+2攻擊與+5視野，變成可以駐守25個單位</li>
+              <li>非精銳條頓武士有80hp</li>
+              <li>鋼鐵甲成本為500W/350G</li>      
+            </ul>
+           <h3><em><a href="ak.php">非洲王國</a></em></h3>
+            <ul>
+              <li>鋼鐵甲現在成本為400W/350G</li>
+              <li>4.8版本後條頓武士移動速度為0.7</li>
+            </ul>
+          </div>
+
+
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">

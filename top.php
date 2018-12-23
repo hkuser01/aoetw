@@ -109,17 +109,17 @@
 </td></tr><tr><td style="text-align:center"><img src="img/Viper.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/no.png" alt="">挪威　
     <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"><img src="img/secret.jpg" alt="">Secret</a>
-</td></tr><tr><td style="text-align:center">單挑2729　團戰2208　1991年次
+</td></tr><tr><td style="text-align:center">單挑2729　團戰2220　1991年次
 </td></tr><tr><td>2012以來公認的最強玩家，微操、大局觀、單挑、團戰都到了前無古人的水準，能適應任何地圖打法，認真參加的比賽幾乎都能拿冠軍。
 </td></tr><tr><td>近期成就：WSVG冠軍、KotD冠軍、EGM八屆七冠、AD兩冠、BoA冠軍、4v4三冠
 </td></tr></table></div>
 
-<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h3><strong>Lierey 
+<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h3><strong>Liereyy 
     <a href="https://www.voobly.com/profile/view/124147336/Matches"><img src="img/Voobly.jpg" alt=""></a> 
     <a href="https://www.twitch.tv/liereyy"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/Lierey.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/at.png" alt="">奧地利　<img src="img/aM.jpg" alt="">aM
-</td></tr><tr><td style="text-align:center">單挑2593　團戰2275　2002年次
+</td></tr><tr><td style="text-align:center">單挑2625　團戰2275　2002年次
 </td></tr><tr><td>2017崛起的天才玩家，控兵能力令人嘆為觀止，在許多比賽皆拿到僅次於 Viper 的成績。團戰亦屬最頂級，以與 Heart 的絕佳配合聞名。
 </td></tr><tr><td>KotD冠軍戰4:5惜敗Viper獲亞軍、AreD17亞軍、BoA亞軍
 </td></tr></table></div>
@@ -203,7 +203,7 @@
 </td></tr><tr><td>EGM3亞軍、MoA3季軍、AD17冠軍、BoA亞軍、ND18季軍
 </td></tr></table></div>
 
-<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h3><strong>Heart 
+<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h3><strong>Hearttt 
     <a href="https://www.voobly.com/profile/view/124386524/Matches"><img src="img/Voobly.jpg" alt=""></a> 
     <a href="https://www.twitch.tv/hearttt_"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/Hearttt.jpg" width="276" alt="">
@@ -258,7 +258,7 @@
     <a href="https://www.twitch.tv/miguelaoc"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/miguel.png" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/br.png" alt="">巴西　<img src="img/BzK.jpg" alt="">BzK
-</td></tr><tr><td style="text-align:center">單挑2423　團戰2257　1993年次
+</td></tr><tr><td style="text-align:center">單挑2423　團戰2257　1992年次
 </td></tr><tr><td>團戰頂級玩家，擅長快速發展爆大量遊俠。提倡內家肉馬並在 NC17 奪冠後改變了陸圖團戰的生態。
 </td></tr><tr><td>MoRM季軍、MoA1冠軍、AD17亞軍、AreD兩冠、WiC季軍、NC17冠軍
 </td></tr></table></div>
@@ -380,7 +380,7 @@
     <a href="https://www.twitch.tv/toreeeee"><img src="img/Twitch.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/zu.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/fi.png" alt="">芬蘭 Suomi　<img src="img/NaBs.jpg" alt="">NaBs
-</td></tr><tr><td style="text-align:center">單挑2376　1990年次
+</td></tr><tr><td style="text-align:center">單挑2406　1990年次
 </td></tr><tr><td>團戰主要負責蒙古，擅常在配兵上智商壓制，經濟和控制都很出色。
 </td></tr><tr><td>ND16殿軍、AD17季軍、BoA四強、NC17亞軍、WiC與王者之師第五名
 </td></tr></table></div>
@@ -400,7 +400,7 @@
     <a href="https://www.panda.tv/243001"><img src="img/Panda.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/Tim.png" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/cn.png" alt="">中國 Frantic
-</td></tr><tr><td style="text-align:center">單挑2552　團戰2214　1985年次
+</td></tr><tr><td style="text-align:center">單挑2559　團戰2214　1985年次
 </td></tr><tr><td>Yo 前的中國第一，原本圍牆非常有名但現在已較少圍了。間接使 grass 在世紀圈成為罵人用語。
 </td></tr><tr><td>近期成就：阿拉伯大師賽冠軍、MR大師賽亞軍、4v4三季
 </td></tr></table></div>
@@ -419,7 +419,7 @@
     <a href="https://www.douyu.com/1052202"><img src="img/douyu.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/5c.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/cn.png" alt="">中國
-</td></tr><tr><td style="text-align:center">單挑2668　1994年次
+</td></tr><tr><td style="text-align:center">單挑2673　1994年次
 </td></tr><tr><td>單挑前置從塔到僧投接城堡的戰術非常強勢，西征甩槍操作享譽國際。團戰較弱，不擅圍牆。累計退出 SY 兩次、Tim 的隊伍四次。
 </td></tr><tr><td>BoA四強、王者之師殿軍、NC17季軍
 </td></tr></table></div>
@@ -444,7 +444,7 @@
 </td></tr><tr><td>MoA4冠軍、AreD兩冠
 </td></tr></table></div>
 
-<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h3><strong>Matt 
+<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h3><strong>Melkor 
     <a href="https://www.voobly.com/profile/view/123922182/Matches"><img src="img/Voobly.jpg" alt=""></a> 
     <a href="https://www.twitch.tv/braoe2"><img src="img/Twitch.jpg" alt=""></a> 
     <a href="https://www.youtube.com/channel/UCA4ad3jJDfg6A3FHsG_jkqg/videos"><img src="img/YouTube.jpg" alt=""></a></strong></h3>
@@ -461,7 +461,7 @@
     <a href="https://www.youtube.com/gktcloud/videos"><img src="img/YouTube.jpg" alt=""></a></strong></h3>
 </td></tr><tr><td style="text-align:center"><img src="img/no.jpg" width="276" alt="">
 </td></tr><tr><td class="tor" style="text-align:center"><img src="img/tw.png" alt="">臺灣　<img src="img/Alliance.jpg" alt="">Alliance
-</td></tr><tr><td style="text-align:center">單挑2375　團戰2035　1984年次
+</td></tr><tr><td style="text-align:center">單挑2384　團戰2035　1984年次
 </td></tr><tr><td>臺灣目前唯一能站上世界舞臺的高手。裝甲起手熟練，後期比前期的水準更高。
 </td></tr><tr><td>EGM3第五名、KotD從Lierey手中拿到一勝、ECL2v2全勝
 </td></tr></table></div>
@@ -480,7 +480,7 @@
 
 <div><p>　</p>
 <p>照片來源：<a href="https://www.aoezone.net/">AoEZone 共享資源</a>、<a href="https://teamsecret.gg/">Secret 授權</a>、<a href="https://www.facebook.com/gametvgiaidau/">GameTV 授權</a>、選手本人提供</p>
-<p>本頁面由 Lanchi 整理，最後更新 2018/10/06</p></div>
+<p>本頁面由 Lanchi 整理，最後更新 2018/11/28</p></div>
 
 
 </div>
