@@ -369,7 +369,7 @@ jkey = [
 {"kWord":"遠防", "kUrl":"Armor_class.php", "kWeight":3},
 {"kWord":"防禦", "kUrl":"Armor_class.php", "kWeight":0},
 {"kWord":"巨港", "kUrl":"Harbor.php", "kWeight":0},
-{"kWord":"弓兵", "kUrl":"Archer_Units.php", "kWeight":0},
+{"kWord":"遠距離單位", "kUrl":"Archer_Units.php", "kWeight":0},
 {"kWord":"步兵", "kUrl":"Infantry_Units.php", "kWeight":0},
 {"kWord":"騎兵", "kUrl":"Cavalry_Units.php", "kWeight":0},
 {"kWord":"裝甲塔", "kUrl":"armstower.php", "kWeight":3},
@@ -575,7 +575,8 @@ jkey = [
 {"kWord":"失落的王朝", "kUrl":"aof.php", "kWeight":0},
 {"kWord":"非洲王國", "kUrl":"ak.php", "kWeight":0},
 {"kWord":"王者崛起", "kUrl":"aor.php", "kWeight":0},
-{"kWord":"勘查", "kUrl":"Reconquista.php", "kWeight":0}
+{"kWord":"勘查", "kUrl":"Reconquista.php", "kWeight":0},
+{"kWord":"回血", "kUrl":"Regeneration.php", "kWeight":0}
 ];
 var KeywordMap = new Map();
 $( document ).ready(function() {

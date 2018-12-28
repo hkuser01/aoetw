@@ -343,7 +343,7 @@
                   <img class="gg" src="img/Stone_Shaft_Mining.jpg" width="30" alt=""><a href="Stone_Shaft_Mining.php">礦井採石</a>(+15%)</p>
                 <li>黃金:</li>
                 <p>
-                  <img class="gg" src="img/Goldmining.jpg" width="30" alt=""><a href="Gold Mining.php">採金技術</a>(+15%)</p>
+                  <img class="gg" src="img/Goldmining.jpg" width="30" alt=""><a href="Gold_Mining.php">採金技術</a>(+15%)</p>
                 <p>
                   <img class="gg" src="img/Goldshaftmining.jpg" width="30" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>(+15%)</p>
                 <p>

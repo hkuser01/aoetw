@@ -105,7 +105,7 @@
 
                     </li>
                     <li>
-                      <img class="gg" src="img/LongboatIcon.jpg"><a href="LongBoat.php">維京大戰船</a>
+                      <img class="gg" src="img/LongboatIcon.jpg"><a href="Longboat.php">維京大戰船</a>
 
                     </li>
                     <li>
@@ -152,7 +152,7 @@
 
                     </li>
                     <li>
-                      <img class="gg" src="img/LongboatIcon.jpg"><a href="LongBoat.php">精銳維京大戰船</a>
+                      <img class="gg" src="img/LongboatIcon.jpg"><a href="Longboat.php">精銳維京大戰船</a>
 
                     </li>
                     <li>

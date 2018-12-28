@@ -170,9 +170,9 @@
             <div class="n1">
               <ul>
                 <li><a href="Aztecs.php">阿茲特克</a>：遺跡產生的黃金增加33%</li>
-                <li><a href="Malians.php">馬利</a>：研發<a href="Town_Watch.php">磚瓦技術</a>、<a href="Town_Watch.php"> 建築學</a>、
+                <li><a href="Malians.php">馬利</a>：研發<a href="Masonry.php">磚瓦技術</a>、<a href="Architecture.php"> 建築學</a>、
                   <a
-                  href="Town_Watch.php">滑輪起重機</a>科技的時間加快80%</li>
+                  href="Treadmill_Crane.php">滑輪起重機</a>科技的時間加快80%</li>
               </ul>
             </div>
              <h3>更新日誌</h3> 

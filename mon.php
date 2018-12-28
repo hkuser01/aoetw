@@ -435,7 +435,7 @@ and (max-device-width: 480px)  {
       "></a>                <div><a href="Mining_Camp.php
       ">採礦營地</a></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><a href="Feudal_Age.php
       ">封建時代</a></td>                     <td class="t23 trm "><img class="gg " src="img/Goldmining.jpg " alt="
-      "><div><a href="Gold Mining.php ">採金技術</a></div><i class="fas fa-arrow-down
+      "><div><a href="Gold_Mining.php ">採金技術</a></div><i class="fas fa-arrow-down
       "></i></td>        <td class="t23 trm "><img class="gg " src="img/Stonemining.jpg " alt="
       "><div><a href="Stone_Mining.php ">採石技術</a></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t23 trm "></td>         <td class="t23 trm
@@ -474,7 +474,7 @@ and (max-device-width: 480px)  {
       ">神風船</a></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm
       "><img class="gg " src="img/WarGalley.jpg "><div><a href="War_Galley.php
       ">弩炮戰船</a></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm not
-      "><img class="gg " src="img/LongboatIcon.jpg "><div><a href="LongBoat.php
+      "><img class="gg " src="img/LongboatIcon.jpg "><div><a href="Longboat.php
       ">維京大戰船</a></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm not
       "><img class="gg " src="img/TurtleShipIcon.jpg "><div><a href="Turtle_Ship.php
       ">龜甲船</a></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm not
@@ -492,7 +492,7 @@ and (max-device-width: 480px)  {
       "><div><a href="Heavy_Demolition_Ship.php
       ">重型神風船</a></div></td>                                <td class="t10 trm "><img class="gg " src="img/GalleonAoE2.jpg "><div><a href="Galleon.php
       ">重型弩炮戰船</a></div></td>                    <td class="t10 trm not "><img class="gg " src="img/LongboatIcon.jpg
-      "><div><a href="LongBoat.php ">精銳維京大戰船</a></div></td>          <td class="t10 trm not
+      "><div><a href="Longboat.php ">精銳維京大戰船</a></div></td>          <td class="t10 trm not
       "><img class="gg " src="img/TurtleShipIcon.jpg "><div><a href="Turtle_Ship.php
       ">精銳龜甲船</a></div></td>          <td class="t10 trm not "><img class="gg " src="img/CaravelIcon2.jpg
       "><div><a href="Caravel.php ">精銳卡拉維爾戰船</a></div></td>                    <td class="t10

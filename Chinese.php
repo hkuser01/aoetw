@@ -68,6 +68,11 @@
               <p><strong>團隊加分:</strong>農田可生產食物+45</p>
             </ul>
           </div>
+		  <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="chi.php">中國科技樹</a></em>
+          </div>
            <h3>戰術概論</h3>
 
           <div class="hrn1"></div>

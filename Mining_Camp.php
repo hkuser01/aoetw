@@ -39,7 +39,7 @@
                  <h4><a href="Feudal_Age.phpp"></a>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Goldmining.jpg" alt=""><a href="Gold Mining.php">採金技術</a>
+                    <img class="gg" src="img/Goldmining.jpg" alt=""><a href="Gold_Mining.php">採金技術</a>
                   </li>
                   <li>
                     <img class="gg" src="img/Stonemining.jpg" alt=""><a href="Stone_Mining.php">採石技術</a>

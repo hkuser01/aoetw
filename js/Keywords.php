@@ -4,6 +4,7 @@ $json = '[
 {"kWord":"特殊單位", "kUrl":"Unique_Unit.php", "kWeight":0},
 {"kWord":"遠距離單位", "kUrl":"Archer_Units.php", "kWeight":0},
 {"kWord":"海軍", "kUrl":"Naval_Vessels.php", "kWeight":0},
+{"kWord":"回血", "kUrl":"Regeneration.php", "kWeight":0},
 {"kWord":"攻城武器", "kUrl":"Siege_Weapons.php", "kWeight":0},
 {"kWord":"軍營", "kUrl":"Barracks.php", "kWeight":0},
 {"kWord":"民兵", "kUrl":"Militia.php", "kWeight":0},
@@ -574,10 +575,12 @@ $json = '[
 {"kWord":"遠防", "kUrl":"Armor_class.php", "kWeight":3},
 {"kWord":"防禦", "kUrl":"Armor_class.php", "kWeight":0},
 {"kWord":"巨港", "kUrl":"Harbor.php", "kWeight":0},
-{"kWord":"弓兵", "kUrl":"Archer_Units.php", "kWeight":0},
+{"kWord":"遠距離單位", "kUrl":"Archer_Units.php", "kWeight":0},
 {"kWord":"步兵", "kUrl":"Infantry_Units.php", "kWeight":0},
 {"kWord":"騎兵", "kUrl":"Cavalry_Units.php", "kWeight":0}
 ]';
 
-echo $json;
+if ($_POST["path"] != "http://www.aoetw.com/units.php") {
+	echo $json;
+}
  ?>

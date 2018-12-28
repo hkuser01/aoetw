@@ -125,7 +125,7 @@
               <li>
                 <img class="gg" src="img/CannonGalleonIcon.jpg" width="22" alt=""><a href="Cannon_Galleon.php">精銳火炮戰船</a>：遠距離攻擊戰船。(需先研發<a href="Chemistry.php">化學</a>)</li>
               <li>
-                <img class="gg" src="img/LongboatIcon.jpg" width="22" alt=""><a href="LongBoat.php">精銳維京大戰船</a>：：會射出多發箭矢的戰船。(限<a href="Vikings.php">維京</a>)</li>
+                <img class="gg" src="img/LongboatIcon.jpg" width="22" alt=""><a href="Longboat.php">精銳維京大戰船</a>：：會射出多發箭矢的戰船。(限<a href="Vikings.php">維京</a>)</li>
               <li>
                 <img class="gg" src="img/TurtleShipIcon.jpg" width="22" alt=""><a href="Turtleship.php">精銳龜甲船</a>：：可發射砲彈的重裝戰船。(限<a href="Koreans.php">韓國</a>)</li>
               <li>

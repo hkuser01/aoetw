@@ -113,10 +113,10 @@ $.ajax({
         url: './js/Keywords.php',
         type: 'POST',
         dataType: 'json',
-        data: { param1: 'value1' },
+        data: { path: window.location.href },
     })
     .done(function(e) {
-        // console.log(e);
+        //console.log(e);
 
         var Diffdata = [];
         var NoDiffdata = [];
