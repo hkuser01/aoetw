@@ -576,7 +576,8 @@ jkey = [
 {"kWord":"非洲王國", "kUrl":"ak.php", "kWeight":0},
 {"kWord":"王者崛起", "kUrl":"aor.php", "kWeight":0},
 {"kWord":"勘查", "kUrl":"Reconquista.php", "kWeight":0},
-{"kWord":"回血", "kUrl":"Regeneration.php", "kWeight":0}
+{"kWord":"回血", "kUrl":"Regeneration.php", "kWeight":0},
+{"kWord":"駐軍", "kUrl":"Garrison.php", "kWeight":0}
 ];
 var KeywordMap = new Map();
 $( document ).ready(function() {

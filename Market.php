@@ -40,15 +40,15 @@
                  <h4><a href="Feudal_Age.php">封建時代</a></h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/TradeCartIcon.jpg"><a href="Tradecartavailable.php">貿易車隊</a>
+                    <img class="gg" src="img/TradeCartIcon.jpg"><a href="Trade_Cart.php">貿易車隊</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Cartography.jpg"><a href="Cartographyavailable.php">製圖學</a>
+                    <img class="gg" src="img/Cartography.jpg"><a href="Cartography.php">製圖學</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Coinage.jpg"><a href="Coinageavailable.php">鑄幣術</a>
+                    <img class="gg" src="img/Coinage.jpg"><a href="Coinage.php">鑄幣術</a>
 
                   </li>
                 </ul>
@@ -59,11 +59,11 @@
                  <h4><a href="Castle_Age.php">城堡時代</a></h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/CaravanII.png"><a href="Caravanavailable.php">大商隊</a>
+                    <img class="gg" src="img/CaravanII.png"><a href="Caravan.php">大商隊</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Banking.jpg"><a href="Bankingavailable.php">銀行制度</a>
+                    <img class="gg" src="img/Banking.jpg"><a href="Banking.php">銀行制度</a>
 
                   </li>
                 </ul>
@@ -74,7 +74,7 @@
                  <h4><a href="Imperial_Age.php">帝王時代</a></h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Guilds.jpg"><a href="Guildsavailable.php">行會制度</a>
+                    <img class="gg" src="img/Guilds.jpg"><a href="Guilds.phpp">行會制度</a>
 
                   </li>
                 </ul>
@@ -142,7 +142,7 @@
             <tr>
               <td class="tta1">其他</td>
               <td class="tta4">
-                <img class="gg" src="img/Guilds.jpg"><a href="Guildsavailable.php">行會制度</a>:在市場交易課稅減至15%</td>
+                <img class="gg" src="img/Guilds.jpg"><a href="Guilds.phpp">行會制度</a>:在市場交易課稅減至15%</td>
             </tr>
           </table>
            <h3>文明加成</h3>
@@ -180,7 +180,7 @@
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
             <ul>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
-              <li>引入<a href="Caravanavailable.php">大商隊</a>。</li>
+              <li>引入<a href="Caravan.php">大商隊</a>。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
 

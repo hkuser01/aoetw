@@ -123,9 +123,9 @@
                <div class="nw">
                   <h4 style="margin-top:30px;"><strong>每周精選</strong></h4>
                   <ul>
-                     <li><a href="Persians.php">波斯</a></li>
-                     <li><a href="Villager.php">村民</a></li>
-                     <li><a href="Castle.php">城堡</a></li>
+                     <li><a href="Taunts.php">嘲諷語音</a></li>
+                     <li><a href="Regeneration.php">回血</a></li>
+                     <li><a href="Garrison.php">駐軍</a></li>
                      <li><a href="Wonder.php">世界奇觀</a></li>
                   </ul>
                </div>

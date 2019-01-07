@@ -131,7 +131,7 @@
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
+                <img class="gg" src="img/Universityicon.png" class="gg" alt=""><a href="University.php">學院</a>
               </td>
             </tr>
             <tr>

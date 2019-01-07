@@ -65,7 +65,7 @@
                     <img class="gg" src="img/OnagerIcon.jpg" width="30" alt=""><a href="Onager.php">中型投石車</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/SiegeOnagerIcon.jpg" width="30" alt=""><a href="Siege Onager.php">重型投石車</a>
+                    <img class="gg" src="img/SiegeOnagerIcon.jpg" width="30" alt=""><a href="Siege_Onager.php">重型投石車</a>
                   </li>
                   <li>
                     <img class="gg" src="img/HeavyScorpionIcon.jpg" width="30" alt=""><a href="Heavy_Scorpion.php">重型弩砲</a>

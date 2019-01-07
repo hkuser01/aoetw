@@ -577,7 +577,8 @@ $json = '[
 {"kWord":"巨港", "kUrl":"Harbor.php", "kWeight":0},
 {"kWord":"遠距離單位", "kUrl":"Archer_Units.php", "kWeight":0},
 {"kWord":"步兵", "kUrl":"Infantry_Units.php", "kWeight":0},
-{"kWord":"騎兵", "kUrl":"Cavalry_Units.php", "kWeight":0}
+{"kWord":"騎兵", "kUrl":"Cavalry_Units.php", "kWeight":0},
+{"kWord":"駐軍", "kUrl":"Garrison.php", "kWeight":0}
 ]';
 
 if ($_POST["path"] != "http://www.aoetw.com/units.php") {

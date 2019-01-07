@@ -61,7 +61,7 @@
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Scalemailarmor.jpg" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>
+                      <img class="gg" src="img/Scalemailarmor.jpg" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>
 
                     </li>
                   </ul>
@@ -88,7 +88,7 @@
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Chainmailarmor.jpg" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>
+                      <img class="gg" src="img/Chainmailarmor.jpg" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>
 
                     </li>
                   </ul>
@@ -115,7 +115,7 @@
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Platemailarmor.jpg" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>
+                      <img class="gg" src="img/Platemailarmor.jpg" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>
 
                     </li>
                   </ul>

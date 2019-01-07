@@ -301,7 +301,7 @@ $(document).ready(function(){
           <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a></td>
            <td class="t23 trm"><img class="gg" src="img/CappedRamIcon.jpg" width="30" alt=""><div><a href="Capped_Ram.php">裝甲衝撞車</a></div><i class="fas fa-arrow-down"></i><br><img class="gg not" src="img/SiegeRamIcon.jpg" width="30" alt=""><div><a href="Siege_Ram.php" class="not">重型衝撞車</a></div></td>
           <td class="t23 trm"><img class="gg" src="img/OnagerIcon.jpg" width="30" alt=""><div><a href="Onager.php">中型投石車</a></div><i class="fas fa-arrow-down"></i><br>
-            <img class="gg " src="img/SiegeOnagerIcon.jpg" width="30" alt=""><div><a href="Siege Onager.php" class="">重型投石車</a></div></td>
+            <img class="gg " src="img/SiegeOnagerIcon.jpg" width="30" alt=""><div><a href="Siege_Onager.php" class="">重型投石車</a></div></td>
           <td class="t23 trm not"><img class="gg" src="img/HeavyScorpionIcon.jpg" width="30" alt=""><div><a href="Heavy_Scorpion.php">重型弩砲</a></div></td>    
           <td class="t23 trm "><img class="gg" src="img/BombardCannonIcon.jpg" width="30" alt=""><div><a href="Bombard_Cannon.php">火砲</a></div></td>     
         </tr>
@@ -576,7 +576,7 @@ $(document).ready(function(){
           <td class="t19 trm"><img class="gg" src="img/Fletching.jpg" alt=""><div><a href="Fletching.php">箭羽</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm"><img class="gg" src="img/Forging.jpg" alt=""><div><a href="Forging.php">鍛造</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm "><img class="gg" src="img/Scalebardingarmor.jpg" alt=""><div><a href="Scale_Barding_Armor.php">騎兵鱗甲</a></div><i class="fas fa-arrow-down"></i></td>
-          <td class="t19 trm"><img class="gg" src="img/Scalemailarmor.jpg" alt=""><div><a href="Scale Mail Armor.php">步兵鱗甲</a></div><i class="fas fa-arrow-down"></i></td>
+          <td class="t19 trm"><img class="gg" src="img/Scalemailarmor.jpg" alt=""><div><a href="Scale_Mail_Armor.php">步兵鱗甲</a></div><i class="fas fa-arrow-down"></i></td>
      </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm ca"><div><a href="Castle_Age.php">城堡時代</a></td>
@@ -585,7 +585,7 @@ $(document).ready(function(){
           <td class="t19 trm"><img class="gg" src="img/Bodkinarrow.jpg" alt=""><div><a href="Bodkin_Arrow.php">錐狀箭頭</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm"><img class="gg" src="img/Ironcasting.jpg" alt=""><div><a href="Iron_Casting.php">鑄造</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm "><img class="gg" src="img/Chainbardingarmor.jpg" alt=""><div><a href="Chain_Barding_Armor.php">騎兵鎖甲</a></div><i class="fas fa-arrow-down"></i></td>
-          <td class="t19 trm"><img class="gg" src="img/Chainmailarmor.jpg" alt=""><div><a href="Chain Mail Armor.php">步兵鎖甲</a></div><i class="fas fa-arrow-down"></i></td>
+          <td class="t19 trm"><img class="gg" src="img/Chainmailarmor.jpg" alt=""><div><a href="Chain_Mail_Armor.php">步兵鎖甲</a></div><i class="fas fa-arrow-down"></i></td>
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><div><a href="Imperial_Age.php">帝王時代</a></div></td>
@@ -593,7 +593,7 @@ $(document).ready(function(){
           <td class="t19 trm"><img class="gg" src="img/Bracer.jpg" alt=""><div><a href="Bracer.php">護腕</a></div></td>
           <td class="t19 trm"><img class="gg" src="img/Blastfurnace.jpg" alt=""><div><a href="Blast_Furnace.php">鐵風爐</a></div></td>
           <td class="t19 trm not"><img class="gg" src="img/Platebardingarmor.jpg" alt=""><div><a href="Plate_Barding_Armor.php">騎兵板甲</a></div></td>
-          <td class="t19 trm"><img class="gg" src="img/Platemailarmor.jpg" alt=""><div><a href="Plate Mail Armor.php">步兵板甲</a></div></td>
+          <td class="t19 trm"><img class="gg" src="img/Platemailarmor.jpg" alt=""><div><a href="Plate_Mail_Armor.php">步兵板甲</a></div></td>
         </tr>
     </table>
 
@@ -608,24 +608,24 @@ $(document).ready(function(){
     <td style=" vertical-align: middle; " class="t5 trm fe"><a href="Feudal_Age.php">封建時代</a></td>           
         
        
-         <td class="t23 trm"><img class="gg" src="img/Cartography.jpg"><div><a href="Cartographyavailable.php">製圖學</a></div><i class="fas fa-arrow-down"></i></td>
-         <td class="t23 trm"><img class="gg" src="img/TradeCartIcon.jpg"><div><a href="Tradecartavailable.php">貿易車隊</a></div></td>  
+         <td class="t23 trm"><img class="gg" src="img/Cartography.jpg"><div><a href="Cartography.php">製圖學</a></div><i class="fas fa-arrow-down"></i></td>
+         <td class="t23 trm"><img class="gg" src="img/TradeCartIcon.jpg"><div><a href="Trade_Cart.php">貿易車隊</a></div></td>  
         <td class="t23 trm"></td>
           <td class="t23 trm"></td> 
      </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm ca"><div><a href="Castle_Age.php">城堡時代</a></td>
 
-         <td class="t23 trm"><img class="gg" src="img/CaravanII.png"><div><a href="Caravanavailable.php">大商隊</a></div></td>
-         <td class="t23 trm"><img class="gg" src="img/Coinage.jpg"><div><a href="Coinageavailable.php">鑄幣術</a></div><i class="fas fa-arrow-down"></i></td>
+         <td class="t23 trm"><img class="gg" src="img/CaravanII.png"><div><a href="Caravan.php">大商隊</a></div></td>
+         <td class="t23 trm"><img class="gg" src="img/Coinage.jpg"><div><a href="Coinage.php">鑄幣術</a></div><i class="fas fa-arrow-down"></i></td>
          <td class="t23 trm"></td> 
          <td class="t23 trm"></td>
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><div><a href="Imperial_Age.php">帝王時代</a></div></td>
 
-            <td class="t23 trm "><img class="gg" src="img/Guilds.jpg"><div><a href="Guildsavailable.php">行會制度</a></div></td>
-            <td class="t23 trm"><img class="gg" src="img/Banking.jpg"><div><a href="Bankingavailable.php">銀行制度</a></div></td>
+            <td class="t23 trm "><img class="gg" src="img/Guilds.jpg"><div><a href="Guilds.phpp">行會制度</a></div></td>
+            <td class="t23 trm"><img class="gg" src="img/Banking.jpg"><div><a href="Banking.php">銀行制度</a></div></td>
             <td class="t23 trm"></td> 
             <td class="t23 trm"></td>
         </tr>
@@ -679,12 +679,12 @@ $(document).ready(function(){
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm ca"><div><a href="Castle_Age.php">城堡時代</a></td>
          <td class="t11 trm "><img class="gg" src="img/Masonry.jpg" alt=""><div><a href="Masonry.php">磚瓦技術</a></div><i class="fas fa-arrow-down"></i></td>
-         <td class="t11 trm"><img class="gg" src="img/Fortified-wall-research.jpg" alt=""><div><a href="Fortified Wall.php">垛牆</a></td>
+         <td class="t11 trm"><img class="gg" src="img/Fortified-wall-research.jpg" alt=""><div><a href="Fortified_Wall.php">垛牆</a></td>
          <td class="t11 trm"><img class="gg" src="img/Ballistics.jpg" alt=""><div><a href="Ballistics.php">彈道學</a></div></td>
-         <td class="t11 trm"><img class="gg" src="img/Guard-tower-research.jpg" alt=""><div><a href="Guard Tower.php">防禦箭塔</a></div><i class="fas fa-arrow-down"></i></td>
-         <td class="t11 trm"><img class="gg" src="img/Heatedshot.png" alt=""><div><a href="Heated Shot.php">預熱射擊</a></div></td>
-         <td class="t11 trm"><img class="gg" src="img/Murderholes.jpg" alt=""><div><a href="Murder Holes.php">垛孔</a></div></td>
-         <td class="t11 trm"><img class="gg" src="img/Treadmillcrane.jpg" alt=""><div><a href="Treadmill Crane.php">滑輪起重機</a></td>
+         <td class="t11 trm"><img class="gg" src="img/Guard-tower-research.jpg" alt=""><div><a href="Guard_Tower.php">防禦箭塔</a></div><i class="fas fa-arrow-down"></i></td>
+         <td class="t11 trm"><img class="gg" src="img/Heatedshot.png" alt=""><div><a href="Heated_Shot.php">預熱射擊</a></div></td>
+         <td class="t11 trm"><img class="gg" src="img/Murderholes.jpg" alt=""><div><a href="Murder_Holes.php">垛孔</a></div></td>
+         <td class="t11 trm"><img class="gg" src="img/Treadmillcrane.jpg" alt=""><div><a href="Treadmill_Crane.php">滑輪起重機</a></td>
          <td class="t11 trm"></td>
 
         <tr>

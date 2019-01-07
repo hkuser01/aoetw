@@ -24,7 +24,7 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"> <span class="navbar-toggler-icon"></span> 
         </button>
         <div class="collapse navbar-collapse" id="collapsibleNavbar">
-          <ul class="navbar-nav">
+          <ul class="navbar-nav text-nowrap">
             <li class="nav-item"> <a class="nav-link" href="civ.php">文明</a> 
             </li>
             <li class="nav-item"> <a class="nav-link" href="units.php">單位</a> 
