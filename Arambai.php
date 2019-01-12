@@ -143,7 +143,7 @@
             <ul>
               <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高飛鏢騎兵的生產速度和加速
                 <a
-                href="Manipur Cavalry.php">曼尼普爾騎兵</a>及<a href="Conscription.php">徵兵制度</a>的研發時間(快25%)</li>
+                href="Manipur_Cavalry.php">曼尼普爾騎兵</a>及<a href="Conscription.php">徵兵制度</a>的研發時間(快25%)</li>
               <li><a href="Huns.php">匈奴</a>：<a href="Bloodlines.php">品種</a>與<a href="Husbandry.php">畜牧技術</a>研發快20%。</li>
               <li><a href="Malians.php">馬利</a>：研發<a href="Ballistics.php">彈道學</a>速度快80%。</li>
               <li><a href="Teutons.php">條頓</a>：飛鏢騎兵更不容易被招降。</li>
