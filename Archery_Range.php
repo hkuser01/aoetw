@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,13 +20,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>射箭場</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           <div class="n1">射箭場是生產弓箭手與其他遠距部隊的建築。</div>
            <h3>可訓練的單位與技術</h3>
-
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-3">
@@ -37,11 +33,9 @@
                 <ul>
                   <li>
                     <img class="gg" src="img/ArcherIcon.jpg"><a href="Archer.php">弓兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/SkirmisherIcon.jpg"><a href="Skirmisher.php">矛兵</a>
-
                   </li>
                 </ul>
               </div>
@@ -52,27 +46,21 @@
                 <ul>
                   <li>
                     <img class="gg" src="img/CrossbowmanIcon.jpg"><a href="Crossbowman.php">弩兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/EliteSkirmisherIcon.jpg"><a href="Elite_Skirmisher.php">戰矛兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/CavalryArcherIcon.jpg"><a href="Cavalry_Archer.php">馬弓騎兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/Slingericon.png"><a href="Slinger.php">投石手</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php">標槍騎兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/Thumb_Ring.png"><a href="Thumb_Ring.php">拇指環</a>
-
                   </li>
                 </ul>
               </div>
@@ -83,34 +71,27 @@
                 <ul>
                   <li>
                     <img class="gg" src="img/ArbalestIcon.jpg"><a href="Arbalest.php">強弩兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/Imperialskirmishericon.png"><a href="Imperial_Skirmisher.php">帝王戰矛兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/HeavyCavArcherIcon.jpg"><a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php">火槍兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php">精銳標槍騎兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="img/Parthian-Tactics.jpg"><a href="Parthian_Tactics.php">帕提亞戰術</a>
-
                   </li>
                 </ul>
               </div>
             </div>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -157,7 +138,6 @@
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br>
                 <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -174,7 +154,6 @@
             </tr>
           </table>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -190,7 +169,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -205,11 +183,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>引入<a href="Thumb_Ring.php">拇指環</a>。</li>
               <li>引入<a href="Parthian_Tactics.php">帕提亞戰術</a>。</li>
@@ -217,7 +193,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>在世界大部分地區，弓箭這類的導彈武器人類從遠古時代到中世紀一直在使用。北歐是個例外，因為該地區茂密的森林使弓的範圍優勢無效。斧頭，標槍和刀子等投擲武器在那裡更受歡迎。隨著森林被清除，弓的使用更加普及。
@@ -230,7 +205,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">射箭場</a>
-
                 </div>
               </td>
             </tr>
@@ -244,7 +218,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">概要</a>
-
                 </div>
               </td>
             </tr>
@@ -259,13 +232,11 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Feudal_Age.php">封建時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">需要建設</td>
               <td class="unit4"><a href="Barracks.php">軍營</a>
-
               </td>
             </tr>
             <tr>
@@ -275,7 +246,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -286,7 +256,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -328,9 +297,7 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-
                 <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
-
               </td>
             </tr>
             <tr>
@@ -342,14 +309,12 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4"> <a href="img/ARFeudalAgeDLC.png"><img class="imgn" class="hg" width="180" src="img/ARFeudalAgeDLC.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的射箭場(帝王世紀和征服者入侵資料片)。</em>
-
                 </p>
             </div>
           </div>
@@ -357,7 +322,6 @@
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的射箭場(HD擴充資料片)。</em>
-
               </p>
           </div>
         </div>
@@ -365,7 +329,6 @@
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的射箭場(帝王世紀和征服者入侵資料片)。</em>
-
             </p>
         </div>
       </div>
@@ -375,7 +338,6 @@
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的射箭場(HD擴充資料片)。</em>
-
           </p>
       </div>
     </div>
@@ -383,7 +345,6 @@
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>射箭場在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>
-
         </p>
     </div>
     </div>
@@ -399,5 +360,4 @@
     <?php include( "allbuilding.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

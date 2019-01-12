@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>劍兵勇士</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -60,7 +57,6 @@
             </div>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>他們對建築物和<a href="Eagle_Warrior.php">鷹勇士</a>有攻擊加成，由於價格便宜容易量產，劍兵勇士是一個很好用的兵種，但身為步兵，他仍然屬於行動遲緩的單位，而且血量也不高，因此它們很容易受到弓箭手，重騎兵和反步兵的攻城武器擊殺。</p>
@@ -71,7 +67,6 @@
             <p>劍兵勇士也是少數可以有效擊殺鷹勇士的單位。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -113,7 +108,6 @@
                 <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br>
                 <img class="gg" src="img/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
-
                 <br>
                 <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Garland_Wars.php">榮冠戰爭</a>:步兵攻擊+4，<a href="Aztecs.php">阿茲特克</a>限定。
                 <br>
@@ -143,7 +137,6 @@
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                   <br>
                   <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
@@ -162,14 +155,12 @@
               </tr>
           </table>
            <h3>剋劍兵勇士的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對劍兵勇士的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -179,26 +170,22 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">精銳聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a>(<a href="Aztecs.php">阿茲特克</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>(<a href="Incas.php">印加</a>限定)</li>
@@ -208,21 +195,18 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -234,7 +218,6 @@
             <div class="n1">
               <img class="gg" src="img/Unique-tech.jpg" width="22" alt=""> <a href="Parthian_Tactics.php">後勤學</a> 
               <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
               </div>
               <ul>
                 <li>
@@ -245,7 +228,6 @@
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -271,7 +253,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -283,34 +264,28 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>劍兵勇士擁有+3攻擊VS<a href="Armor_Class_Standard_Building.php">標準建築</a>。</li>
               <li>劍兵勇士遠防是0。</li>
               <li><a href="Goths.php">哥德</a>:在帝王時代，劍兵勇士成本便宜25%。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>劍兵勇士擁有+6攻擊VS<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>。</li>
               <li>劍兵勇士現在擁有1的遠防。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
               <li><a href="Goths.php">哥德</a>:1.0c後，哥德劍兵勇士便宜35%。引入<a href="Perfusion.php">灌注士氣</a>
-
               </li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>劍兵勇士擁有+4攻擊VS<a href="Armor_Class_Standard_Building.php">標準建築</a>。</li>
               <li>劍兵勇士擁有+8攻擊VS<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li>新科技<a href="Arson.php">縱火</a>引進。</li>
               <li><a href="Vikings.php">維京</a>:4.8版本引進<a href="Chieftains.php">酋長</a>科技，劍兵勇士對
@@ -319,13 +294,11 @@
               <li><a href="Vikings.php">維京</a>:在4.8b版本後，<a href="Chieftains.php">酋長</a>讓劍兵勇士對駱駝有額外+2攻擊。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li><a href="Vikings.php">維京</a>:5.7版本<a href="Chieftains.php">酋長</a>科技現在讓劍兵勇士對駱駝有額外+4攻擊。</li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -336,18 +309,15 @@
             </ul>
           </div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Militialine.png"><img  class="imgn" class="hg" width="250" src="img/Militialine.png" alt=""></a> 
                 <p><em>民兵系升級列表</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Champion.png"><img  class="imgn" class="hg" width="250" src="img/Champion.png" alt=""></a> 
                 <p><em>一群劍兵勇士</em>
-
                 </p>
               </div>
             </div>
@@ -358,7 +328,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">劍兵勇士</a>
-
                 </div>
               </td>
             </tr>
@@ -372,14 +341,12 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">步兵</a>
-
               </td>
             </tr>
             <tr>
@@ -390,14 +357,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Barracks-logo.jpg" alt=""><a href="Barracks.php">軍營</a>
-
               </td>
             </tr>
             <tr>
@@ -433,9 +398,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+8對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>
-
                 <br>+4對<a href="Armor_Class_Standard_Building.php">標準建築</a>
-
               </td>
             </tr>
             <tr>
@@ -471,7 +434,6 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img class="gg" src="img/2HandedswordsmanIcon.jpg" alt=""><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
-
               </td>
             </tr>
           </table>
@@ -483,5 +445,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

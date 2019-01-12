@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>柏柏</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -39,7 +36,6 @@
                     href=" Maghrabi_Camels.php">馬格拉比駱駝</a>就是體現駱駝強大的沙漠優勢。</p>
           </div>
            <h3>遊戲概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -61,13 +57,11 @@
               <li>柏柏整體上不管1V1還是團戰都有不錯的戰術方向可以使用，雖然欠缺<a href="Two-Man_Saw.php">雙人鋸</a> 但是不錯的經濟加成使得這項問題影響變小一點。</li>
             </ul>
              <h3>特殊單位</h3>
-
             <ul>
               <p>
                 <img class="gg" src="img/CamelArcherIcon.jpg" alt="">駱駝弓騎兵:攻擊間隔低、對馬弓騎兵有攻擊加成。</p>
             </ul>
              <h3>特殊科技</h3>
-
             <ul>
               <p>
                 <img class="gg" src="img/CastleAgeUnique.png" alt="">聚居堡壘：你和同盟城堡工作效率+25%。</p>
@@ -76,7 +70,6 @@
             </ul>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -93,20 +86,16 @@
           </div>
           <br>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li>最早，從城堡開始馬廄單位成本便宜20%，4.8版本後變成城堡/帝王分別便宜15%/20%。</li>
               <li>4.8版本後柏柏有了<a href="Ring_Archer_Armor.php">弓兵環甲</a>
-
               </li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -117,13 +106,11 @@
             </ul>
           </div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Berbers_preview.png"><img class="imgn" class="hg" src="img/Berbers_preview.png" alt=""></a> 
                 <p><em>官方預覽圖</em>
-
                 </p>
               </div>
             </div>
@@ -141,7 +128,6 @@
                 <div class="unititle">
                   <img src="img/BerberDepiction.jpg" width="300px;" alt="">
                   <p><em>柏柏的一個中世紀伊斯蘭教徒所描述騎駱駝</em>
-
                   </p>
                 </div>
               </td>
@@ -187,5 +173,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

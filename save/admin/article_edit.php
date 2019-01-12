@@ -4,16 +4,13 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
-  
  $getData		= $_POST;
  $getFile 		= $_FILES;
  // set Article
  $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $config_ip_file_path, $getLib);
  $getId			= $_GET['id'];
- 
  // set add function
  $getResult = $getArticle->editArticle($getId, $getData, $getFile);
- 
  if($getResult['status'] == true){	
 	$success_msg_array = $getResult['msg'];
 	$error_msg_array   = array();
@@ -21,7 +18,6 @@
 	$error_msg_array   = $getResult['msg'];
 	$success_msg_array = array();
  }
- 
  // get single article
  $getArticleResult = $getArticle->getArticle($getId);
  if($getArticleResult['status'] == true){ 
@@ -33,7 +29,6 @@
 	$article_content 	= $getLib->setFilter($getArticleData['content']);
 	$article_files 		= explode(",", $getArticleData['files']);
 	$article_files_name	= explode(",", $getArticleData['files_name']);
-	
 	if($getArticleData['top'] == "1"){
 		$article_top = " checked";
 	}else{
@@ -44,12 +39,9 @@
 	echo $getLib->showAlertMsg("參數錯誤");
 	echo $getLib->getRedirect($return_page);
  }
- 
- 
 ?>
 		<?php $getLib->showErrorMsg($error_msg_array);?>
 		<?php $getLib->showSuccessMsg($success_msg_array);?>
-		
 		<!--CK Editor -->
 		<script src="js/ckeditor/ckeditor.js"></script>
 	    <script src="js/ckeditor/adapters/jquery.js"></script>
@@ -101,7 +93,6 @@
 										<input type="checkbox" value="<?=$count;?>" name="article_file_del[]">
 									</label>
 								</div>
-								
 							<?php
 								$count++;
 							}

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>復仇的人生</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -31,11 +28,9 @@
               <p>復仇的人生為成吉思汗戰役的第二關劇情關卡，此關描述成吉思汗部族於1218年，為了要消除滅人西遼勢力屈出律的故事。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -47,7 +42,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -82,7 +76,6 @@
               <dd>無</dd>
             </dl>
              <h2>主要任務</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
@@ -90,7 +83,6 @@
               </ol>
             </div>
              <h2>任務提示</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -98,7 +90,6 @@
                 <li>注意：蒙古人並不知道如何建造攻城武器。</li>
               </ul>
                <h2>芝麻小事</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ul>
@@ -114,7 +105,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">復仇的人生</a>
-
                 </div>
               </td>
             </tr>
@@ -128,7 +118,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -143,12 +132,10 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">蒙古人</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>
@@ -177,5 +164,4 @@
     <?php include( "allbatt.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

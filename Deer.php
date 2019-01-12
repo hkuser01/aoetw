@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>鹿</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -30,7 +27,6 @@
             <p>鹿有140的肉，但不會被馴化，必須去狩獵或是用斥侯趕回城鎮中心，是初期相當快速的食物來源。村民獵殺鹿至少要兩箭，而最少3個村民殺鹿會比較有效率。一般來說打封建開打的遊戲，並不會去鹿群旁邊蓋磨坊，而是會用斥侯趕回資源採集點，而趕鹿的技巧對新手來說相當困難，必須練習再練習，不斷的練習。</p>
           </div>
            <h3>文明優勢</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -45,7 +41,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#b086b5;">
                 <div class="unititle"><a href="">鹿</a>
-
                 </div>
               </td>
             </tr>
@@ -81,5 +76,4 @@
     <?php include( "allanimal.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

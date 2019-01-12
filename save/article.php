@@ -4,7 +4,6 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
- 
  // include configuration file
  include_once("config/config.php");
  // include setting file
@@ -17,7 +16,6 @@
  include_once("class/page.php");
  // include template file
  include_once("class/template.php");
- 
  $getSettings 	= new Settings($config_setting_file_path);
  $cpsub			= $getSettings->getSettings();
  $getLib 		= new Lib($cpsub['filter'], $cpsub['stripslashes']);
@@ -29,7 +27,6 @@
  $getArticle->addViewCounts($getId);
  // get single article
  $getArticleResult = $getArticle->getArticle($getId);
- 
  if($getArticleResult['status'] == true){ 
 	$getArticleData		= $getArticleResult['data'];
 	// get colum values
@@ -40,27 +37,21 @@
 	$article_counts 	= $getLib->setFilter($getArticleData['counts']);
 	$article_files 		= explode(",", $getArticleData['files']);
 	$article_files_name	= explode(",", $getArticleData['files_name']);
-	
 	if($getArticleData['top'] == "1"){
 		$article_top = " checked";
 	}else{
 		$article_top = "";			
 	}
-
  }else{ 
 	$return_page = "./index.php";
 	echo $getLib->showAlertMsg("參數錯誤");
 	echo $getLib->getRedirect($return_page);
  }
- 
- 
  // current page
  $website_current_page = "閱讀文章"; 
- 
  // get title
  $website_title = $getLib->setFilter($cpsub['title']). "-" .$website_current_page. "-" .$article_title;
 ?>
-
 <!DOCTYPE html>
 <html lang="zh-tw">
   <head>

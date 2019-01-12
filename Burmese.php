@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>緬甸</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -33,25 +30,21 @@
             <p>特殊兵種飛鏢騎兵更是擁有強大的攻擊力，類型雖然與西班牙征服者有點類似，但比起征服者的優勢便是大學內的科技彈道學，對飛鏢騎兵也是有效果的。</p>
           </div>
            <h3>概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>緬甸為現今遊戲中，公認最強的國家之一(詳見:單挑最強國家)，不管是單挑還是團戰，或是任何地圖，都是高手自選文明時的首選文明。封建時代可以打裝甲塔，優質的裝甲步兵將帶來可怕的威力，上城堡以飛鏢騎兵搭配投石車，兩者相輔相成，基本上在城堡時代沒有對手。如果配上僧侶更時無敵狀態。</p>
             <p>經濟方面，緬甸擁有免費的木材升級，雖然弓兵裝甲只有一階可以研發且沒有強弩兵但在封建時仍可加快弓兵的產出速度，而帕提亞戰術讓其重裝馬騎弓兵至少仍有一戰的能力，修道院科技基本全滿，研發科技便宜50%，可以節省許多黃金去產出更多的僧侶，經濟科技部分除了礦井採石以外的皆有可說是非常完整。</p>
             <p>特殊兵種飛鏢騎兵擁有強大的攻擊力，可以說是城堡時代最強的兵種之一，雖然缺少防禦與命中率，但因有矛象伕可作為肉盾，但近距離的命中更容易，且種族加成後的步兵也是異常兇悍，因此可以較為輕鬆的應對步兵種族，而要擔心的弓兵部分，至少仍擁有匈牙利輕騎兵可以做為應對。</p>
              <h3>特殊單位</h3>
-
             <p>
               <img class="gg" src="img/Arambaiicon.png" width="" alt="">飛鏢騎兵:命中率不高，但殺傷力強大的馬騎弓兵單位，適合集群攻擊。</p>
              <h3>特殊科技</h3>
-
             <p>
               <img class="gg" src="img/CastleAgeUnique.png" alt="">象轎:矛象伕的近戰防禦 +1，遠距離防禦 +1。</p>
             <p>
               <img class="gg" src="img/Unique-tech.jpg" alt="">曼尼普爾騎兵:騎兵與飛鏢騎兵對建築攻擊力+6。</p>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -68,7 +61,6 @@
           </div>
           <br>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -85,7 +77,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#e6992c;">
                 <div class="unititle"><a href="">緬甸</a>
-
                 </div>
               </td>
             </tr>
@@ -94,7 +85,6 @@
                 <div class="unititle">
                   <img src="img/bum.JPG" width="250" alt="">
                   <p><em>仰光大金寺</em>
-
                   </p>
                 </div>
               </td>
@@ -102,7 +92,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#e6992c;">
                 <div class="unititle2"><a href="">概要</a>
-
                 </div>
               </td>
             </tr>
@@ -139,5 +128,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

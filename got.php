@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,16 +10,10 @@
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/jquery.jOrgChart.css" />
-    <link rel="stylesheet" href="css/custom.css" />
-    <link href="css/prettify.css" type="text/css" rel="stylesheet" />
-    <script type="text/javascript" src="js/prettify.js"></script>
     <!-- jQuery includes -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-    <script src="js/jquery.jOrgChart.js"></script>
     <script>
-      jQuery(document).ready(function() {        $("#org").jOrgChart({            chartElement : '#chart',            dragAndDrop  : true        });    });
     </script>
     <!-- Custom styles for this template -->
  <style>
@@ -37,7 +30,6 @@
           opacity: 0.3;
         }
         .allciv{
-
         }
         .gg{
           width: 45px;
@@ -48,7 +40,6 @@
 #banner ul li {
   float: left;
   list-style-type: none;
-
 }
 #banner a::after {
   content: " · ";
@@ -79,7 +70,6 @@ and (max-device-width: 480px)  {
         }
 }
 }
-
     </style>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
     integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
@@ -89,7 +79,6 @@ and (max-device-width: 480px)  {
       $(document).ready(function(){  $("#hide").click(function(){    $("#list").hide();  });  $("#show").click(function(){    $("#list").show();  });});
     </script>
   </head>
-  
   <body onload="prettyPrint();" style=" font-family: " 微軟正黑體 ";">
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -1213,5 +1202,4 @@ and (max-device-width: 480px)  {
     </div>
     <!-- /container -->
   </body>
-
 </html>

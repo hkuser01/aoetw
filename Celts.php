@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>賽爾特</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -39,7 +36,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#e6992c;">
                 <div class="unititle"><a href="">賽爾特</a>
-
                 </div>
               </td>
             </tr>
@@ -48,7 +44,6 @@
                 <div class="unititle">
                   <img src="img/Royal_Banner_of_Scotland.png" alt="">
                   <p><em>蘇格蘭國旗</em>
-
                   </p>
                 </div>
               </td>
@@ -56,7 +51,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#e6992c;">
                 <div class="unititle2"><a href="">概要</a>
-
                 </div>
               </td>
             </tr>
@@ -91,7 +85,6 @@
       <div class="row">
         <div class="col-md-12">
            <h3>遊戲概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -108,16 +101,13 @@
 <ul>
   <li>菘藍武士:快速又具破壞力的步兵</li>
 </ul>
-      
              <h3>特殊科技</h3>
 <ul>
   <li>堡壘:城堡和箭塔攻擊速度+20%</li>
   <li>賽爾特狂暴:攻城器製造所的單位血量+40%</li>
 </ul>
-
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -128,8 +118,6 @@
               <li><strong>團隊加分</strong>:攻城器製造所工作效率提升20%</li>
             </ul>
           </div>
-
-
           <h3>科技樹</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -137,11 +125,9 @@
           </div>
           <br>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>賽爾特狂暴給予攻城武器40%的生命值加成，而非50%了</li>
               <li>加入城堡時代特殊科技：堡壘:城堡和箭塔攻擊速度+20%</li>
@@ -152,21 +138,18 @@
            <h3>圖庫</h3> 
           <div class="col-md-4">
             <div class="wimg"><a href="img/Woad.jpg"><img class="imgn" class="hg" src="img/Woad.jpg" alt=""></a>
-
             </div>
             <div class="hrn1"></div>
             <p>菘藍武士的3D模組。</p>
           </div>
           <div class="col-md-4">
             <div class="wimg"><a href="img/Wondercelts.png"><img class="imgn" class="hg" src="img/Wondercelts.png" alt=""></a>
-
             </div>
             <div class="hrn1"></div>
             <p>賽爾特的世界奇觀：卡瑟爾岩。</p>
           </div>
           <div class="col-md-4">
             <div class="wimg"><a href="img/Celts_in_III_century_BC.jpg"><img class="imgn" class="hg" src="img/Celts_in_III_century_BC.jpg" alt=""></a>
-
             </div>
             <div class="hrn1"></div>
             <p>西元3世紀時賽爾特人的擴張情況。</p>
@@ -179,5 +162,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

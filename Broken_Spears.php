@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1><strong>斷矛</strong></h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -31,7 +28,6 @@
             <p></p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3> 
@@ -60,7 +56,6 @@
               </li>
             </ul>
              <h3>AI</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc4" colspan="4" style="background: #ea6153;">玩家本身</td>
@@ -88,7 +83,6 @@
               </tr>
             </table>
              <h3>主要任務</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
@@ -96,7 +90,6 @@
               </ol>
             </div>
              <h3>任務提示</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -105,7 +98,6 @@
               </ul>
             </div>
              <h3>斥侯</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -116,7 +108,6 @@
               </ul>
             </div>
              <h3>攻略</h3>
-
             <div class="hrn1"></div>
             <ul>
               <li>本戰役玩家必須保衛特諾奇提特蘭，這座城市非常大，有許多建築物。在北方的海域，玩家可以得到三隻由眾神賜予的精銳龜甲船。特諾奇特蘭的南方橋樑被摧毀，以減緩科爾特斯海軍的進攻。玩家可以安全地從北方小島上的金礦中獲得黃金，因為在島上沒有美洲虎。</li>
@@ -126,7 +117,6 @@
               <li>科爾特斯海軍會時常以火炮戰船，重型弩炮戰船、快速火戰船攻擊你，還會用運輸船帶重型衝撞車、巨型投石機和征服者渡海而來。他們的基地被火炮塔圍繞，不過基地的西面和東面都有漏洞，玩家可以輕鬆地用投石機摧毀火炮塔。但是玩家必須小心，不要讓載有單位的運輸船被塔擊沉。同樣的破壞城鎮中心他們就會投降。如果玩家此時已經擊敗了科爾特斯陸軍和特拉斯卡拉，為了找到科爾特斯海軍的城鎮中心，玩家可以考慮研究是否有大量的黃金研發間諜技術，研究的成本會比之前便宜得多是因為大量的敵人村民被消滅了。</li>
             </ul>
              <h3>細節</h3>
-
             <div class="hrn1"></div>
             <ul>
               <li>儘管玩家以阿茲特克人的身分贏得了戰役，但實際上特諾奇提特蘭包圍戰是西班牙人和特拉斯卡拉人的勝利，也導致了阿茲特克替國的垮台，當時的皇帝庫奧赫特莫克在幾年後就被殺害。</li>
@@ -146,7 +136,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">斷矛</a>
-
                 </div>
               </td>
             </tr>
@@ -160,7 +149,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -175,19 +163,16 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Aztecs.php">阿茲特克</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">玩家顏色</td>
               <td class="unit4"><font color="green">綠色</font>
-
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">戰役關卡編號</a>
-
                 </div>
               </td>
             </tr>
@@ -214,7 +199,6 @@
                 </div>
                 <div style="margin-left: 60px;">維基百科上的特諾奇提特蘭
                   <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E7%89%B9%E8%AB%BE%E5%A5%87%E6%8F%90%E7%89%B9%E8%98%AD">特諾奇提特蘭</a></b></i>
-
                   </div>
                 </div>
               </div>
@@ -225,5 +209,4 @@
         <?php include( "allbatt.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
-
 </html>

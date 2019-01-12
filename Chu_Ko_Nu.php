@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>連弩兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -30,7 +27,6 @@
             <p>連弩兵是中國的特殊單位，能夠在<a href="Castle_Age.php">城堡時代</a>的<a href="Castle.php">城堡</a>中訓練。連弩兵一個可在短時間內發射數支箭矢的單位，攻擊時只有第一支箭矢有完整傷害，第二和第三則造成3的遠程傷害和0的近戰傷害。連弩兵一次射三支箭，精銳則是一次五支。</p>
             <p>連弩兵可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳連弩兵。</div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -46,7 +42,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -129,25 +124,21 @@
               </tr>
           </table>
            <h3>剋連弩兵的單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對連弩兵的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="row">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CannonGalleonIcon.jpg" alt=""> <a href="Cannon_Galleon.php">火砲戰船</a>→
                       <img class="gg" src="img/CannonGalleonIcon.jpg"
                       alt=""> <a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -155,18 +146,15 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HuskarlIcon.jpg" alt=""> <a href="Huskarl.php">精銳哥德衛隊</a>(<a href="Goths.php">哥德</a>限定)</li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -175,7 +163,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -184,7 +171,6 @@
                       <img class="gg" src="img/Imperialskirmishericon.png" alt=""> <a href="Imperial_Skirmisher.php">帝王戰矛兵</a>(<a href="Vietnamese.php">越南</a>和同盟限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -194,12 +180,10 @@
                       <img class="gg" src="img/GenitourIcon.jpg" alt=""> <a href="Genitour.php">標槍騎兵</a>(<a href="Berbers.php">柏柏</a>和同盟限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SkirmisherIcon.jpg" alt=""> <a href="Skirmisher.php">矛兵</a>
-
                     </li>
                   </ul>
                 </div>
@@ -210,7 +194,6 @@
               class="row">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -232,7 +215,6 @@
           </ul>
         </div>
          <h3>團隊加成</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -247,29 +229,24 @@
           </ul>
         </div>
          <h3>更新日誌</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
            <h3><em><a href="aok.php">帝王世紀</a></em></h3>
-
           <ul>
             <li>連弩兵訓練時間為19秒。</li>
           </ul>
            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
           <ul>
             <li>連弩兵對<a href="Spearman.php">長槍兵</a>攻擊+2。</li>
             <li>引進<a href="Thumb_Ring.php">拇指環</a>。</li>
             <li><a href="Chinese.php">中國</a>:引進<a href="Rocketry.php">火箭術</a>。</li>
           </ul>
            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
           <ul>
             <li>非精銳連弩兵訓練時間現在為16秒。</li>
           </ul>
         </div>
          <h3>趣事</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -284,7 +261,6 @@
           </ul>
         </div>
          <h3>歷史</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <p>弩是在中國古代發明的，連弩是在歐洲中世紀時期的一種改良的弩，連弩是一種半自動弩，裝有螺栓雜誌，當 操作員拉回弓弦，一個新的箭矢會自動掉入發射器中，當弓弦拉到極限時，武器就會自動開火。操作員必須盡可能迅速地向後拉動弓弦以保持快速射擊，連弩的弱點是距離短，與較大的單發弩相比，火力更弱。</p>
@@ -312,27 +288,23 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4"><a href="Archer.php">弓兵</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4"><a href="Chinese.php">中國</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="img/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
-
             </td>
           </tr>
           <tr>
@@ -401,9 +373,7 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4"><a href="img/Armor_Class_Archer.php">射手</a>
-
               <br> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
-
             </td>
           </tr>
           <tr>
@@ -418,7 +388,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>
@@ -441,14 +410,12 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4"> <a href="img/Chukonu.png"><img class="imgn" class="hg" width="180" src="img/Chukonu.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>一群連弩兵。</em>
-
               </p>
           </div>
         </div>
@@ -456,7 +423,6 @@
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>真實的諸葛連弩。</em>
-
             </p>
         </div>
       </div>
@@ -464,7 +430,6 @@
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>ㄧ名連弩兵。</em>
-
           </p>
       </div>
     </div>
@@ -474,5 +439,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

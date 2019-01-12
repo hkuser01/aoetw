@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -73,7 +71,6 @@
                 <tr>
                   <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                     <div class="unititle"><a href="">眼鏡蛇車</a>
-
                     </div>
                   </td>
                 </tr>
@@ -92,7 +89,6 @@
                 <tr>
                   <td class="unit3">類型</td>
                   <td class="unit4"><a href="Gunpowder_Unit.php">攻城武器</a>
-
                   </td>
                 </tr>
                 <tr>
@@ -119,7 +115,6 @@
                 <tr>
                   <td class="unit3">攻擊加成</td>
                   <td>+10對 <a href="bulding.php">建築</a>
-
                   </td>
                 </tr>
                 <tr>
@@ -140,7 +135,6 @@
                 </tr>
                 <tr>
                   <td class="unit3"><a href="">近防</a>
-
                   </td>
                   <td class="unit4">10</td>
                 </tr>
@@ -150,20 +144,17 @@
                 </tr>
                 <tr>
                   <td class="unit3"><a href="Armor_class.php">防禦類型</a>
-
                   </td>
                   <td class="unit4">攻城武器(+50)
                     <td>
                 </tr>
                 <tr>
                   <td class="unit3"><a href="">跑速</a>
-
                   </td>
                   <td class="unit4">4.5</td>
                 </tr>
                 <tr>
                   <td class="unit3"><a href="los.php">視野</a>
-
                   </td>
                   <td class="unit4">12</td>
                 </tr>
@@ -177,5 +168,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
-
 </html>

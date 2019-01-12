@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -9,16 +8,12 @@
     <link rel="icon" href="favicon.ico">
     <title>Aoetw</title>
     <!-- Bootstrap core CSS -->
-    <link href="http://getbootstrap.com/assets/css/docs.min.css" rel="stylesheet">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.js"></script>
     <!-- Custom styles for this template -->
     <style>
       body {    padding-top: 0px;    font-family: "微軟正黑體";    background-color: #f5f5f5;    font-size: 18px;  }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -51,7 +46,6 @@
             <p>由於鷹斥侯在<a href="Feudal_Age.php">封建時代</a>算遠防高，是所有<a href="Archer_Units.php">弓兵</a>的剋星，不過對於群聚的弓兵，你最好還是想辦法遠離他；鷹斥侯對於近戰步兵是被克制的，但因移動速度高讓步兵很難追到。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -90,7 +84,6 @@
                 <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br>
                 <img class="gg" src="img/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
-
                 <br>
                 <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Garland_Wars.php">榮冠戰爭</a>:步兵攻擊+4，<a href="Aztecs.php">阿茲特克</a>限定。</td>
             </tr>
@@ -120,7 +113,6 @@
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                   <br>
                   <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
@@ -139,18 +131,15 @@
               <div class="row">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/2HandedswordsmanIcon.jpg" alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
                       <img class="gg" src="img/ChampionIcon.jpg"
                       alt=""> <a href="Champion.php">劍兵勇士</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -158,7 +147,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -168,7 +156,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -176,21 +163,17 @@
                     </li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>
-
                       <br>
                       <li>
                         <img class="gg" src="img/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">精銳哥德衛隊</a>
-
                       </li>
                       <li>
                         <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">精銳狂戰士</a>
-
                       </li>
                   </ul>
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -198,23 +181,18 @@
                     </li>
                     <li>
                       <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">哥德衛隊</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">精銳擲斧兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">爪刀勇士</a>→
@@ -230,11 +208,9 @@
                       <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>→
                       <img class="gg" src="img/JaguarWarriorIcon.jpg"
                       alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -243,11 +219,9 @@
                       alt=""> <a href="Pikeman.php">重裝長槍兵</a>→
                       <img class="gg" src="img/HalberdierIcon.jpg"
                       alt=""> <a href="Halberdier.php">戟兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>→
@@ -318,38 +292,31 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle2"><a href="">單位介紹</a>
-
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4"><a href="Infantry_Units.php">步兵</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4"><a href="Aztecs.php">阿茲特克</a>
-
               <br> <a href="Incas.php">印加</a>
-
               <br> <a href="Mayans.php">馬雅</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="img/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="img/Barracks-logo.jpg" alt=""><a href="Barracks.php">軍營</a>
-
             </td>
           </tr>
           <tr>
@@ -385,13 +352,9 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">+8 vs <a href="Armor_Class_Monk.php">僧侶</a>
-
               <br>+3 vs<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-
               <br>+2 vs <a href="Armor_Class_Cavalry.php">騎兵</a>
-
               <br>+1 vs <a href="Armor_Class_Camel.php">駱駝騎兵</a>
-
               <br>+1 vs <a href="Armor_Class_Ship.php">船隻</a> 
             </td>
           </tr>
@@ -409,10 +372,8 @@
           </tr>
           <tr>
             <td class="unit3"><a href="Armor_class.php">防禦類型</a>
-
             </td>
             <td class="unit4"><a href="Armor_Class_Infantry.php"> 步兵</a>
-
               <br> <a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a> 
             </td>
           </tr>
@@ -433,7 +394,6 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="img/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a>
-
             </td>
           </tr>
           <tr>
@@ -451,17 +411,14 @@
     </div>
     <div class="col-md-12">
        <h3>圖庫</h3>
-
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4"> <a href="img/Eagleline.png"><img class="imgn" class="hg" src="img/Eagleline.png" alt=""></a> 
           <p><em>鷹勇士系列</em>
-
           </p>
         </div>
         <div class="col-md-4"> <a href="img/Eaglescout.png"><img class="imgn" class="hg" src="img/Eaglescout.png" alt=""></a> 
           <p><em>一群鷹斥侯</em>
-
           </p>
         </div>
       </div>
@@ -473,7 +430,5 @@
     <!-- Bootstrap core JavaScript==================================================-
     ->  <!-- Placed at the end of the document so the pages load faster -->
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
-
 </html>

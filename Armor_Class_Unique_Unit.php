@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,12 +20,10 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>特殊單位裝甲</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於特殊單位裝甲。而關於特殊單位請參見<a href="Unique_Unit.php">特殊單位</a></em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -35,7 +31,6 @@
             <p>特殊單位裝甲是一個防禦裝甲類別，所有在這個系列的兵種都會被剋特殊單位裝甲的兵種有額外的傷害。帝王駱駝騎兵和帝王戰矛兵不包含在特殊單位裝甲裡。</p>
           </div>
            <h3>特殊單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">下列的單位都是特殊單位
             <div class="n1">
@@ -257,12 +252,10 @@
             </div>
           </div>
            <h3>剋特殊單位的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對特殊單位的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
               </div>
               <ul>
                 <li>
@@ -270,7 +263,6 @@
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
               </div>
               <ul>
                 <li>
@@ -283,5 +275,4 @@
           <?php include( "alllarmor.php"); ?>
           <?php include( "footn.php"); ?>
   </body>
-
 </html>

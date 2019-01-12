@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -111,7 +109,6 @@
         </div>
         <div class="col-md-2 ititle">
            <h4><a href="">線上繳費</a></h4>
-
         </div>
       </div>
       <div class="row" style="margin-top: 30px; border-top: 1px solid #c7c7c7;"
@@ -138,19 +135,14 @@
              <h4 style="margin-top:30px;"><strong>最新消息</strong></h4> 
             <ul>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
             </ul>
           </div>
@@ -182,19 +174,14 @@
              <h4 style="margin-top:30px;"><strong>最新消息</strong></h4> 
             <ul>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
               <li><a href="">最新消息</a>
-
               </li>
             </ul>
           </div>
@@ -203,5 +190,4 @@
       <!-- /container -->
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

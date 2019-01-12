@@ -4,7 +4,6 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
- 
  // include configuration file
  include_once("config/config.php");
  // include setting file
@@ -17,13 +16,11 @@
  include_once("class/page.php");
  // include template file
  include_once("class/template.php");
- 
  $getData		= $_GET;
  $getSettings 	= new Settings($config_setting_file_path);
  $cpsub			= $getSettings->getSettings();
  $getLib 		= new Lib($cpsub['filter'], $cpsub['stripslashes']);
  $getTmp 		= new Template($config_current_version);
- 
  // set keyword
  if(isset($getData['keyword']) && $getLib->checkVal($getData['keyword'])){
 	$getKeyword 	= $getLib->setFilter($getData['keyword'], true);
@@ -32,17 +29,13 @@
  	$getKeyword     = "";
 	$getKeywordLink = "?";
  }
-
- 
  // set Article
  $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $config_ip_file_path, $getLib);
- 
  if(isset($getData['page'])){
  	$page    	= $getData['page'];
  }else{
  	$page 		= 0;
  }
-
  // get article list					
  $getListArray  = $getArticle->getAllList("display", "id", "desc", $getKeyword);
  $getListSum    = count($getListArray);
@@ -54,20 +47,16 @@
  $getPage 		= new Pager($page, $many, $display, $total, $pagename);
  $pageStart  	= intval($getPage->startVar);
  $pageMany  	= intval($getPage->manyVar);
- 
  // current page
  $website_current_page = "首頁"; 
- 
  // get title
  $website_title = $getLib->setFilter($cpsub['title']). "-" .$website_current_page;
 ?>
-
 <!DOCTYPE html>
 <html lang="zh-tw">
   <head>
 	<?=$getTmp->setHeader($website_title);?>
 	<style>
-
 .navbar-nav>li {
     float: left;
     list-style-type: none;
@@ -78,17 +67,13 @@
 .navbar a{
 	color: #fff;
 }
-
 </style>
   </head>
   <body>
-
 <nav class="navbar navbar-expand-md bg-dark navbar-dark" style="border-radius: 0px;margin-bottom: 0px; ">
   <a class="navbar-brand" href="http://aoetw.com/" style="margin: 0 auto;line-height: 25px; font-size: 25px;">Aoetw</a>
-
   <div class="collapse navbar-collapse" id="collapsibleNavbar" style="font-size: 18px; line-height: 50px; background: #607D8B;  ">
     <ul class="navbar-nav">
-
       <li class="nav-item">
                     <a class="nav-link" href="../civ.php">文明</a>
                 </li>
@@ -158,7 +143,6 @@
 							}else{
 								$article_top = "";
 							}
-							
 				?>
 						<tr>
 							<td><?=$getVal['id'];?></td>

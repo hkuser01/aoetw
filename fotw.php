@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {        padding-top: 0px;        font-family: "微軟正黑體";        background-color: #f5f5f5;        font-size: 18px;        }    .tit{        margin: 20px auto 20px auto;        background: url(img/title3.jpg);         width:100%;         height: 284px;         text-align: center;        color: aliceblue;        padding-top: 50px;    }    .tt{        font-size: 45px;        font-weight: bold;    }    .tt2{        font-size: 30px;        font-weight: bold;        margin-right: 530px;    }.wimg{  width:300px ;  height: 250px;}.we{  font-size: 20px;}.unititle,.unititle2{  color: #fff;}.tor img{  margin-right: 5px;  width: 22px;  padding-bottom: 2px;}
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <div class="container">
@@ -783,7 +781,6 @@
             <tr>
               <td>日本黑森林玩家，steam經歷很久，但實力捉摸不定，上過2k也下過16+，愛開pk。</td>
             </tr>
-
             <tr>
               <td>
                 <h4><strong>Tai-wei</strong></h4>
@@ -1046,5 +1043,4 @@
       <!-- /container -->
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

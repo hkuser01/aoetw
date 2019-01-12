@@ -6,7 +6,6 @@
  *  File: class/lib.php
  *  Description: Library for control basic function
  */
- 
 class Pager{
 		var $pageVar 	= 0;
 		var $manyVar 	= 10;
@@ -14,19 +13,16 @@ class Pager{
 		var $displayVar = 5;
 		var $pageNameVar;
 		var $totalVar;
-		
 		function Pager($page, $many, $display, $total, $pagename){
 			$page 		= strip_tags(intval($page));
 			$many 		= strip_tags(intval($many));
 			$display 	= strip_tags(intval($display));
 			$total 	= strip_tags(intval($total));
-			
 			if($page == "" || $page == "1" || $page <= "0"){
 				$start = 0;
 			}else{
 				$start = ($page- 1)*$many;
 			}
-				
 			$this->pageVar 		= $page;
 			$this->manyVar 		= $many;
 			$this->startVar 	= $start;
@@ -34,7 +30,6 @@ class Pager{
 			$this->totalVar		= $total;
 			$this->pageNameVar  = $pagename;
 		}
-		
 		function getPageControler(){
 			// pages
             $total 		= ceil($this->totalVar/$this->manyVar);
@@ -43,14 +38,12 @@ class Pager{
 			$many			= $this->manyVar;
 			$current_page  = $this->pageNameVar;
 			echo "<ul class=\"pagination pull-right\">";
-			 
 			if($now == "" || $now == "1" || $now <= "0"){
             	$new_now = 1;
             }else{
                 $new_now = $now;
                 $head_page = $new_now - 1;
             }
-
             if(($now-$new_now) > $displayNum){
                 $head = $now - $displayNum;
                 $last = $total - $displayNum;
@@ -58,14 +51,11 @@ class Pager{
             	$head = 0;
             	$last = 0;
             }
-
 			if($now > 1 && (($total-$last)+1) > $displayNum && $total > $displayNum){
 				echo "<li><a href={$current_page}page=1>最前頁...</a></li>";
 			}
-				 
 			$totalDisplay = false;
             for($i=(1+$head); $i<(($total-$last)+1); $i++){
-                
                 if(!(($i - $new_now) > $displayNum || ($new_now - $i) > $displayNum)){
                     if($i == $new_now){
                         echo "<li class=\"active\"><span>{$i}<span class=\"sr-only\">(current)</span></span></li>";
@@ -76,14 +66,10 @@ class Pager{
 						}
                     }
                 }
-
             }
-			
 			if($now != $total && $total > $displayNum && $totalDisplay == false){
 				echo "<li><a href={$current_page}page={$total}>...最終頁</a></li>";
 			}
-			
 			echo "</ul>";
-
 		}	
 }

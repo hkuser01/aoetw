@@ -4,7 +4,6 @@
  * Author: Cooltey Feng
  * Lastest Update: 2013/10/15
  */
- 
  // include configuration file
  include_once("config/config.php");
  // include setting file
@@ -15,25 +14,19 @@
  include_once("class/auth.php");
  // include template file
  include_once("class/template.php");
- 
  session_start();
- 
  $getData		= $_POST;
  $getSettings 	= new Settings($config_setting_file_path);
  $cpsub			= $getSettings->getSettings();
  $getLib 		= new Lib($cpsub['filter'], $cpsub['stripslashes']); 
  $getAuth 		= new Auth($config_account_data, $getLib);
  $getTmp 		= new Template($config_current_version);
- 
  // current page
  $website_current_page = "登入"; 
- 
  // get title
  $website_title = $getLib->setFilter($cpsub['title']). "-" .$website_current_page;
-  
  // set add function
  $getResult = $getAuth->setLogin($getData);
- 
  if($getResult['status'] == true || (isset($_SESSION['login']) && $_SESSION['login'] == "1")){	
 	$success_msg_array = $getResult['msg'];
 	$error_msg_array   = array();
@@ -44,10 +37,7 @@
 	$success_msg_array   = array();
 	$getAuth->clearAuth();
  }
-
 ?>
-		
-
 <!DOCTYPE html>
 <html lang="zh-tw">
   <head>

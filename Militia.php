@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -276,13 +274,6 @@
             </div>
           </div>
         </div>
-
-
-
-
-
-
-
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
@@ -403,12 +394,9 @@
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>
         </div>
       </div>
-
-
     </div>
     <!-- /container -->
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

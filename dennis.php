@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {        padding-top: 0px;        font-family: "微軟正黑體";        background-color: #f5f5f5;        font-size: 18px;        }    .tit{        margin: 20px auto 20px auto;        background: url(img/title3.jpg);         width:100%;         height: 284px;         text-align: center;        color: aliceblue;        padding-top: 50px;    }    .tt{        font-size: 45px;        font-weight: bold;    }    .tt2{        font-size: 30px;        font-weight: bold;        margin-right: 530px;    }.wimg{  width:100% ;  height: 140px;}.we{  font-size: 20px;}.unititle,.unititle2{  color: #fff;}
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <div class="container">
@@ -20,7 +18,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>世界奇觀</h1>
-
         </div>
         <div class="hrn1"></div>
         <div class="col-md-8">
@@ -32,7 +29,6 @@
               appearance. They cannot be converted.</p>
           </div>
            <h3>概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>Wonders only serve as a victory condition, and as such they must be used
@@ -59,7 +55,6 @@
               bulkiest building in the game.</p>
           </div>
            <h3>瑣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -112,13 +107,11 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="">封建時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">需要建設</td>
               <td class="unit4"><a href="Barracks.php">軍營</a>
-
               </td>
             </tr>
             <tr>
@@ -201,5 +194,4 @@
       <!-- /container -->
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

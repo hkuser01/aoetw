@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>碼頭</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -30,7 +27,6 @@
             <p>用於建造和研發船隻，並且藉由漁船在海上取得食物，並與其他文明的碼頭進行交易。</p>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -41,13 +37,11 @@
               <li>通常在碼頭附近蓋暸望箭塔和城堡是很有幫助的，因為這些建築能有效的保護馬頭避免敵船的攻擊，還可以將碼頭放在海灣中，因為這會使敵方海軍難以攻擊馬頭。也可以為碼頭提高很高的保護。</li>
             </ul>
              <h3>交易</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>貿易商旅被用來在兩個文明（同盟、中立、敵人都可以）碼頭之之間交易產生黃金，在兩個碼頭中間形成貿易路線。空的貿易商旅移動另一個文明的碼頭，並帶著黃金返航。在群島地圖上的團隊遊戲，貿易商旅的路線就非常重要。</p>
             </div>
              <h3>可訓練的單位與技術</h3>
-
             <div class="hrn1"></div>
             <div class="row">
               <div class="col-md-3">
@@ -98,7 +92,6 @@
               </div>
             </div>
              <h3>文明加成</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -112,7 +105,6 @@
               </ul>
             </div>
              <h3>團隊加成</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -128,7 +120,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">碼頭</a>
-
                 </div>
               </td>
             </tr>
@@ -142,7 +133,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">概要</a>
-
                 </div>
               </td>
             </tr>
@@ -157,7 +147,6 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="">黑暗時代</a>
-
               </td>
             </tr>
             <tr>
@@ -171,7 +160,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -182,7 +170,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -267,5 +254,4 @@
     <?php include( "allbuilding.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

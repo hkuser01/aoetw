@@ -1,5 +1,4 @@
 <?php 
-
 $json = '[
 {"kWord":"特殊單位", "kUrl":"Unique_Unit.php", "kWeight":0},
 {"kWord":"遠距離單位", "kUrl":"Archer_Units.php", "kWeight":0},
@@ -580,7 +579,6 @@ $json = '[
 {"kWord":"騎兵", "kUrl":"Cavalry_Units.php", "kWeight":0},
 {"kWord":"駐軍", "kUrl":"Garrison.php", "kWeight":0}
 ]';
-
 if ($_POST["path"] != "http://www.aoetw.com/units.php") {
 	echo $json;
 }

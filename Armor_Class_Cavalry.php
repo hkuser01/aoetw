@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -9,16 +8,12 @@
     <link rel="icon" href="favicon.ico">
     <title>Aoetw</title>
     <!-- Bootstrap core CSS -->
-    <link href="http://getbootstrap.com/assets/css/docs.min.css" rel="stylesheet">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.js"></script>
     <!-- Custom styles for this template -->
     <style>
       body {    padding-top: 0px;    font-family: "微軟正黑體";    background-color: #f5f5f5;    font-size: 18px;  }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -32,7 +27,6 @@
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於騎兵系裝甲的。而關於騎兵這個兵種的請參見<a href="Cavalry_Units.php">騎兵單位</a>或<a href="Cavalier.php">騎兵</a>。</em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -130,25 +124,20 @@
               <div class="col-md-12">
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+32攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+22攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -157,12 +146,10 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
@@ -171,7 +158,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -182,39 +168,33 @@
                 </div>
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -224,7 +204,6 @@
                 </div>
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -232,7 +211,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+0攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -245,7 +223,6 @@
                       alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
                       <img class="gg" src="img/ChampionIcon.jpg"
                       alt=""> <a href="Champion.php">劍兵勇士</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/EagleScoutIcon.jpg" alt=""> <a href="Eagle_Scout.php">鷹斥侯</a> 
@@ -301,5 +278,4 @@
         <?php include( "alllarmor.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

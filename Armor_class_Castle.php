@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -10,14 +9,11 @@
     <title>Aoetw</title>
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.js"></script>
     <!-- Custom styles for this template -->
     <style>
       body {      padding-top: 0px;      font-family: "微軟正黑體";      background-color: #f5f5f5;      font-size: 18px;    }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -31,7 +27,6 @@
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於城堡的裝甲。而關於城堡請參見<a href="Castle.php">城堡</a></em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -44,7 +39,6 @@
             <ul>
               <li>
                 <img width="25px" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
-
               </li>
             </ul>
           </div>
@@ -53,16 +47,13 @@
           <div class="n1">以下單位擁有對城堡的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div style="margin:12px 0px;"><strong>+100攻擊</strong>
-
               </div>
               <ul>
                 <li>
                   <img class="gg" src="img/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a>
-
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
               </div>
               <ul>
                 <li>
@@ -77,7 +68,5 @@
             <!-- Bootstrap core JavaScript==================================================-
             ->            <!-- Placed at the end of the document so the pages load faster -->
             <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-            <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
-
 </html>

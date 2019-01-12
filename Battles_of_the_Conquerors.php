@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,19 +20,16 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>征服者的戰役</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           <div class="n1">
             <div class="ien"><em>有些名字會在歷史中流傳下來；男人和女人都在一起朔造這個世界。有些是代表混亂、破壞和暴虐的惡勢力。有些是忠誠的人為了正義而戰。有些是為了保衛家園，而跟那些以武力奪取別人土地的入侵者而戰。在世界歷史裡，有些戰役包括亞琴哥特、曼奇克托和哈斯丁斯，都是一直為人熟知的轉捩點，而包括亨利五世、李舜臣和紅衣艾立克等，都永遠被世人視為偉大的勝利者。現在就讓我們再次體驗他們的謀略和勝利吧！</em>
-
               <p
               style="text-align: right;margin-top: 10px;">-遊戲中對於征服者的戰役的介紹</p>
             </div>
             <li>征服者的戰役是世紀帝國II中包含的一系列不相干的8個單關戰役場景：</li>為征服者戰役第4章。這些關卡都取自中世紀人類歷史上著名的重大戰役。</li>
              <h3>關卡</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <div class="row">
@@ -67,7 +62,6 @@
                 </div>
               </div>
                <h3>芝麻小事</h3>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <p>此章節的其他資訊</p>
@@ -94,7 +88,6 @@
                 <div class="unititle">
                   <img src="img/BOC 1571.jpg" width="300" alt="">
                   <p><em>《勒班陀戰役》，H·萊特，倫敦格林尼治國家航海博物館，此畫作描繪神聖同盟的基督教海軍於勒班陀戰役擊敗奧斯曼帝國海軍</em>
-
                   </p>
                 </div>
               </td>
@@ -134,5 +127,4 @@
     <?php include( "allbatt.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

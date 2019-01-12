@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>不列顛</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -32,7 +29,6 @@
             <p>不列顛的後代與蘇格蘭、愛爾蘭、塞爾特..等文明組成了現今的英國(大不列顛與北愛爾蘭聯合王國)。</p>
           </div>
            <h3>概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>不列顛的主要優勢就是他的步行弓兵系統(不包含矛兵)，因他們的<a href="Archery_Range.php">射箭場</a>工作效率高、文明又給予攻擊距離的增加使得弓兵的使用更多元。</p>不列顛的特殊單位長弓兵，是遊戲中唯一可以超越城堡的弓兵單位在對付緩慢的兵種時可以有效的給予傷害，相對的快速的騎兵是一大要害因此擁有完整個軍營兵種與科技好保護弓兵，此外不列顛的馬廄科技是非常不完善的。另外在海軍上不列顛除了
@@ -41,20 +37,16 @@
               <a
               href="" Siege_Onager.php>重型投石車</a>相對應的給予獨特的<a href="Trebuchet.php">投石機</a>(要研發科技)</p>
                  <h3>戰術</h3>
-
                 <p>不列顛擁有相當優秀的<a href="Archer_Units.php">弓箭手</a>，但必須在城堡時代開始射程才+1，因此黑跳城堡的打法相當不錯具有威脅性。一般封建來說都是以弓箭場弓兵搭配矛兵為主。</p>
                  <h3>特殊單位</h3>
-
                 <p>長弓兵:有全遊戲裡最遠的攻擊距離的<a href="Archer_Units.php">弓兵單位</a>。</p>
                  <h3>特殊科技</h3>
-
                 <p>
                   <img class="gg" src="img/CastleAgeUnique.png">:<a href="Yeomen.php">義勇騎兵</a>:步行弓兵射程+1，箭塔攻擊+2</p>
                 <p>
                   <img class="gg" src="img/Unique-tech.jpg"><a href="Warwolf.php">戰狼</a>:投石機有面的殺傷力(意指攻擊範圍加大)</p>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -71,11 +63,9 @@
           </div>
           <br>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>獲得<a href="Cannon_Galleon .php">火砲戰船</a>。</li>
               <li><a href="Longbowman.php">長弓兵</a>訓練時間減少到17秒。</li>
@@ -85,13 +75,11 @@
             </ul>
           </div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Wonderbritons.png"><img  class="imgn" class="hg" width="250" src="img/Wonderbritons.png" alt=""></a> 
                 <p><em>不列顛的<a href="Wonder.php">世界奇觀</a>-<a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></em>
-
                 </p>
               </div>
             </div>
@@ -109,7 +97,6 @@
                 <div class="unititle">
                   <img src="img/Richard_coeur_de_lion.jpg" alt="">
                   <p><em>獅心王理查一世</em>
-
                   </p>
                 </div>
               </td>
@@ -152,5 +139,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

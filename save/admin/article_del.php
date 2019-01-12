@@ -4,13 +4,11 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
-  
  $getData		= $_POST;
  $getFile 		= $_FILES;
  // set Article
  $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $config_ip_file_path, $getLib);
  $getId			= $_GET['id'];
- 
  // set add function
  $getResult = $getArticle->delArticle($getId);
  $msg 		= $getResult['msg'][0];
@@ -18,5 +16,4 @@
  $rPage = "./manage.php?p=article_list"; 
  echo $getLib->showAlertMsg($msg);
  echo $getLib->getRedirect($rPage);
- 
 ?>

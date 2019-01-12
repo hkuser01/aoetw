@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>兵分三路</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -31,11 +28,9 @@
               <p>兵分三路為黎利戰役的第五關劇情關卡，此關描述越南黎利奪下茶隆關，進佔明廷交趾布政使司首府「乂安」的經過。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -48,7 +43,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -99,11 +93,9 @@
                   </tr>
             </table>
              <h3>開場</h3>
-
             <p>。 英雄 - 李篆x1、裴備x1、劉仁㴬x1、丁禮x1</p>。 軍事單位 - 輕騎兵x5、矛象伕x2、雙手劍兵x0-9(視大越義軍的控兵而定)、藤甲弓兵x5-10(視大越義軍的控兵而定)</p>。
             經濟單位 - 村民x5
              <h2>主要任務</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
@@ -113,7 +105,6 @@
             </div>
           </div>
            <h2>任務提示</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -122,7 +113,6 @@
               <li>截斷明廷援軍至關重要，因為王通極需要援軍。</li>
           </div>
            <h2>斥侯</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -150,7 +140,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="A_Three-Pronged_Attack">兵分三路</a>
-
                 </div>
               </td>
             </tr>
@@ -164,7 +153,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -175,18 +163,15 @@
             <tr>
               <td class="unit3">戰役</td>
               <td class="unit4"><a href="Lê_Lợia.php">黎利</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">越南人</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>
@@ -197,13 +182,11 @@
             <tr>
               <td class="unit3">上一關</td>
               <td class="unit4"> <a href="Reaching_South.php">揮軍南下</a>
-
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
               <td class="unit4"> <a href="The_Final_Fortress.php">決戰東都</a>
-
                 </p>
               </td>
             </tr>
@@ -219,5 +202,4 @@
     <?php include( "allbatt.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

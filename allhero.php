@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
@@ -66,7 +64,6 @@
                                             href="Sir_John_Fastolf.php">約翰霍士道夫爵士</a>·<a href="Subotai.php">速不臺</a>·<a href="Tamerlane.php">帖木兒</a>·
                                               <a
                                               href="The_Black_Prince.php">黑親王</a>·<a href="Theodoric_the_Goth.php">哥德人狄奧多利克</a>·<a href="William_Wallace.php">威廉華勒斯</a>
-
               </td>
             </tr>
             <tr>
@@ -162,5 +159,4 @@
     </div>
     <!-- /container -->
   </body>
-
 </html>

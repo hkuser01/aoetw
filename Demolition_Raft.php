@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -37,7 +35,6 @@
             <p>自爆筏是封建時代最快的船艦，可輕易追上敵方船隻。然而較低的HP和護甲讓他們很容易被任何攻擊擊沉。自爆筏適合用來對付戰船、火蒙衝和摧毀敵方碼頭。在淺灘處的敵軍也很適合用自爆筏給他們個"驚喜"。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -75,7 +72,6 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="img/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br>
                 <img class="gg" src="img/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -92,14 +88,12 @@
             </tr>
           </table>
            <h3>剋自爆筏的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對自爆筏的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -110,7 +104,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+17攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -118,7 +111,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+16攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -126,7 +118,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -136,7 +127,6 @@
                       <img src="img/LongboatIcon.jpg" alt=""><a href="Longboat.php">精銳維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -144,7 +134,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -168,7 +157,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -180,7 +168,6 @@
                       alt=""><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a href="Khmer.php">高棉</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -190,14 +177,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -207,7 +192,6 @@
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -217,7 +201,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -227,7 +210,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -235,7 +217,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -251,7 +232,6 @@
               <div class="col-md-4">
                 <img src="img/Heatedshot.png" width="22" alt=""><a href="Heated_Shot.php">預熱射擊</a> 
                 <div style="margin:12px 0px;"><strong>+13攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -259,7 +239,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -269,7 +248,6 @@
               </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -277,7 +255,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -315,11 +292,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="ak.php">非洲王朝</a></em></h3>
-
             <ul>
               <li>自爆筏現在有50的HP和3的遠程護甲。</li>
               <li>最初自爆筏的移動速度是1.6。4.8版本後降低為1.5。</li>
@@ -327,14 +302,12 @@
               <li><a href="Vikings.php">維京</a>:自爆筏訓練的費用在封建/城堡/帝王減少10%/15%/20%。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li>自爆筏現在有50的HP和3的遠程護甲。</li>
               <li><a href="Vikings.php">維京</a>：自爆筏訓練的費用在封建/城堡/帝王減少15%/15%/20%。</li>
             </ul>
           </div>
            <h3>豆知識</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -348,7 +321,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">自爆筏</a>
-
                 </div>
               </td>
             </tr>
@@ -362,14 +334,12 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">自殺單位</a>、<a href="Naval_Vessels.php">船</a>
-
               </td>
             </tr>
             <tr>
@@ -380,14 +350,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
-
               </td>
             </tr>
             <tr>
@@ -397,7 +365,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -412,7 +379,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -427,7 +393,6 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+180對<a href="Armor_class_building.php">建築</a>
-
               </td>
             </tr>
             <tr>
@@ -463,7 +428,6 @@
               <td class="unit3">升級到</td>
               <td class="unit4">
                 <img class="gg" src="img/DemoShipIcon.jpg" alt=""><a href="Demolition_Ship.php">神風船</a>
-
               </td>
             </tr>
             <tr>
@@ -480,23 +444,19 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Demoline.png"><img class="imgn" class="hg" src="img/Demoline.png" alt=""></a> 
                 <p><em>神風船系列(自爆筏在最左邊)。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Demoraft.png"><img class="imgn" class="hg" src="img/Demoraft.png" alt=""></a> 
                 <p><em>一群自爆筏。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/DemolitionRaft.png"><img class="imgn" class="hg" src="img/DemolitionRaft.png" alt=""></a> 
                 <p><em>各種自爆筏(世紀帝國和征服者入侵資料片)。</em>
-
                 </p>
               </div>
             </div>
@@ -505,5 +465,4 @@
           <?php include( "allunit.php"); ?>
           <?php include( "footn.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -157,13 +155,10 @@
                           <div class="p3">平式守衛(敵對)</div><br>
                           <div class="p7">當地人(友軍)</div></td>                    
                 </tr>                
-                      
              </table>
-              
               <h3>更新日誌</h3>
               <div class="hrn1"></div>
               <div class="n1">
-                  
             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
             <ul>    
                <li>步兵從封建時代攻擊速度快25%。</li>
@@ -192,7 +187,6 @@
                 <li>日本有許多火山，使日本的土地以島嶼來說是非常肥沃的，遊戲中日本有便宜的經濟建築，就是為了體現這一點。</li>  
                 <li>作為一個島嶼民族，日本人酷愛吃魚，遊戲中的漁船加成由此而來。</li>
             </ul></div>
-              
         <h3>圖庫</h3>
               <div class="hrn1"></div>
               <div class="n1"> 

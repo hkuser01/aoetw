@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,12 +20,10 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>步兵系</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於步兵系裝甲的。而關於步兵這個兵種的請參見<a href="Infantry_Units.php">步兵單位</a></em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -35,7 +31,6 @@
             <p>步兵系是一個防禦裝甲類別，所有在這個系列的兵種都會被剋步兵系的兵種有額外的傷害。</p>
           </div>
            <h3>步兵系單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">下列的單位都是步兵系單位
             <ul>
@@ -49,7 +44,6 @@
                 alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
                 <img class="gg" src="img/ChampionIcon.jpg"
                 alt=""> <a href="Champion.php">劍兵勇士</a>
-
               </li>
               <li>
                 <img class="gg" src="img/SpearmanIcon.jpg" alt=""> <a href="Spearman.php">長槍兵</a>→
@@ -92,14 +86,12 @@
             </ul>
           </div>
            <h3>剋步兵系的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對步兵系的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -109,26 +101,22 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">精銳聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a>(<a href="Aztecs.php">阿茲特克</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>(<a href="Incas.php">印加</a>限定)</li>
@@ -138,21 +126,18 @@
                 </div>
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -163,12 +148,10 @@
             </div>
           </div>
            <h3>技術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <img class="gg" src="img/Unique-tech.jpg" width="22" alt=""> <a href="Parthian_Tactics.php">後勤學</a> 
             <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
             </div>
             <ul>
               <li>
@@ -180,5 +163,4 @@
         <?php include( "alllarmor.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

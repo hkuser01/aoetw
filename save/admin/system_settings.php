@@ -4,20 +4,15 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/10
  */
- 
  // transfer data
  $getData = $_POST;
-  
  $selector_array			= array("0" => "否", "1" => "是");
- 
  $getResult = $getSettings->updateSettings($getData, $getLib);
- 
  if($getResult['status'] == true){	
 	$success_msg_array = $getResult['msg'];
  	$error_msg_array = array();
 	$new_msg = "若設定未更新，請<a href=\"./manage.php?p=system_settings\">按此</a>重新載入";
 	array_push($success_msg_array, $new_msg);
-	
 	// update setting lib
 	$getSettings 	= new Settings($config_setting_file_path);
 	$cpsub			= $getSettings->getSettings();
@@ -25,19 +20,15 @@
  	$success_msg_array = array();
 	$error_msg_array   = $getResult['msg'];
  }
- 
- 
  // get setting data
  $system_title 				= $getLib->setFilter($cpsub['title']);
  $system_filter 			= $getLib->setFilter($cpsub['filter']);
  $system_stripslashes 		= $getLib->setFilter($cpsub['stripslashes']);
  $system_display_num 		= $getLib->setFilter($cpsub['display_num']);
  $system_display_page_num 	= $getLib->setFilter($cpsub['display_page_num']);
- 
 ?>
 		<?php $getLib->showErrorMsg($error_msg_array);?>
 		<?php $getLib->showSuccessMsg($success_msg_array);?>
-		
 		<form class="form-horizontal" role="form" action="manage.php?p=system_settings" method="post">
 		  <div class="form-group">
 			<label for="system_title" class="col-lg-2 control-label">公告系統標題</label>
@@ -51,10 +42,8 @@
 			  	<select class="form-control" name="system_filter">
 				  <?php
 					foreach($selector_array AS $oKey => $oVal){
-						
 						if($oKey == $system_filter){
 							$selected = "selected";
-							
 						}else{
 							$selected = "";						
 						}
@@ -73,7 +62,6 @@
 				<?php
 					foreach($selector_array AS $oKey => $oVal){
 						$selected = "";
-						
 						if($oKey == $system_stripslashes){
 							$selected = "selected";
 						}

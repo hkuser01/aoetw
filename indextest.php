@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -16,7 +15,6 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111706873-1"></script>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <script>
@@ -49,5 +47,4 @@
     <!-- /container -->
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

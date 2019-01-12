@@ -4,7 +4,6 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
-	
 	// get json information
 	$aboutData	= json_decode(file_get_contents($config_about_author));
 	$label_color = array("default", "primary", "info", "danger", "success");

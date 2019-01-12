@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,11 +11,9 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <!DOCTYPE html>
     <html lang="zh-tw">
-      
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -29,7 +26,6 @@
           body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
         </style>
       </head>
-      
       <body>
         <nav class=" navbar-toggleable-md navbar-inverse fixed-top bg-inverse">
           <div class="collapse navbar-collapse" id="navbarsExampleDefault">
@@ -59,7 +55,6 @@
         </nav>
         <!-- /container -->
       </body>
-    
     </html>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
@@ -68,7 +63,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>百夫長</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -81,7 +75,6 @@
         <div class="col-md-8">
           <div class="n1">
              <h2>冷知識</h2>
-
             <p>事實上百夫長是羅馬軍隊中的一個等級，這個等級的指揮官一般指揮100人的部隊作戰。</p>
             <p>百夫長騎兵描繪成一名身穿柴郡式頭盔的重型騎兵并不準確。將百夫長稱為羅馬軍隊的高級將領（一般由參議院中抽調出）或拜占庭重裝甲騎兵會更準確。</p>
           </div>
@@ -91,7 +84,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">百夫長/a></div>       </td>      </tr>      <tr>       <td colspan="2" ><div class="unititle"><img src="Centurion.jpg" width="80" alt=""></div>       </td>      </tr>      <tr>        <td class="unit" colspan="2" style=" background-color:#d01022;">       <div class="unititle2" style="color: #fff;">單位介紹</div>       </td>      </tr>      <tr>        <td class="unit3">類型</td>       <td class="unit4"><a href="">步兵<br></td>      </tr>      <tr>        <td class="unit3">出場</td>       <td class="unit4">被遺忘的帝國</td>      </tr>      <tr>        <td class="unit" colspan="2" style="background-color:#d01022;">       <div class="unititle2" style="color: #fff;">統計</div>       </td>      </tr>       <tr>        <td class="unit3">血量</td>       <td class="unit4">150</td>      </tr>      <tr>        <td class="unit3">攻擊</td>       <td class="unit4">12近戰</td>      </tr>            <tr>        <td class="unit3">攻擊獎勵</td>       <td class="unit4">與步兵對抗時攻擊力+12</td>      </tr>      <tr>        <td class="unit3">攻速</td>       <td class="unit4">1.73</td>      </tr>      <tr>        <td class="unit3">近防</td>       <td class="unit4">2</td>      </tr>      <tr>        <td class="unit3">遠防</td>       <td class="unit4">1</td>      </tr>      <tr>        <td class="unit3">防禦類型</td>       <td class="unit4">騎兵</td>      </tr>      <tr>        <td class="unit3">跑速</td>       <td class="unit4">1.35</td>      </tr>      <tr>        <td class="unit3">視野</td>       <td class="unit4">5</td>      </tr> </table><div class="thanks">     </div> </div></div><div class="wiki" style="margin-top: 5px;"><div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div><div style="margin-left: 60px;">維基百科上的百夫長<div style="margin-left: 10px;"><i><strong><a href="https://en.wikipedia.org/wiki/Centurion">百夫長</a>
-
                   </strong>
                   </i>
                 </div>
@@ -101,7 +93,6 @@
     <!-- /container -->
     <!DOCTYPE html>
     <html lang="zh-tw">
-      
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -113,7 +104,6 @@
           body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
         </style>
       </head>
-      
       <body>
         <!-- Main jumbotron for a primary marketing message or call to action
         -->
@@ -167,7 +157,6 @@
                                                 href="Sir_John_Fastolf.php">約翰霍士道夫爵士</a>·<a href="Subotai.php">速不臺</a>·<a href="Tamerlane.php">帖木兒</a>·
                                                   <a
                                                   href="The_Black_Prince.php">黑親王</a>·<a href="Theodoric_the_Goth.php">哥德人狄奧多利克</a>·<a href="William_Wallace.php">威廉華勒斯</a>
-
                   </td>
                 </tr>
                 <tr>
@@ -263,11 +252,9 @@
         </div>
         <!-- /container -->
       </body>
-    
     </html>
     <!DOCTYPE html>
     <html lang="zh-tw">
-      
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -279,20 +266,16 @@
           body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
         </style>
       </head>
-      
       <body>
         <footer class="bs-docs-footer">
           <div class="container">
             <p>Designed and built with all the love in the world by <a href="" target="_blank">@cheap</a>
-
             </p>
           </div>
         </footer>
         <!-- /container -->
         <script src="js/Keywords.js"></script>
       </body>
-    
     </html>
   </body>
-
 </html>

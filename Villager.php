@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -116,7 +114,6 @@
               <td class="ttb2">食物</td>
               <td class="ttb3">0.388</td>
             </tr>
-			
 			<tr>
               <td class="ttb1">斯拉夫農民</td>
               <td class="ttb2">食物</td>
@@ -137,7 +134,6 @@
               <td class="tta2">食物</td>
               <td class="tta3">0.310</td>
             </tr>
-			
           </table>
           <p>請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發科技
             <a
@@ -607,5 +603,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>傭兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -32,7 +29,6 @@
               href="Team_Bonus.php">團隊加分</a>。與<a href="Berbers.php">柏柏</a>的標槍騎兵不同傭兵沒有精銳版本。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -66,7 +62,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -104,7 +99,6 @@
                 <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br>
                 <img class="gg" src="img/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
-
                 <br>
                 <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Garland_Wars.php">榮冠戰爭</a>:步兵攻擊+4，<a href="Aztecs.php">阿茲特克</a>限定。
                 <br>
@@ -134,7 +128,6 @@
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                   <br>
                   <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
@@ -148,28 +141,24 @@
               </tr>
           </table>
            <h3>剋傭兵的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對傭兵的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+22攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">精銳聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+21攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a>(<a href="Aztecs.php">阿茲特克</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -178,14 +167,12 @@
                       <img class="gg" src="img/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -197,32 +184,27 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -234,7 +216,6 @@
             <div class="n1">
               <img class="gg" src="img/Unique-tech.jpg" width="22" alt=""> <a href="Parthian_Tactics.php">後勤學</a> 
               <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
               </div>
               <ul>
                 <li>
@@ -245,7 +226,6 @@
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -271,7 +251,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -283,18 +262,15 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>傭兵需要城堡才能訓練。</li>
               <li>傭兵有9的攻擊與1的移動速度。</li>
               <li>訓練時間為11秒。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li>傭兵訓練不用先蓋城堡。</li>
               <li>傭兵有新的外觀。</li>
@@ -307,7 +283,6 @@
               <li><a href="Vikings.php">維京</a>:在4.8b版本後，<a href="Chieftains.php">酋長</a>讓傭兵對駱駝有額外+2攻擊。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li>5.7改版中，傭兵攻擊降為9，遠防降為0。</li>
               <li>5.7版本傭兵有了自己的防禦類別:<a href="Armor_class_Condottiero.php">傭兵護甲</a>，可以抵抗火藥單位的+10攻擊。</li>
@@ -315,7 +290,6 @@
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -358,27 +332,23 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">步兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Italians.php">義大利</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Barracks-logo.jpg" alt=""><a href="Barracks.php">軍營</a>
-
               </td>
             </tr>
             <tr>
@@ -432,9 +402,7 @@
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>(+10)
                 <br> <a href="Armor_class_Condottiero.php">傭兵</a>
-
                 <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -450,29 +418,24 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4"> <a href="img/Condottiero_Group.jpg"><img  class="imgn" class="hg" width="250" src="img/Condottiero_Group.jpg" alt=""></a> 
               <p><em>一群傭兵</em>
-
               </p>
             </div>
             <div class="col-md-4"> <a href="img/2.png"><img  class="imgn" class="hg" width="250" src="img/2.png" alt=""></a> 
               <p><em>一群傭兵(4.4版本後)</em>
-
               </p>
             </div>
             <div class="col-md-4"> <a href="img/Per.png"><img  class="imgn" class="hg" width="250" src="img/Per.png" alt=""></a> 
               <p><em>傭兵對沒有完整升級步兵的文明非常有價值，例如:波斯。</em>
-
               </p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="col-md-4"> <a href="img/Genoese_&_Condottiero.jpg"><img  class="imgn" class="hg" width="250" src="img/Genoese_&_Condottiero.jpg" alt=""></a> 
               <p><em>義大利的兩個特殊單位:傭兵(左)和熱那亞努手(右)</em>
-
               </p>
             </div>
           </div>
@@ -481,5 +444,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

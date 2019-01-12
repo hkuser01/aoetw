@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>火砲</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -57,7 +54,6 @@
             </div>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>火砲是非常強大的兵種，他可以摧毀大部分的建築，射程只輸給條頓城堡、韓國箭塔與土耳其<a href="Cannon_Galleon .php">火砲戰船</a>。一群火砲可以瞬間摧毀一個
@@ -68,7 +64,6 @@
             <p>雖然火砲是遊戲中最昂貴的兵種之一，但火砲比<a href="Trebuchet.php">投石機</a>更具操作性與機動性，因為他不需要組裝。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -122,21 +117,18 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br>
                 <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
           </table>
            <h3>剋火炮的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對火炮的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+65攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -144,7 +136,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -152,7 +143,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+50攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -160,7 +150,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -173,7 +162,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -181,7 +169,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -195,7 +182,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -203,14 +189,12 @@
                       alt=""><a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -222,7 +206,6 @@
                       <img class="gg" src="img/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -238,7 +221,6 @@
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -249,7 +231,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -260,18 +241,15 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>火砲必須先研發科技才可以訓練。</li>
               <li>火砲有50 HP。</li>
               <li><a href="Turks.php">土耳其</a>：火砲擁有+ 50%的HP。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>不需研發火砲科技，研發化學後即可訓練。</li>
               <li>火砲現在有80 HP。</li>
@@ -279,25 +257,20 @@
               <li>砲彈的射彈速度更快。</li>
               <li>引進<a href="Heresy.php">異端邪說</a>。</li>
               <li><a href="Turks.php">土耳其</a>：火砲現在擁有HP+25％。引進<a href="Artillery.php">砲兵</a>
-
               </li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li><a href="Teutons.php">條頓</a>：引進<a href="Ironclad.php">鋼鐵甲</a>
-
               </li>
               <li><a href="Italians.php">義大利</a>:火砲便宜15%。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li><a href="Arquebus.php">火繩槍</a>讓砲彈速度+0.5。</li>
               <li><a href="Italians.php">義大利</a>：4.8版本後火砲便宜20%。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li><a href="Arquebus.php">火繩槍</a>對火藥單位的影響減低到75%。</li>
               <li>5.2版本<a href="Arquebus.php">火繩槍</a>對火炮的影響被移除。</li>
@@ -305,19 +278,15 @@
             </ul>
           </div>
            <h3>英雄</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
               <li><a href="Jean_de_Lorrain.php">洛林的約翰</a>
-
               </li>
               <li><a href="Jean_Bureau.php">約翰布荷</a>
-
               </li>
             </ul>
              <h3>趣事</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -327,7 +296,6 @@
               </ul>
             </div>
              <h3>歷史</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>公元8世紀後中國發明火藥後，逐漸開始用投石機發射火藥彈，唐哀帝時鄭璠攻打豫章，曾「發機飛火燒龍沙門」，這種「發機飛火」並非指管形的火砲與砲彈，而是一種稱作砲的投石機投出的火藥球。</p>
@@ -335,13 +303,11 @@
               <p>1326至1346年。公元1326年義大利的佛羅倫斯城訂購了金屬制大砲，交易文件還保留到今日。愛德華三世在1327年跟蘇格蘭人作戰中和英法百年戰爭中著名的克雷西會戰曾使用大量火砲。元末於（1332年）曾在部隊中裝備了金屬砲管火砲－青銅火銃，是現今火砲的鼻祖之一。</p>
             </div>
              <h3>圖庫</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-4"> <a href="img/Bombardcannon.png"><img  class="imgn" class="hg" width="250" src="img/Bombardcannon.png" alt=""></a> 
                   <p><em>火砲</em>
-
                   </p>
                 </div>
               </div>
@@ -368,9 +334,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Siege_Weapons.php">攻城武器</a>
-
                 <br><a href="Gunpowder_Unit.php">火藥單位</a>
-
               </td>
             </tr>
             <tr>
@@ -381,14 +345,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" width="25px" src="img/Siegeworkshopicon.png" alt=""><a href="Siege_Workshop.php">攻城武器製造所</a>
-
               </td>
             </tr>
             <tr>
@@ -425,18 +387,13 @@
               <td class="unit3">攻擊加成</td>
               <div class="unititle2">數據</div>
               <td class="unit4">+200對<a href="Armor_class_building.php">建築</a>
-
                 <br>+40對<a href="Armor_class_stone_defense.php">石頭建築</a>
-
                 <br>+40對<a href="Armor_Class_Ship.php">船類</a>
-
                 <br>+20對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3"><a href="Area_of_Effect.php">擴散範圍</a>
-
               </td>
               <td class="unit4">0.5</td>
             </tr>
@@ -466,7 +423,6 @@
             </tr>
             <tr>
               <td class="unit3"><a href="Armor_class.php">近防</a>
-
               </td>
               <td class="unit4">2</td>
             </tr>
@@ -476,17 +432,13 @@
             </tr>
             <tr>
               <td class="unit3"><a href="Armor_class.php">防禦類型</a>
-
               </td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-
                 <br> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3"><a href="">跑速</a>
-
               </td>
               <td class="unit4">0.7</td>
             </tr>
@@ -503,7 +455,6 @@
               <td class="unit3">需要</td>
               <td class="unit4">
                 <img class="gg" src="img/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
-
               </td>
             </tr>
           </table>
@@ -514,5 +465,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

@@ -5,14 +5,12 @@
         <tr>
           <td class="unit" colspan="2" style=" background-color:#274a7d;">
             <div class="unititle"><a href="">世紀帝國文明</a>
-
             </div>
           </td>
         </tr>
         <tr>
           <td class="unit" colspan="2" style=" background-color:#3a73c7;">
             <div class="unititle2"><a href="aok.php"><img src="img/KingsIcon.png" style="margin-right:5px">帝王世紀</a>
-
             </div>
           </td>
         </tr>
@@ -40,7 +38,6 @@
         <tr>
           <td class="unit" colspan="2" style=" background-color:#3a73c7;">
             <div class="unititle2"><a href="aoc.php"><img src="img/ConquerorsIcon.png" style="margin-right:5px">征服者入侵</a>
-
             </div>
           </td>
         </tr>
@@ -66,7 +63,6 @@
         <tr>
           <td class="unit" colspan="2" style=" background-color:#3a73c7;">
             <div class="unititle2"><a href="aof.php"><img src="img/ForgottenIcon.png" style="margin-right:5px">失落的帝國</a>
-
             </div>
           </td>
         </tr>
@@ -92,7 +88,6 @@
         <tr>
           <td class="unit" colspan="2" style=" background-color:#3a73c7;">
             <div class="unititle2"><a href="ak.php"><img src="img/AfricanIcon.png" style="margin-right:5px">非洲王國</a>
-
             </div>
           </td>
         </tr>
@@ -113,7 +108,6 @@
         <tr>
           <td class="unit" colspan="2" style=" background-color:#3a73c7;">
             <div class="unititle2"><a href="aor.php"><img src="img/RajaIcon.png" style="margin-right:5px">王者崛起</a>
-
             </div>
           </td>
         </tr>

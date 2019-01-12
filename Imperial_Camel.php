@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -143,7 +141,6 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </div>
                 </div>
-                  
                 <div class="col-md-6">
                     <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
@@ -159,7 +156,6 @@
                     <li>
                       <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
                     </li>
-                    
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
                   </div>
@@ -439,5 +435,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

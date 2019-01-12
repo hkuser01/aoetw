@@ -1,34 +1,19 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-
     <title>Aoetw</title>
-
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="http://getbootstrap.com/assets/css/docs.min.css" rel="stylesheet">
-    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-
-
     <!-- Custom styles for this template -->
-    <link href="jumbotron.css" rel="stylesheet">
     <style>
         body {
             padding-top: 0px;
@@ -37,22 +22,12 @@
             font-size: 18px;
         }
     </style>
-
-
-
-
-
 </head>
-
 <body>
 <?php include("head.php"); ?>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
-  
-
     <div class="container">
         <!-- Example row of columns -->
-
 <div class="row" style=" margin-top: 50px;">
   <div class="col-md-12">
 <h1>聖女貞德</h1>
@@ -66,13 +41,9 @@
 就在這最黑暗的時刻，一位年輕的村女卻公開宣佈，她決定要保衛法國到底.....</em>
 <p style="text-align: right;margin-top: 10px;">-遊戲中對於聖女貞德戰役的介紹</p>
   </div>
-
 <p>聖女貞德（法語：Jeanne d'Arc或Jeanne la Pucelle；英語：Saint Joan of Arc；1412年1月7日－1431年5月30日）是法國的軍事家，天主教聖人，被法國人視為民族英雄。
 在英法百年戰爭（1337年－1453年）中她帶領法蘭西王國軍隊對抗英格蘭王國軍隊的入侵，最後被捕並被處決。
 遊戲中便是以貞德帶領法國軍隊擊退英國軍隊的一系列戰役為藍本。</p>
-
-
-
 </div>
 <h3>英雄</h3>
 <div class="hrn1"></div>
@@ -80,7 +51,6 @@
 <p>聖女貞德是騎兵英雄。在遊戲中，她是一個必須生存完成關卡任務的單位。</p>  
 <p>在第一關戰役（一個不大可能的彌賽亞），她會出現她從軍前的樣式，例如農家女貞德，在2-5的關為騎兵型態的貞德，在最後一個關卡，完美的烈士沒有出現(劇情中第5關後貞德被英軍俘虜)。她也可以在地圖編輯器中找到。為英雄單位，她不會被招降，能夠自動恢復HP。</p>
 </div>
-
 <h3>關卡</h3>
 <div class="hrn1"></div>
 <div class="n1">   
@@ -103,7 +73,6 @@
   <p>聖女貞德戰役地圖</p>
 </div>
 </div>
-
 <h3>芝麻小事</h3>
 <div class="hrn1"></div>
 <div class="n1"> 
@@ -112,17 +81,10 @@
   <li>遊戲中，貞德共有2種單位型態。</li>
   <li>貞德死後成為西方文化的一個重要角色。從拿破崙時代到現在，法國的政治人物常以她的偉大形象進行宣傳。眾多的作家和作曲家，包括莎士比亞、伏爾泰、席勒、威爾第、馬克吐溫、柴可夫斯基、蕭伯納與布萊希特都創作過有關她的作品，而大量以她為題材的電影、戲劇、和音樂也一直持續發展直到今天。</li>
 </ul>
-
-
-
 </div>
-
-
-
 </div>
   </div>
   <div class="col-md-4">
-     
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;;">
@@ -155,9 +117,6 @@
       <td class="unit3">關卡</td>
        <td class="unit4">6</td>
       </tr>
-
-
-
   </table>
 <div class="thanks">
        感謝! 此頁面由裕暉協助編輯
@@ -170,29 +129,17 @@
 </div>
   </div>
 </div>
-
  <div class="row">
   <div class="col-md-12">
-
-
-
   </div>
 </div>  
-
-
-
     </div>
     <!-- /container -->
 <?php include("allbatt.php"); ?>
 <?php include("foot.php"); ?>
-
-
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
 </body>
-
 </html>

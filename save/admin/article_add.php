@@ -4,16 +4,12 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
- 
 $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $config_ip_file_path, $getLib); 
- 
  // transfer data
  $getData = $_POST;
  $getFile = $_FILES;
-  
  // set add function
  $getResult = $getArticle->addNewArticle($getData, $getFile);
- 
  if($getResult['status'] == true){	
 	$success_msg_array = $getResult['msg'];
  	$error_msg_array = array();
@@ -22,11 +18,9 @@ $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $co
  	$success_msg_array = array();
 	$error_msg_array   = $getResult['msg'];
  }
-
 ?>
 		<?php $getLib->showErrorMsg($error_msg_array);?>
 		<?php $getLib->showSuccessMsg($success_msg_array);?>
-		
 		<!--CK Editor -->
 		<script src="js/ckeditor/ckeditor.js"></script>
 	    <script src="js/ckeditor/adapters/jquery.js"></script>
@@ -73,7 +67,6 @@ $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $co
 				<input type="text" name="article_date" value="<?=date("Y-m-d");?>" class="form-control auto_selectbar" > (年-月-日 ) 
 			</div>
 		  </div>
-
 		  <div class="form-group">
 			<div class="col-lg-1"></div>
 			<div class="col-lg-11" style="border: solid 1px; padding: 15px; background: #f9ebf0;">
@@ -83,7 +76,6 @@ $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $co
 				<br><span style="font-weight: bold;">介紹：</span>cheap誤幹隊友豬
 			</div>
 		  </div>
-
 		  <div class="form-group">
 			<label for="article_author" class="col-lg-2 control-label">文章內容</label>
 			<div class="col-lg-10">

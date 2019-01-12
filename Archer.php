@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>弓兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -30,7 +27,6 @@
             <a
             href="Infantry_Units.php">步兵</a>及有效屠殺對方<a href="Villager.php">村民</a>的明智選擇。</div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">弓兵由於是遠程兵種，在<a href="Feudal_Age.php">封建時代</a>就相當的致命，可以有效屠殺<a href="Villager.php">村民</a>來擾亂敵人的經濟，在數量成形前比較怕
             <a
@@ -40,7 +36,6 @@
                 <a
                 href="Knight.php">騎士</a>，依靠著大量弓兵，對方還是會有所忌憚。而弓兵駐紮<a href="Watch_Tower.php">箭塔</a>裡則可以放出更多的箭矢，增加威力。</div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -117,7 +112,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br>
                 <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -129,39 +123,33 @@
             </tr>
           </table>
            <h3>剋射手系的單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對射手系的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="row">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CannonGalleonIcon.jpg" alt=""> <a href="Cannon_Galleon.php">火砲戰船</a>→
                       <img class="gg" src="img/CannonGalleonIcon.jpg"
                       alt=""> <a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HuskarlIcon.jpg" alt=""> <a href="Huskarl.php">精銳哥德衛隊</a>(<a href="Goths.php">哥德</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HuskarlIcon.jpg" alt=""> <a href="Huskarl.php">哥德衛隊</a>(<a href="Goths.php">哥德</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -172,7 +160,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -182,16 +169,13 @@
                       <img class="gg" src="img/GenitourIcon.jpg" alt=""> <a href="Genitour.php">標槍騎兵</a>(<a href="Berbers.php">柏柏</a>和同盟限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SkirmisherIcon.jpg" alt=""> <a href="Skirmisher.php">矛兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+0攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -200,7 +184,6 @@
                       alt=""> <a href="Cavalier.php">騎兵</a>→
                       <img class="gg" src="img/PaladinIcon.jpg"
                       alt=""> <a href="Paladin.php">遊俠</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""> <a href="Knight.php">聖騎兵</a>→
@@ -228,7 +211,6 @@
             <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -242,7 +224,6 @@
             </div>
         </div>
          <h3>文明加成</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -257,7 +238,6 @@
           </ul>
         </div>
          <h3>團隊加成</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -270,16 +250,13 @@
           </ul>
         </div>
          <h3>更新日誌</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
            <h3><em><a href="aok.php">帝王世紀</a></em></h3>
-
           <ul>
             <li>訓練時間為27秒。</li>
           </ul>
            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
           <ul>
             <li>訓練增加到35秒。</li>
             <li>對<a href="Armor_Class_Spearman.php">槍兵系</a>的攻擊+3。</li>
@@ -288,7 +265,6 @@
             <li><a href="Britons.php">不列顛</a>:引進<a href="Yeomen.php">義勇騎兵</a>，只能在帝王時代研發。</li>
           </ul>
            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
           <ul>
             <li><a href="Britons.php">不列顛</a>:<a href="Yeomen.php">義勇騎兵</a>移到了城堡時代。</li>
             <li><a href="Mayans.php">馬雅</a>:引進<a href="Obsidian_Arrows.php">黑曜石之箭</a>。弓兵對
@@ -296,7 +272,6 @@
               href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+4。</li>
           </ul>
            <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
           <ul>
             <li><a href="Italians.php">義大利</a>:<a href="Pavise.php">巨盾</a>現在會加成弓兵。</li>
             <li><a href="Mayans.php">馬雅</a>:<a href="Obsidian_Arrows.php">黑曜石之箭</a>現在給弓兵對
@@ -305,7 +280,6 @@
           </ul>
         </div>
          <h3>趣事</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -316,7 +290,6 @@
           </ul>
         </div>
          <h3>歷史</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <p>“弓在羅馬淪陷後依然是重要的軍事武器，但在被茂密森林覆蓋的歐洲地區則不然。弓箭手可以從遠處，從牆壁或其他掩體後面，以及在叢林中作戰。 他們通常在襲擊的戰鬥中不具決定性，因為他們無法像步兵那樣直接擊倒敵人。他們主要擔任防禦部隊或是在軍隊交鋒時能破壞敵方陣型的輕裝部隊。如果在衝突發生之前，弓兵能造成敵人傷亡並消耗對方的精力，那麼友軍就更有可能擊倒敵人並獲得勝利。在守衛和攻擊城堡時，弓箭手也非常有用“</p>
@@ -327,7 +300,6 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle"><a href="">弓兵</a>
-
               </div>
             </td>
           </tr>
@@ -341,14 +313,12 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle2"><a href="">單位介紹</a>
-
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4"><a href="Archer_Units.php">射手</a>
-
             </td>
           </tr>
           <tr>
@@ -359,14 +329,12 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt=""><a href="Feudal_Age.php">封建時代</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" width="25px" src="img/Archery-range-logo.jpg" alt=""><a href="Archery_Range.php">射箭場</a>
-
             </td>
           </tr>
           <tr>
@@ -402,7 +370,6 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">+3對<a href="Armor_Class_Spearman.php">槍兵類</a>
-
             </td>
           </tr>
           <tr>
@@ -436,7 +403,6 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-
             </td>
           </tr>
           <tr>
@@ -456,7 +422,6 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="img/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>
-
             </td>
           </tr>
           <tr>
@@ -472,17 +437,14 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4"> <a href="img/Archerline.png"><img class="imgn" class="hg" src="img/Archerline.png" alt=""></a> 
             <p><em>弓兵系</em>
-
             </p>
           </div>
           <div class="col-md-4"> <a href="img/Archer.png"><img class="imgn" class="hg" src="img/Archer.png" alt=""></a> 
             <p><em>一群弓兵</em>
-
             </p>
           </div>
         </div>
@@ -491,5 +453,4 @@
       <?php include( "allunit.php"); ?>
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

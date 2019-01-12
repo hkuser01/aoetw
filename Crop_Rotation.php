@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>輪耕</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -77,7 +74,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">輪耕</a>
-
                 </div>
               </td>
             </tr>
@@ -91,7 +87,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -103,21 +98,18 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Feudal_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Mill-icon.jpg" alt=""><a href="Mill.php">磨坊</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
                 <img src="img/Heavyplow.jpg" width="22" alt=""><a href="Heavy_Plow.php">重犁</a>
-
               </td>
             </tr>
             <tr>
@@ -127,7 +119,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -142,7 +133,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>
@@ -162,5 +152,4 @@
     <?php include( "alltech.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

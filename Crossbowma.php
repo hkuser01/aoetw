@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>弩兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -31,7 +28,6 @@
             <p>除了西班牙人之外，所有文明都有弩兵。</p>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>升級弩兵後，本來訓練弓兵要35秒而縮短到27秒，所以升級弩兵非常重要。與馬步等近戰類兵種的配合，更可以凸顯遠程弩兵的威力，由近戰提供防護，遠程提供火力掩護，一直以來是世紀帝國最好的搭配。</p>
@@ -39,7 +35,6 @@
             <p>戰茅兵是非常有效殺傷弩兵的單位，而且不用黃金，但缺點就是只能拿來殺弩兵，打其他單位顯得無力。</p>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -54,7 +49,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -70,7 +64,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">弩兵</a>
-
                 </div>
               </td>
             </tr>
@@ -84,14 +77,12 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">射手</a>
-
               </td>
             </tr>
             <tr>
@@ -101,13 +92,11 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4"><a href="">射箭場</a>
-
               </td>
             </tr>
             <tr>
@@ -117,7 +106,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -132,7 +120,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -170,7 +157,6 @@
             </tr>
             <tr>
               <td class="unit3"><a href="">近防</a>
-
               </td>
               <td class="unit4">0</td>
             </tr>
@@ -184,7 +170,6 @@
             </tr>
             <tr>
               <td class="unit3"><a href="">跑速</a>
-
               </td>
               <td class="unit4">0.96</td>
             </tr>
@@ -195,7 +180,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>
@@ -203,14 +187,12 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img src="img/ArcherIcon.jpg" alt=""><a href="Archer.php">弓兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
                 <img src="img/ArbalestIcon.jpg" alt=""><a href="Arbalest.php">強弩兵</a>
-
               </td>
             </tr>
             <tr>
@@ -231,5 +213,4 @@
     <!-- /container -->
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

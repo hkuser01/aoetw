@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>匈奴王貝里達</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -35,7 +32,6 @@
           <div></div>
           <div></div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">儘管真正的阿提拉（Attila the Hun）在哥哥去世後成為了匈奴帝國的領導者，但是他稱王的情況幾乎沒有歷史記錄。一些消息來源指出，貝里達在西元445年匈奴將他們的軍隊撤出拜占庭之後被謀殺，另外一些人則推測是一次表面上是狩獵之旅但實際是貝里達要暗殺阿提拉的計畫中，最後計劃失敗貝里達反而被殺阿提拉則順勢登上王座。阿提拉同名戰役的第一場採用了了狩獵之旅的版本。</div>
         </div>
@@ -44,7 +40,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">匈奴王貝里達</a>
-
                 </div>
               </td>
             </tr>
@@ -63,7 +58,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">騎兵<br>英雄</a>
-
               </td>
             </tr>
             <tr>
@@ -130,5 +124,4 @@
     <?php include( "allhero.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

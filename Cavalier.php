@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,10 +20,8 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>騎兵</h1>
-
           <div class="hrn1"></div>
           <div class="spw"><em><img src="img/Attila_the_Hun.png" width="50px;" alt="" style="margin-right:20px;">阿提拉：不要搞錯了！：此頁面和<a href="Cavalry_Units.php">騎兵類單位</a>與<a href="Armor_Class_Cavalry.php">騎兵防禦</a>。不同喔！</em>
-
           </div>
         </div>
         <div class="col-md-8">
@@ -61,11 +57,9 @@
             </div>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">騎兵在帝王時代比城堡時代擁有更多的血量與攻擊力。在團戰時，可以做為主要的坦與輸出。</div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -133,7 +127,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br>
                 <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -153,25 +146,20 @@
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+32攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+22攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -180,12 +168,10 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
@@ -194,7 +180,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -205,39 +190,33 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -245,7 +224,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -284,7 +262,6 @@
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -304,7 +281,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -318,7 +294,6 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
@@ -354,7 +329,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-
               </td>
             </tr>
             <tr>
@@ -365,14 +339,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" class="gg" src="img/Stable-logo.jpg" alt=""><a href="Stable.php">馬廄</a>
-
               </td>
             </tr>
             <tr>
@@ -382,7 +354,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -422,12 +393,10 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3"><a href="">跑速</a>
-
               </td>
               <td class="unit4">1.35</td>
             </tr>
@@ -444,14 +413,12 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img class="gg" src="img/KnightIcon.jpg" alt=""><a href="Knight.php">騎士</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
                 <img class="gg" src="img/PaladinIcon.jpg" alt=""><a href="Paladin.php">遊俠</a>
-
               </td>
             </tr>
             <tr>
@@ -468,18 +435,15 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4"> <a href="img/Knightline.png"><img class="imgn" class="hg" src="img/Knightline.png" alt=""></a> 
               <p><em>騎士系。</em>
-
               </p>
             </div>
             <div class="col-md-4"> <a href="img/Cavalier.png"><img class="imgn" class="hg" src="img/Cavalier.png" alt=""></a> 
               <p><em>一群騎兵。</em>
-
               </p>
             </div>
           </div>
@@ -490,5 +454,4 @@
     <?php include( "allunit.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

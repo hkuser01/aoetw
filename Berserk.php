@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>狂戰士</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -33,7 +30,6 @@
                 <a
                 href="Imperial_Age.php">帝王時代</a>升級為精銳狂戰士。</div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -53,7 +49,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -93,7 +88,6 @@
                 <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br>
                 <img class="gg" src="img/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
-
                 <br>
                 <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Chieftains.php">酋長</a>:步兵對<a href="Armor_Class_Cavalry.php">騎兵</a>攻擊+5，對
                 <a
@@ -121,7 +115,6 @@
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                   <br>
                   <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
@@ -139,14 +132,12 @@
               </tr>
           </table>
            <h3>剋狂戰士的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對狂戰士的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -156,7 +147,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -165,19 +155,16 @@
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a>(<a href="Aztecs.php">阿茲特克</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>(<a href="Incas.php">印加</a>限定)</li>
@@ -189,21 +176,18 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -216,7 +200,6 @@
           <div class="n1">
             <img class="gg" src="img/Unique-tech.jpg" width="22" alt=""> <a href="Parthian_Tactics.php">後勤學</a> 
             <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
             </div>
             <ul>
               <li>
@@ -224,7 +207,6 @@
             </ul>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -232,7 +214,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -246,11 +227,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aok.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>狂戰士的HP是48(精銳是60)。</li>
               <li>狂戰士的訓練時間需要16秒。</li>
@@ -258,7 +237,6 @@
               <li>狂戰士的遠防為0。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>狂戰士的移動速度是0.9。</li>
               <li>狂戰士的遠防為0。</li>
@@ -266,7 +244,6 @@
               <li><a href="Vikings.php">維京</a>:引進<a href="Berserkergang.php">狂戰士幫</a>，成本為500肉850金。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>狂戰士的HP是54(精銳是62)。</li>
               <li>狂戰士的訓練時間需要14秒。</li>
@@ -275,7 +252,6 @@
                 href="Chieftains.php">酋長</a>，成本為700肉400金並給狂戰士對<a href="Armor_Class_Cavalry.php">騎兵</a>攻擊+4。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王朝</a></em></h3>
-
             <ul>
               <li>引進<a href="Arson.php">縱火</a>。</li>
               <li><a href="Vikings.php">維京</a>:<a href="Chieftains.php">酋長</a>現在成本為400肉300金並給狂戰士對
@@ -286,7 +262,6 @@
                 href="Armor_Class_Camel.php">駱駝騎兵</a>攻擊+2。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li><a href="Vikings.php">維京</a>:5.7版本後<a href="Chieftains.php">酋長</a>給狂戰士對
                 <a
@@ -294,7 +269,6 @@
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -303,7 +277,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>第八世紀末，斯堪的納維亞的海盜襲擊者突然出現在北歐，在接下來的150年裡他們突襲並掠奪了沿海社區，讓查理曼大帝在統一北歐時做的文明復甦措施大部分被他們造成的混亂所破壞，維京人以戰術上的強大海軍軍事力量和兇猛而聞名，目擊者稱維京人的戰士偶爾會以幾乎不人道的熱情進行“狂熱”攻擊，無視所有危險，這種行為令人感到恐懼。在廣泛的迷信時期，能夠與戰鬥慾望發瘋的能力是一個強大的屬性。</p>
@@ -331,27 +304,23 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">步兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Vikings.php">維京</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Castle-logo.jpg" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -407,9 +376,7 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_Class_Infantry.php">步兵</a>
-
                 <br> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -423,7 +390,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>
@@ -446,12 +412,10 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4"> <a href="img/Berserk.png"><img class="imgn" class="hg" src="img/Berserk.png" alt=""></a> 
               <p><em>一群狂戰士</em>
-
               </p>
             </div>
           </div>
@@ -460,5 +424,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

@@ -4,7 +4,6 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
- 
  // include configuration file
  include_once("config/config.php");
  // include setting file
@@ -19,45 +18,34 @@
  include_once("class/auth.php");
  // include template file
  include_once("class/template.php");
- 
  session_start();
- 
  $getSettings 	= new Settings($config_setting_file_path);
  $cpsub			= $getSettings->getSettings();
  $getLib 		= new Lib($cpsub['filter'], $cpsub['stripslashes']);
  $getAuth 		= new Auth($config_account_data, $getLib);
  $getTmp 		= new Template($config_current_version);
- 
- 
  // check file status
  $getLib->checkFileStatus($config_default_folder);
  $getLib->checkFileStatus($config_article_file_path);
  $getLib->checkFileStatus($config_ip_file_path);
- 
  // get page val
  if(isset($_GET['p'])){
 	$p = $getLib->setFilter($_GET['p']);
  }else{
  	$p = "";
  }
- 
  if(!$getLib->checkVal($p)){
 	$p = "about";
  }
-  
  // check auth
  $getAuth->checkAuth($_COOKIE, $_SESSION, $p);
- 
  // get page folder
  $include_path = $getLib->checkAdminPath($p);
-
  // current page
  $website_current_page = "管理"; 
- 
  // get title
  $website_title = $getLib->setFilter($cpsub['title']). "-" .$website_current_page;
 ?>
-
 <!DOCTYPE html>
 <html lang="zh-tw">
   <head>

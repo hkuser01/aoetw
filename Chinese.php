@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>中國</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -30,7 +27,6 @@
             <p>中國是非常古老的民族，甚至可以說是世紀帝國II裡面最具有歷史性的文明之一(同樣古老的有波斯)。中國人由於戰術與文化，善於使用弓箭、弩、火器等遠程攻擊武器，而遊戲中，中國的多樣性得到了展現。中國是古老的國家，許多技術由中國傳出，然而遊戲為了平衡，拿掉了許多中國"該有"的技術。人口第一一直是中國的標誌，而至今他們仍舊保留這個頭銜。</p>
           </div>
            <h3>文明概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -42,13 +38,11 @@
               <li>城堡時代特殊科技長城，讓喜歡打大後期的玩家有好的防禦力。帝王時代的特殊科技為火箭術，這個科技則讓本來就已經很強大的中國遠程火力變得更加威猛。</li>
             </ul>
              <h3>特殊單位</h3>
-
             <ul>
               <li>
                 <img class="gg" src="img/ChuKoNuIcon.jpg" alt="">連弩兵:可以一次射出許多箭矢的弓兵，對於長槍兵系的傷害+2</p>
               </li>
                <h3>特殊科技</h3>
-
               <ul>
                 <li>
                   <img class="gg" src="img/CastleAgeUnique.png" alt="">長城：塔與城牆+30%生命值</li>
@@ -57,7 +51,6 @@
               </ul>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -74,7 +67,6 @@
             <em><a href="chi.php">中國科技樹</a></em>
           </div>
            <h3>戰術概論</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul><strong>優勢</strong> 
@@ -129,7 +121,6 @@
             </ul>
           </div>
            <h3>出場戰役</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>

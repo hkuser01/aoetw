@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>飛鏢騎兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -35,7 +32,6 @@
               href="bestciv.php">四大強國</a>，不管在團戰還是單挑的比賽中都是常客。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -65,7 +61,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -136,7 +131,6 @@
             </tr>
           </table>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -144,7 +138,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -157,11 +150,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li>最初飛鏢騎兵的攻擊是18(精銳是20)，移動速度則是 1.35。5.7改版後攻擊力下調為17/19(精銳)，移動速度則降為 1.3。</li>
               <li>飛鏢騎兵(包含精銳)攻擊 -1</li>
@@ -170,14 +161,12 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>飛鏢騎兵英文名稱『Arambai』是飛鏢武器的名稱，一種頭尖銳，末端用羽毛裝飾的武器。這是印度東北部曼尼普爾邦梅泰族（Meiteis）善用的祕密武器。飛鏢由騎士背在身上，戰爭時會塗上毒藥，藉由騎兵的高機動性，投擲出飛鏢射向敵人，在敵人還沒反應過來前離開。時至今日，在曼尼普爾節（Kwak
               Jatra）當地的曼尼普爾人仍會使用飛鏢來慶祝。</p>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -211,27 +200,23 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>、 <a href="Archer_Units.php">弓兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Slavs.php">緬甸</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -299,11 +284,8 @@
             <tr>
               <td class="unit3">裝甲類型</td>
               <td class="unit4"><a href="Armor_Class:_Archer.php">射手</a>
-
                 <br> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
-
                 <br> <a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -317,7 +299,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>
@@ -340,29 +321,24 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/2018sa.png"><img  class="imgn" class="hg" width="250" src="img/2018sa.png" alt=""></a> 
                 <p><em>一群飛鏢騎兵</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Arambai_darts.jpg"><img  class="imgn" class="hg" width="250" src="img/Arambai_darts.jpg" alt=""></a> 
                 <p><em>飛鏢</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Arambai_attacking.jpg"><img  class="imgn" class="hg" width="250" src="img/Arambai_attacking.jpg" alt=""></a> 
                 <p><em>飛鏢騎兵的攻擊方式是丟飛鏢</em>
-
                 </p>
               </div>
               <div class="col-md-12">
                 <div class="col-md-4"> <a href="img/Meitei_horsemen.jpg"><img  class="imgn" class="hg" width="250" src="img/Meitei_horsemen.jpg" alt=""></a> 
                   <p><em>騎在小馬上的曼尼普爾騎兵。</em>
-
                   </p>
                 </div>
               </div>
@@ -373,5 +349,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

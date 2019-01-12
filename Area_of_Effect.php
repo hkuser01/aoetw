@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .ten{          font-size: 15px;          color: #31708f;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>擴散範圍</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
@@ -30,7 +27,6 @@
             <p>擴散範圍是指攻擊時可以一次影響多個區域。</p>
           </div>
            <h3>概說</h3>
-
           <div class="hrn1"></div>
           <div class="n1">擴散範圍可以一次攻擊大範圍的面積，在區域內的單位都可能受到傷害，而影響面積也包含樹木。擴散範圍的攻吉野會攻擊到自己或是同盟的單位，這點是需要注意的。
             <p>以下單位擁有擴散範圍的攻擊，標有*的是攻擊不分敵我的</p>
@@ -44,7 +40,6 @@
             </ul>
           </div>
            <h3>踐踏傷害</h3>
-
           <div class="hrn1"></div>
           <div class="n1">特定的重騎兵單位可以只造成敵軍傷害的擴散攻擊，擁有此技能的單位非常好用，因為可以更有效率的攻擊敵人，能夠一次打擊多個單位。
             <p>以下單位擁有踐踏的傷害</p>
@@ -63,5 +58,4 @@
       <?php include( "allen.php"); ?>
       <?php include( "foot.php"); ?>
   </body>
-
 </html>

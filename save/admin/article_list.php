@@ -4,16 +4,13 @@
  * Author: Cooltey Feng
  * Lastest Update: 2014/6/9
  */
- 
  // set Article
  $getArticle 	= new Article($config_upload_folder, $config_article_file_path, $config_ip_file_path, $getLib);
- 
  if(isset($_GET['page'])){
  	$page    		= $_GET['page'];
  }else{
 	$page 		= 0;
  }
-
  // get article list					
  $getListArray  = $getArticle->getAllList("display", "id", "desc");
  $getListSum    = count($getListArray);
@@ -25,7 +22,6 @@
  $getPage 		= new Pager($page, $many, $display, $total, $pagename);
  $pageStart  	= intval($getPage->startVar);
  $pageMany  	= intval($getPage->manyVar);
- 
 ?>
 		<div class="panel panel-default">
 			<table class="table table-hover">

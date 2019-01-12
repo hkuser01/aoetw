@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -78,7 +76,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">旱碼頭</a>
-
                 </div>
               </td>
             </tr>
@@ -92,7 +89,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -104,21 +100,18 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
                 <img class="gg" src="img/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">前置升級</td>
               <td class="unit4">
                 <img class="gg" src="img/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>
-
               </td>
             </tr>
             <tr>
@@ -128,7 +121,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -143,7 +135,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>
@@ -162,5 +153,4 @@
     <?php include( "alltech.php"); ?>
     <?php include( "footn.php"); ?>
   </body>
-
 </html>

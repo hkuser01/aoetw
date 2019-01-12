@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>一個不太可能的彌賽亞</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -30,17 +27,14 @@
             <p>一個不太可能的彌賽亞是在貞德戰役第一個劇情關卡，這是描述2位英雄貝查德斯歐力、梅茲的斯歐力與法國軍隊護送貞德至齊儂的任務。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
                 <td class="tc2" width="15%">
                   <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt=""><a href="Castle_Age.php">城堡時代</a>
-
                 </td>
                 <td class="tc1" width="15%">起始資源:</td>
                 <td class="tc2">無</td>
@@ -49,7 +43,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -39,7 +37,6 @@
               href="Galleon.php">重型弩炮戰船</a>的話玩家的經濟必須相當的好才行。但如果同時有這兩種船隻的話前者可以做輸出主力，後者則做肉盾，足以應付敵方的任何艦隊。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -108,21 +105,18 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="img/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br>
                 <img class="gg" src="img/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
           </table>
            <h3>剋卡拉維爾戰船的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對卡拉維爾戰船的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -133,7 +127,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+17攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -141,7 +134,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+16攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -149,14 +141,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -166,7 +156,6 @@
                       <img class="gg" src="img/LongboatIcon.jpg" alt=""><a href="Longboat.php">精銳維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -176,7 +165,6 @@
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -200,7 +188,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -212,7 +199,6 @@
                       alt=""><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a href="Khmer.php">高棉</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -222,14 +208,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -239,7 +223,6 @@
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -249,7 +232,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -259,7 +241,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -267,7 +248,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -283,7 +263,6 @@
               <div class="col-md-4">
                 <img src="img/Heatedshot.png" width="22" alt=""><a href="Heated_Shot.php">預熱射擊</a> 
                 <div style="margin:12px 0px;"><strong>+13攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -291,7 +270,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -301,7 +279,6 @@
               </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -309,7 +286,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -337,7 +313,6 @@
             </ul>
           </div>
            <h3>豆知識</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -359,7 +334,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">卡拉維爾戰船</a>
-
                 </div>
               </td>
             </tr>
@@ -373,34 +347,29 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Naval_Vessels.php">船</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Portuguese.php">葡萄牙</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
-
               </td>
             </tr>
             <tr>
@@ -410,7 +379,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -425,7 +393,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -440,11 +407,8 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+6/+7(精銳)對<a href="Armor_Class_Ship.php">船</a>
-
                 <br>+8/+9(精銳)對<a href="Armor_class_building.php">建築</a>
-
                 <br>+4對<a href="Armor_Class_Ram.php">衝撞車</a>
-
               </td>
             </tr>
             <tr>
@@ -478,9 +442,7 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class_Ship.php">船</a>
-
                 <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -494,7 +456,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>
@@ -502,7 +463,6 @@
               <td class="unit3">升級到</td>
               <td class="unit4">
                 <img class="gg" src="img/CaravelIcon2.jpg" alt=""><a href="Caravel.php">精銳卡拉維爾戰船</a>
-
               </td>
             </tr>
             <tr>
@@ -519,23 +479,19 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Caravel.png"><img class="imgn" class="hg" src="img/Caravel.png" alt=""></a> 
                 <p><em>一群卡拉維爾戰船。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Caravel_vs_Longboats.jpg"><img class="imgn" class="hg" src="img/Caravel_vs_Longboats.jpg" alt=""></a> 
                 <p><em>卡拉維爾戰船對維京大戰船。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Caravel_history.jpg"><img class="imgn" class="hg" src="img/Caravel_history.jpg" alt=""></a> 
                 <p><em>卡拉維爾戰船美術圖。</em>
-
                 </p>
               </div>
             </div>
@@ -545,5 +501,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

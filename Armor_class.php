@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,17 +20,14 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>防禦與防禦類型</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
           <div class="n1">
             <p>防禦類型屬於遊戲內隱藏的項目，讓防禦對應不同的攻擊加成。</p>
             <br><strong>這篇條目包含防禦類型與遠防、近防</strong>
-
           </div>
            <h3>防禦類型</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>攻擊加成和防禦類型都不會在遊戲中顯示，雖然科技樹都會寫這個單位對哪些單位有加成，可以造成額外的傷害，但他不會說這個額外傷害是多少，或者這個單位屬於哪個防禦類型。即使大多的單位你用肉眼就可以得知這個單位屬於哪些類型，例如
@@ -45,7 +40,6 @@
                     <a
                     href="Armor_Class_Camel.php">駱駝類</a>，面對<a href="Spearman.php">槍兵</a>他受的到傷害更小。</p>
              <h3>功能</h3>
-
             <p>基本上，計算傷害很簡單就是攻擊減去裝甲。但有防禦類型，就必須累加。</p>
             <p>簡單的說，如果一個單位有多種防禦類型，那麼攻擊他的加成就會增加，例如<a href="War_Elephant.php">戰象</a>有兩個防禦類型，
               <a
@@ -59,85 +53,62 @@
                 href="Cavalry_Unit.php">騎兵</a>更不怕反騎兵的攻擊。另一方面，<a href="Ballista_Elephant.php">弩砲象</a>的<a href="Armor_Class_Cavalry.php">騎兵防禦</a>類型裝甲是-2，這表示他會受到更多的反騎兵攻擊加成。當然以上的數字遊戲內都不會告訴你。</p>
           </div>
            <h3>防禦類型列表</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-6">單位類：
                 <ul>
                   <li><a href="Armor_Class_Infantry.php">步兵</a>
-
                   </li>
                   <li><a href="Armor_Class_Spearman.php">槍兵</a>
-
                   </li>
                   <li><a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>
-
                   </li>
                   <li><a href="Armor_Class_Archer.php">射手</a>
-
                   </li>
                   <li><a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>
-
                   </li>
                   <li><a href="Armor_Class_Cavalry.php">騎兵</a>
-
                   </li>
                   <li><a href="Armor_Class_Camel.php">駱駝</a>
-
                   </li>
                   <li><a href="Armor_Class_War_Elephant.php">戰象</a>
-
                   </li>
                   <li><a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-
                   </li>
                   <li><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-
                   </li>
                   <li><a href="Armor_Class_Ram.php">衝撞車</a>
-
                   </li>
                   <li><a href="Armor_Class_Monk.php">僧侶</a>
-
                   </li>
                   <li><a href="Armor_Class_Ship.php">船</a>
-
                   </li>
                   <li><a href="Armor_Class_Turtle_Ship.php">龜甲船</a>
-
                   </li>
                   <li><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-
                   </li>
                 </ul>
               </div>
               <div class="col-md-6">建築類
                 <ul>
                   <li><a href="Armor_class_building.php">建築</a>
-
                   </li>
                   <li><a href="Armor_class_standard_building.php">標準建築</a>
-
                   </li>
                   <li><a href="Armor_class_stone_defense.php">石頭建築</a>
-
                   </li>
                   <li><a href="Armor_class_wall_and_gate.php">牆與門</a>
-
                   </li>
                   <li><a href="Armor_class_Castle.php">城堡</a>
-
                   </li>
                 </ul>
               </div>
             </div>
              <h3>瑣事</h3>
-
             <div class="hrn1"></div>
             <div class="n1"><a href="Elephant_Archer.php">象弓騎兵</a>有最多的防禦類型，有五種。</div>
              <h3>遠防</h3>
-
             <div class="hrn1"></div>
             <div class="n1">下列的單位都是遠程傷害，並造成對方遠防裝甲的影響
               <ul>
@@ -182,7 +153,6 @@
               <li><a href="Fire_Ship.php">火戰船系列</a>造成遠程傷害時也會有近戰傷害。</li>
               <li>所有建築都是造成遠防傷害。</li>
                <h3>具有高遠防的單位</h3>
-
               <div class="row">
                 <div class="col-md-4">步兵
                   <ul>
@@ -246,7 +216,6 @@
                 </div>
               </div>
                <h3>科技</h3>
-
               <div class="hrn1"></div>
               <div class="n1">下列的科技都可以增加遠防
                  <h3><a href="Archery_Range.php">射箭場</a></h3> 
@@ -261,7 +230,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Parthian-Tactics.jpg" alt=""><a href="Parthian_Tactics.php">帕提亞戰術</a>
-
                     </td>
                     <td class="tunitc4">帝王</td>
                     <td class="tunitc5">200F 250G</td>
@@ -280,7 +248,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Loom.jpg" alt=""><a href="Loom.php">織布技術</a>
-
                     </td>
                     <td class="tunitc4">黑暗</td>
                     <td class="tunitc5">50G</td>
@@ -299,7 +266,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>
-
                     </td>
                     <td class="tunitc4">城堡</td>
                     <td class="tunitc5">250F 150G</td>
@@ -318,7 +284,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Masonry.jpg" alt=""><a href="Masonry.php">磚瓦技術</a>
-
                     </td>
                     <td class="tunitc4">城堡</td>
                     <td class="tunitc5">150F 175W</td>
@@ -327,7 +292,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Architecture.jpg" alt=""><a href="Architecture.php">建築學</a>
-
                     </td>
                     <td class="tunitc4">帝王</td>
                     <td class="tunitc5">300F 200W</td>
@@ -346,7 +310,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Paddedarcherarmor.jpg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>
-
                     </td>
                     <td class="tunitc4">封建</td>
                     <td class="tunitc5">100F</td>
@@ -356,7 +319,6 @@
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Leatherarcherarmor.jpg"
                       alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>
-
                     </td>
                     <td class="tunitc4">城堡</td>
                     <td class="tunitc5">150F 150G</td>
@@ -365,7 +327,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Ringarcherarmor.jpg" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>
-
                     </td>
                     <td class="tunitc4">帝王</td>
                     <td class="tunitc5">250F 250G</td>
@@ -374,7 +335,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Scalebardingarmor.jpg" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>
-
                     </td>
                     <td class="tunitc4">封建</td>
                     <td class="tunitc5">150F</td>
@@ -383,7 +343,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Chainbardingarmor.jpg" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>
-
                     </td>
                     <td class="tunitc4">城堡</td>
                     <td class="tunitc5">250F 150G</td>
@@ -392,7 +351,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Platebardingarmor.jpg" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>
-
                     </td>
                     <td class="tunitc4">帝王</td>
                     <td class="tunitc5">350F 200G</td>
@@ -401,7 +359,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Scalemailarmor.jpg" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>
-
                     </td>
                     <td class="tunitc4">封建</td>
                     <td class="tunitc5">100F</td>
@@ -410,7 +367,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Chainmailarmor.jpg" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>
-
                     </td>
                     <td class="tunitc4">城堡</td>
                     <td class="tunitc5">200F 100G</td>
@@ -419,7 +375,6 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" style="margin: 2px;" src="img/Platemailarmor.jpg" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>
-
                     </td>
                     <td class="tunitc4">帝王</td>
                     <td class="tunitc5">300F 150G</td>
@@ -438,10 +393,8 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Burmese.php">緬甸</a>
-
                     </td>
                     <td class="tunitc4"><a href="Howdah.php">象轎</a>
-
                     </td>
                     <td class="tunitc5">200W 300F</td>
                     <td class="tunitc6">矛象伕護甲+1/+1。</td>
@@ -449,10 +402,8 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Italians.php">義大利</a>
-
                     </td>
                     <td class="tunitc4"><a href="Pavise.php">巨盾</a>
-
                     </td>
                     <td class="tunitc5">300F 150G</td>
                     <td class="tunitc6">徒步弓兵護甲+1/+1。</td>
@@ -460,10 +411,8 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Portuguese.php">葡萄牙</a>
-
                     </td>
                     <td class="tunitc4"><a href="Carrack.php">克拉克帆船</a>
-
                     </td>
                     <td class="tunitc5">200W 300G</td>
                     <td class="tunitc6">船隻護甲+1/+1。</td>
@@ -471,10 +420,8 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Slavs.php">斯拉夫</a>
-
                     </td>
                     <td class="tunitc4"><a href="Orthodoxy.php">東正教</a>
-
                     </td>
                     <td class="tunitc5">200F 300G</td>
                     <td class="tunitc6">僧侶護甲+3/+3。</td>
@@ -482,10 +429,8 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Teutons.php">條頓</a>
-
                     </td>
                     <td class="tunitc4"><a href="Ironclad.php">鋼鐵甲</a>
-
                     </td>
                     <td class="tunitc5">400W 350G</td>
                     <td class="tunitc6">攻城武器近戰護甲+4。</td>
@@ -493,10 +438,8 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Incas.php">印加</a>
-
                     </td>
                     <td class="tunitc4"><a href="Couriers.php">信使</a>
-
                     </td>
                     <td class="tunitc5">400F 200G</td>
                     <td class="tunitc6">槍隊長、投石手和鷹勇士的護甲+1/+2。</td>
@@ -504,10 +447,8 @@
                   <tr>
                     <td class="tunitc6">
                       <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Spanish.php">西班牙</a>
-
                     </td>
                     <td class="tunitc4"><a href="Supremacy.php">霸權</a>
-
                     </td>
                     <td class="tunitc5">400F 250G</td>
                     <td class="tunitc6">村民攻擊+6，護甲+2/+2，HP+40。</td>
@@ -523,5 +464,4 @@
 	<?php include( "allen.php"); ?>
 	<?php include( "footn.php"); ?>
   </body>
-
 </html>

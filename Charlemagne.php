@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>查理曼大帝</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -33,7 +30,6 @@
           <div></div>
           <div></div>
            <h3>出現場景</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>查理曼大帝是加洛林王朝的法蘭克王，也是查爾斯·馬特爾的孫子。 在八世紀，他把以後將成為法國，德國和低地國家的很大一部分國土聯合起來。 他與意大利的倫巴第人和西班牙的穆斯林作戰，稱自己為教皇的捍衛者。西元800年，在羅馬舉行的加冕典禮上，查理曼成為第一位神聖羅馬皇帝。他的帝國被天主教會視為西羅馬帝國的繼承者，後者於西元476年滅亡。</p>
@@ -43,7 +39,6 @@
               <div class="col-md-4">
                 <img class="hg" width="250" src="img/Wonderbritons.png" alt="">
                 <p><em>亞琛大教堂:由查理曼大帝（Charlemagne）建造，成為"世界帝國II"中不列顛人的世界奇觀。。</em>
-
                 </p>
               </div>
           </div>
@@ -54,7 +49,6 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
               <div class="unititle"><a href="">查理曼大帝</a>
-
               </div>
             </td>
           </tr>
@@ -73,7 +67,6 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4"><a href="">步兵<br>英雄</a>
-
             </td>
           </tr>
           <tr>
@@ -157,5 +150,4 @@
     <?php include( "allhero.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

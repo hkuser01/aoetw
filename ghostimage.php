@@ -4,7 +4,6 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <title>第一屆世紀帝國盜圖大賽</title>
@@ -15,7 +14,6 @@
     </style>
   </head>
   <body>
-    
   <div class="container">
     <div class="d-flex justify-content-center">
       <h1>第一屆世紀帝國盜圖P圖大賽</h1>
@@ -30,8 +28,6 @@
         </div>
       </div>
     </div>
-
-
     <div class="mb-12">
       <h3>大賽規章</h3>
       <p>免洗手遊盜圖猖狂(如上圖，明明世紀帝國無關，卻硬要用世紀帝國的圖)，要盜一起盜，歡迎大家盜盜盜</p>
@@ -65,16 +61,10 @@
 <li>vip制，首充雙倍，隔幾天開新區，首次充值60元就有極品xxx送</li>
 <li>滿屏幕的充值禮包提醒</li>
 <li>中國山寨動漫手遊</li>
-      
     </ol>
-
     </div>
-
-
-
     <!-- <button onclick="add()" type="button" class="btn btn-primary">新增</button> -->
   </div>
-
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

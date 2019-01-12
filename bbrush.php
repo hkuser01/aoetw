@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,7 +14,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -25,7 +23,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>黑暗爆民兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -38,7 +35,6 @@
             </ul>
           </div>
            <h3>概述</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>黑暗爆民兵流程為19～20P時前置或後置軍營，不斷出民兵，用人海戰術以達到騷擾敵人的效果。牽制著敵人的封建進攻，自已家不斷的種田甚至圍牆，出民兵的同時，如果可以上封建即上封建，短暫停留跳城堡，簡言之是靠黑暗掩護跳城堡的打法。</p>
@@ -46,7 +42,6 @@
             <p>缺點為很好防守，木牆就能防守。</p>
           </div>
            <h3>反制</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
@@ -56,14 +51,12 @@
             </div>
           </div>
            <h3>流程</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-12"> <em><p style="padding: 0px 10px;">流程只是大概，沒有一定，每場地形地物都不同，重要的還是找到最適合自己的流程與打法!</p></em> 
               </div>
               <div class="col-md-6"> <strong>村民升級流程</strong>
-
                 <ul>
                   <li>2~7p:6人採集羊肉</li>
                   <li>8~11p:4人伐木</li>
@@ -76,7 +69,6 @@
                 </ul>
               </div>
               <div class="col-md-6"> <strong>升級後流程</strong>
-
                 <ul>
                   <li>民兵三隻後開始亂村</li>
                   <li>之後不斷補民兵給對方壓力</li>
@@ -107,7 +99,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle"><a href="">黑暗爆民兵</a>
-
                 </div>
               </td>
             </tr>
@@ -115,14 +106,12 @@
               <td colspan="2">
                 <div class="unititle">
                   <img width="45" src="img/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle2"><a href="">戰術介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -163,5 +152,4 @@
     <?php include( "allar.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

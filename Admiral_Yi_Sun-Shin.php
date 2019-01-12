@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1><strong>李舜臣將軍</strong></h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -30,7 +27,6 @@
             <p>李舜臣，韓國民族英雄，1545年生，曾多次使用海上戰術擊敗日本人，尤其出名的閒山島大捷，征服者戰役中的露梁海戰<a href="Kyoto(1582).php">(洛陽點)</a>，為李舜臣戰死的戰爭。</p>
           </div>
            <h3><strong>介紹</strong></h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>李舜臣出現在<a href="aoc.php">征服者入侵</a>的<a href="batt.php">戰役</a>之中，他單位是一艘擁有良好生命與攻擊的
@@ -42,7 +38,6 @@
             </ul>
           </div>
            <h3><strong>出場戰役</strong></h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>
@@ -54,7 +49,6 @@
                 </tr>
                 <tr>
                   <td class="tta1">露梁海戰<a href="Kyoto(1582).php">(洛陽點)</a>
-
                   </td>
                   <td class="tta2">探索前否,探索後可控制</td>
                   <td class="tta3">電腦,玩家
@@ -65,7 +59,6 @@
             </p>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>李舜臣1545年生，自幼聰穎，1576年武科及第，授權知訓練院奉事。首次戰爭經歷是調往咸鏡道參與防禦女真。1586年擔任造山萬戶兼鹿屯島屯田事宜，在此期間與上司不和，而後遭受降職</p>
@@ -80,7 +73,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">李舜臣將軍</a>
-
                 </div>
               </td>
             </tr>
@@ -99,7 +91,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Naval_Vessels.php">海軍<br>英雄</a>
-
               </td>
             </tr>
             <tr>
@@ -118,7 +109,6 @@
             <tr>
               <tr>
                 <td class="unit3"><a href="Area_of_Effect.php">爆炸半徑</a>
-
                 </td>
                 <td class="unit4">0.5</td>
               </tr>
@@ -175,7 +165,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的李舜臣
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%88%9C%E8%87%A3_(%E6%9C%9D%E9%AE%AE)">李舜臣</a></strong></i>
-
               </div>
             </div>
           </div>
@@ -184,5 +173,4 @@
         <?php include( "allhero.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
-
 </html>

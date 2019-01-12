@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -68,12 +66,9 @@
             <em><a href="por.php">葡萄牙科技樹</a></em>
           </div>
           <br>
-
-
           <h3>更新日誌</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <h3><em><a href="ak.php">非洲王國</a></em></h3>
 <ul>
     <li>手風琴砲有1的擴散傷害</li>
@@ -90,7 +85,6 @@
     <li>手風琴砲增加+1散射傷害(從1增至2)</li>
 </ul>
 </div>
-
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -179,5 +173,4 @@
     <?php include( "allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

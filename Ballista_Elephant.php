@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>弩砲象</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -32,7 +29,6 @@
               href="Castle.php">城堡</a>中訓練。弩砲象這是一種混合型單位是由騎兵加攻城武器混合型單位，攻擊模式類似<a href="Scorpion.php">弩砲</a>，弩砲象是可以砸掉樹木的。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -55,7 +51,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -125,14 +120,12 @@
             </tr>
           </table>
            <h3>剋弩炮象的單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對弩炮象的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+65攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -140,19 +133,16 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+55攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -162,7 +152,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+50攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -170,16 +159,13 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+47攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -187,30 +173,25 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+32攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+30攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+28攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -218,7 +199,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -227,14 +207,12 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+14攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -252,7 +230,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -261,12 +238,10 @@
                       <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
@@ -275,18 +250,15 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="img/HeavyScorpionIcon.jpg" alt=""><a href="HeavyScorpion.php">重型弩炮</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -294,7 +266,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -303,7 +274,6 @@
                       <img class="gg" src="img/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -313,10 +283,8 @@
                       <img class="gg" src="img/MangudaiIcon.jpg" width="22" alt=""><a href="Mangudai.php">蒙古突騎</a>(<a href="Mongols.php">蒙古</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+0攻擊</strong>
-
                   </div>
                   <p><strong>(這裡寫出0攻擊是因為弩炮象在騎兵護甲時的裝甲是-2，所以計算後0-(-2)=2仍舊有傷害計算。)</strong>
-
                   </p>
                   <ul>
                     <li>
@@ -329,7 +297,6 @@
                       alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
                       <img class="gg" src="img/ChampionIcon.jpg"
                       alt=""> <a href="Champion.php">劍兵勇士</a>
-
                     </li>
                     <li>
                       <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</li>
@@ -378,7 +345,6 @@
             </div>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -392,7 +358,6 @@
             </ul>
           </div>
            <h3>豆知識</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -403,13 +368,11 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>大象是高棉最重要的軍事動物之一。歷史紀錄裡蘇里亞爾曼二世（1113-1150）有不下20萬隻大象的力量。從十二世紀到十三世紀初，幾個倖存的浮雕也表明，至少在歷史上，高棉族國王和印度族國王為他們的戰象裝備了如同投石機那般巨大的床弩。</p>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -441,29 +404,24 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-
                 <br> <a href="Siege_Weapons.php">攻城武器</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Khmer.php">高棉</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="img/Castle-logo.jpg" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -541,7 +499,6 @@
                 <br> <a href="Armor_Class_War_Elephant.php">戰象</a>(-2)
                 <br> <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>(-2)
                 <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -555,7 +512,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>
@@ -578,28 +534,23 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4"> <a href="img/Ballista_Elephant_group.jpg"><img class="imgn" class="hg" src="img/Ballista_Elephant_group.jpg" alt=""></a> 
               <p><em>一群弩炮象。</em>
-
               </p>
             </div>
             <div class="col-md-4"> <a href="img/Ballista_destroying_trees.jpg"><img class="imgn" class="hg" src="img/Ballista_destroying_trees.jpg" alt=""></a> 
               <p><em>弩炮象的攻擊可以砸倒樹木。</em>
-
               </p>
             </div>
             <div class="col-md-4"> <a href="img/Balistaelehealed.jpg"><img class="imgn" class="hg" src="img/Balistaelehealed.jpg" alt=""></a> 
               <p><em>弩炮象雖然屬於攻城單位，但可以被僧侶治療。</em>
-
               </p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Khmer-vietnamese_battle.png"><img class="imgn" class="hg" src="img/Khmer-vietnamese_battle.png" alt=""></a> 
                 <p><em>弩炮象正防止高棉人的基地被<a href="Rattan_Archer.php">藤甲弓兵</a>騷擾。</em>
-
                 </p>
               </div>
             </div>
@@ -609,5 +560,4 @@
         <?php include( "allunit.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
-
 </html>

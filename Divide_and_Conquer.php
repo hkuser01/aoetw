@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -22,7 +20,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>縱橫捭闔</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -31,11 +28,9 @@
               <p>縱橫捭闔為塔里克．伊本．齊亞德戰役的第三關劇情關卡，此關描述塔里克．伊本．齊亞德和穆薩·伊本·奴薩爾在征服了伊比利亞半島中部大部分地區後，打算分兵向北進攻，佔領薩拉戈薩和納博訥2座城市。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -48,7 +43,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -89,18 +83,15 @@
                 </tr>
             </table>
              <h3>開場</h3>
-
             <li>軍事單位 - 駱駝弓騎兵x10、標槍騎兵x10、馬弓騎兵x10、駱駝騎兵x10、輕騎兵x6、騎士x8、重裝長槍兵x13、戰矛兵x10、僧侶x2、弩砲戰船(槳帆戰船)x2。</li>
             <li>經濟單位 - 村民x14、漁船x2。</li>
              <h2>主要任務</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
                 <li>摧毀以下城市的城堡:薩拉戈薩和納博訥。</li>
               </ol>
                <h2>次要任務</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ol>
@@ -108,7 +99,6 @@
               </div>
             </div>
              <h2>任務提示</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -119,7 +109,6 @@
                 <li>這場戰鬥發生在火藥被傳入歐洲的幾個世紀之前。</li>
               </ul>
                <h2>斥候</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ul>
@@ -132,7 +121,6 @@
                   </li>
                 </ul>
                  <h2>細節</h2>
-
                 <div class="hrn1"></div>
                 <div class="n1">
                   <ul>
@@ -154,7 +142,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">縱橫捭闔</a>
-
                 </div>
               </td>
             </tr>
@@ -168,7 +155,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -183,12 +169,10 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">柏柏</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>
@@ -213,7 +197,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的奧米亞王朝
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%80%AD%E9%A9%AC%E4%BA%9A%E7%8E%8B%E6%9C%9D">奧米亞王朝</a></b></i>
-
               </div>
             </div>
           </div>
@@ -227,5 +210,4 @@
     <?php include( "allbatt.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
-
 </html>

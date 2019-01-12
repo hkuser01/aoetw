@@ -12,7 +12,6 @@
   } else {
     //echo "Opened database successfully\n";
   }
-
   $sql = "Select * from post ORDER BY id;";
   $ret = $db->query($sql);
   if(!$ret){
@@ -24,6 +23,5 @@
     }
     echo json_encode($res);
   }
-  
   $db->close();
 ?>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +11,6 @@
       body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
     </style>
   </head>
-  
   <body>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
@@ -158,7 +156,6 @@
                     <td class="tta3">波斯人(友軍)<div class="p8"></div></td>                    
                   </tr>    
               </table>
-            
             <h3>趣事</h3>
             <div class="hrn1"></div>
             <div class="n1"><ul>  
@@ -166,7 +163,6 @@
             <li>和高棉的弩砲象一樣，波斯戰象似乎不需要人類的駕馭。</li>  
             <li>作為祆教的起源地，擁有如此不完全的僧侶科技是很奇怪的。</li>  
             <li>如果進入遊戲後期，波斯碰到拜占庭似乎束手無策，這或許反映了真實的歷史。</li></ul></div>
-              
             <h3>圖庫</h3>
             <div class="hrn1"></div>
             <div class="n1">  
@@ -175,7 +171,6 @@
                 <a href="img/Wonderpersians.png">
                 <img class="imgn" class="hg" src="img/Wonderpersians.png" alt=""></a>  <p><em>波斯的世界奇觀</em></p>  </div>   </div>
               </div>
-              
               <h3>歷史</h3>
               <div class="hrn1"></div>
               <div class="n1">波斯是伊朗在歐洲的古希臘語和拉丁語的舊稱譯音，是伊朗歷史的一部份。歷史上在這一西南亞地區曾建立過多個的帝國。全盛時期領土東至印度河平原，西北至小亞細亞、歐洲的馬其頓、希臘半島、色雷斯，西南至埃及或葉門。波斯興起於伊朗高原的西南部。</div></div>  </div>  <div class="col-md-4">      
@@ -217,5 +212,4 @@
                                <br> <img class="gg" src="img/Unique-tech.jpg">象伕</td>      
               </tr>           
           </table>
-          
           <div class="thanks">       感謝! 此頁面由Dennis協助編輯</div>  </div></div>    </div>    <!-- /container --><?php include("allciv.php"); ?><?php include("foot.php"); ?></body></html>
