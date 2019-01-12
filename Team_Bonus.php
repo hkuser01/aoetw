@@ -69,7 +69,7 @@
                 <li>馬廄效率快20％。</li>
               </ul><strong>印度：</strong>
               <ul>
-                <li>駱駝對建築物有+6攻擊。</li>
+                <li>駱駝對建築物有+5攻擊。</li>
               </ul><strong>印加：</strong>
               <ul>
                 <li>建造農田快50％。</li>
