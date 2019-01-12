@@ -83,7 +83,7 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
@@ -111,7 +111,7 @@
             <tr>
               <td class="tta1" style="width:10%">移動速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
@@ -351,7 +351,7 @@
               <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高弩炮象的生產速度還有加速
                 <a
                 href="Conscription.php">徵兵制度</a>和<a href="Double Crossbow.php">雙弩箭</a>的研究時間(快25%)</li>
-              <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php.php">畜牧培育</a>和
+              <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php">畜牧培育</a>和
                 <a
                 href="Bloodlines.php">品種</a>速度快20%。</li>
               <li><a href="Teutons.php">條頓</a>：弩炮象更不容易被招降。</li>
