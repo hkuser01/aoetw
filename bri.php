@@ -79,7 +79,7 @@ and (max-device-width: 480px)  {
       $(document).ready(function(){  $("#hide").click(function(){    $("#list").hide();  });  $("#show").click(function(){    $("#list").show();  });});
     </script>
   </head>
-  <body onload="prettyPrint();" style=" font-family: " 微軟正黑體 ";">
+  <body style=" font-family: " 微軟正黑體 ";">
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
@@ -242,7 +242,7 @@ and (max-device-width: 480px)  {
             <td class="t15 trm not">
               <img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php"><div>標槍騎兵</div></a>  <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t15 trm">
+            <td class="t15 trm not">
               <img class="gg" src="img/Thumb_Ring.png"><a href="Thumb_Ring.php"><div>拇指環</div></a>
             </td>
           </tr>

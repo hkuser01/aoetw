@@ -27,7 +27,7 @@
       $(document).ready(function(){  $("#hide").click(function(){    $("#list").hide();  });  $("#show").click(function(){    $("#list").show();  });});
     </script>
   </head>
-  <body onload="prettyPrint();" style=" font-family: " 微軟正黑體 ";">
+  <body style=" font-family: " 微軟正黑體 ";">
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
@@ -40,43 +40,6 @@
         </div>
         <div class="col-md-12">
           <div class="n1">
-             <h5>各文明科技樹</h5>
-            <button id="hide" class="btn btn-danger btn-sm">隱藏</button>
-            <button id="show" class="btn btn-success btn-sm">展開</button>
-            <div id="list">
-              <table class="table-bordered allciv" width="100%" style="margin:20px 0px;">
-                <tr>
-                  <td class="unit3" style="width: 10%;">亞洲</td>
-                  <td class="unit4"><a href="chi.php">中國</a>  <a href="jap.php">日本</a>  <a href="mon.php">蒙古</a>
-                    <a
-                    href="kor.php">韓國</a> <a href="ind.php">印度</a>  <a href="byz.php">拜占庭</a>  <a href="pre.php">波斯</a> 
-                      <a
-                      href="ber.php">柏柏</a> <a href="sar.php">薩拉森</a>  <a href="tur.php">土耳其</a>  <a href="bur.php">緬甸</a> 
-                        <a
-                        href="khm.php">高棉</a> <a href="mal.php">馬來</a>  <a href="vie.php">越南</a>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="unit3" style="width: 10%;">歐洲</td>
-                  <td class="unit4"> <a href="bri.php">不列顛</a>  <a href="cel.php">賽爾特</a>  <a href="fra.php"> 法蘭克</a> 
-                    <a
-                    href="spa.php">西班牙</a> <a href="got.php">哥德</a>  <a href="teu.php">條頓</a>  <a href="vik.php">維京</a> 
-                      <a
-                      href="hun.php">匈奴</a> <a href="ita.php">義大利</a>  <a href="mag.php">馬札爾</a>  <a href="sla.php">斯拉夫</a> 
-                        <a
-                        href="por.php">葡萄牙</a>
-                  </td>
-                </tr>
-                <tr>
-                  <td class="unit3" style="width: 10%;">美洲非洲</td>
-                  <td class="unit4"> <a href="azt.php">阿茲特克</a>  <a href="may.php">馬雅</a>  <a href="inc.php">印加</a> 
-                    <a
-                    href="eth.php">衣索比亞</a> <a href="mai.php">馬利</a> 
-                  </td>
-                </tr>
-              </table>
-            </div>
-          </div>
           <div class="hrn1"></div>
           <div class="n1">
             <table class="table">
