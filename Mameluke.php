@@ -105,7 +105,7 @@
             <tr>
               <td class="tta1" style="width:10%">抵抗招降</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="faith.php">忠誠信仰</a>(+33%)
+                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>(+33%)
                 <br>
                 <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
