@@ -701,7 +701,7 @@
               <table class="table-bordered" width="100%">
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
-                    <div class="unititle"><a href="El_Dorado.php">黃金國</a>
+                    <div class="unititle"><a href="El_Doradoa.php">黃金國</a>
                     </div>
                   </td>
                 </tr>
