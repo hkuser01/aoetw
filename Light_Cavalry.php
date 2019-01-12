@@ -123,7 +123,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
@@ -167,7 +167,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="Indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                   </div>
@@ -301,7 +301,7 @@
             <ul>
               <li>輕騎兵獲得對僧侶+10的額外攻擊。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
-              <li>引入<a href="Bloodlines.php.php">品種</a>。</li>
+              <li>引入<a href="Bloodlines.php">品種</a>。</li>
             </ul>
             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
             <ul>
