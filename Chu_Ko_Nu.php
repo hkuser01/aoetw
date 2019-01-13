@@ -52,7 +52,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Infantry_Units.php">步兵</a>、<a href="bulding.php">建築物</a>、<a href="Battering_Ram.php">衝撞車</a>。</td>
+              <td class="tta4"><a href="Infantry_Units.php">步兵</a>、<a href="Armor_class_building.php">建築物</a>、<a href="Battering_Ram.php">衝撞車</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
