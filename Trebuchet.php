@@ -60,7 +60,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>，群聚單位。</td>
+              <td class="tta4"><a href="Armor_class_building.php">建築物</a>，群聚單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -76,7 +76,7 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+20%。
                 <br>
                 <img class="gg" src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br>
@@ -379,7 +379,7 @@
                           <td class="unit4">3.5</td>
                         </tr>
                         <tr>
-                          <td class="unit3"><a href="">近防</a>
+                          <td class="unit3">近防</a>
                           </td>
                           <td class="unit4">2(未組裝)
                             <br>1(攻擊姿態)</td>
@@ -396,7 +396,7 @@
                           </td>
                         </tr>
                         <tr>
-                          <td class="unit3"><a href="">跑速</a>
+                          <td class="unit3">跑速</a>
                           </td>
                           <td class="unit4">0.8</td>
                         </tr>
