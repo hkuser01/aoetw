@@ -383,13 +383,13 @@
             </tr>
             <tr>
               <td class="unit3">防禦類別</td>
-              <td class="unit4"> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
+              <td class="unit4"> <a href="Armor_Class_Cavalry_Archer.php">騎兵</a>
                 <br> <a href="Armor_Class_Monk.php">僧侶</a>
                 <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速</a>
               </td>
               <td class="unit4">1.1</td>
             </tr>
