@@ -295,7 +295,7 @@
               <li><a href="Huns.php">匈奴</a>：重裝駱駝騎兵生產和升級效率快20%，<a href="Bloodlines.php">品種</a>與
                 <a
                 href="Husbandry.php">畜牧技術</a>研發快20%。</li>
-              <li><a href="Indians.php">印度</a>：重裝駱駝騎兵對<a href="Armor_Class_Building.php">建築</a>+6攻擊。</li>
+              <li><a href="Indians.php">印度</a>：重裝駱駝騎兵對<a href="Armor_class_building.php">建築</a>+6攻擊。</li>
               <li><a href="Teutons.php">條頓</a>：重裝駱駝騎兵對僧侶抵抗力更強。</li>
             </ul>
           </div>
