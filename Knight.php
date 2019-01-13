@@ -53,7 +53,7 @@
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4"><a href="Boyar.php">貴族鐵騎</a>、<a href="Pikeman.php">重裝長槍兵</a>、<a href="Kamayuk.php">槍隊長</a>、
                 <a
-                href="Bersek.php">狂戰士</a>、<a href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Teutonic_Knight.php">條頓武士</a>、
+                href="Berserk.php">狂戰士</a>、<a href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Teutonic_Knight.php">條頓武士</a>、
                   <a
                   href="Mameluke.php">奴隸兵</a>、<a href="Camel.php">駱駝騎兵</a>、<a href="Monk.php">僧侶</a>和<a href="War_Elephant.php">戰象</a>。</td>
             </tr>
@@ -78,7 +78,7 @@
                 <br>
                 <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Farimba.php">驃悍精神</a>：馬廄單位攻擊+5。<a href="Malians.php">馬利</a>限定
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_Class_Building.php">建築</a>和
+                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_class_building.php">建築</a>和
                 <a
                 href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+3。<a href="Burmese.php">緬甸</a>限定</td>
             </tr>
