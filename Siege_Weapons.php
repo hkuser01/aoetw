@@ -96,7 +96,7 @@
                 HP。</li>
               <li><a href="Huns.php">匈奴</a>：巨型投石機命中率+30%。</li>
               <li><a href="Slavs.php">斯拉夫</a>：攻城器製造所的單位便宜15%。</li>
-              <li><a href="Spanish.php">西班牙</a>:<a href="Cannon_Galleon .php">火炮戰船</a>有
+              <li><a href="Spanish.php">西班牙</a>:<a href="Cannon_Galleon.php">火炮戰船</a>有
                 <a
                 href="Ballistics.php">彈道學</a>加成。</li>
             </ul>
