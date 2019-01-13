@@ -182,7 +182,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="Indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
                   </div>
@@ -285,7 +285,7 @@
               <li><a href="Huns.php">匈奴</a>：駱駝騎兵生產和升級效率快20%，<a href="Bloodlines.php">品種</a>與
                 <a
                 href="Husbandry.php">畜牧技術</a>研發快20%。</li>
-              <li><a href="Indians.php">印度</a>：駱駝騎兵對<a href="Armor_Class_Building.php">建築</a>+6攻擊。</li>
+              <li><a href="Indians.php">印度</a>：駱駝騎兵對<a href="Armor_class_building.php">建築</a>+6攻擊。</li>
               <li><a href="Teutons.php">條頓</a>：駱駝騎兵對僧侶抵抗力更強。</li>
             </ul>
           </div>
