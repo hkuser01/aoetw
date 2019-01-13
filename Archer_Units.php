@@ -895,7 +895,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Thumb_Ring.png" alt=""><a href="Thumb _Ring.php">拇指環</a>
+                  <img class="gg" style="margin: 2px;" src="img/Thumb_Ring.png" alt=""><a href="Thumb_Ring.php">拇指環</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">300F 250W</td>
