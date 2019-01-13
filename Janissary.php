@@ -51,7 +51,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Infantry_Units.php">步兵</a>、<a href="bulding.php">建築物</a>。</td>
+              <td class="tta4"><a href="Infantry_Units.php">步兵</a>、<a href="Armor_class_building.php">建築物</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -200,7 +200,7 @@
           <ul>
             <li>土耳其火槍兵有15的攻擊(精銳是18)。非精銳土耳其火槍兵對<a href="Armor_Class_Infantry.php">步兵單位</a>有額外+4攻擊，精銳土耳其火槍兵則對
               <a
-              href="Armor_Class_Infantry.php">步兵單位</a>有額外+8攻擊並對<a href="Armor_Class_Building.php">建築</a>額外+3攻擊。</li>
+              href="Armor_Class_Infantry.php">步兵單位</a>有額外+8攻擊並對<a href="Armor_class_building.php">建築</a>額外+3攻擊。</li>
             <li>土耳其火槍兵有55%的命中率。</li>
             <li><a href="Turks.php">土耳其</a>：土耳其火槍兵HP+50%。不過團隊加成不影響精銳土耳其火槍兵。</li>
           </ul>
@@ -208,7 +208,7 @@
           <ul>
             <li>土耳其火槍兵現在有17的攻擊(精銳是22)。不過移除對<a href="Armor_Class_Infantry.php">步兵單位</a>和
               <a
-              href="Armor_Class_Building.php">建築</a>額外加成攻擊。</li>
+              href="Armor_class_building.php">建築</a>額外加成攻擊。</li>
             <li>土耳其火槍兵%的命中率調降為50%。</li>
             <li>引進<a href="Heresy.php">異端邪說</a>
             </li>
