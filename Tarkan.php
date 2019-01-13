@@ -373,9 +373,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+12對<a href="Armor_class_stone_defense.php">石材建築類</a>
-                <br>+10對<a href="Armor_Class_Castle.php">城堡</a>
-                <br>+8/+10(精銳)對<a href="Armor_Class_Building.php">建築類</a>
-                <br>+8/+10(精銳)對<a href="Armor_Class_Wall_and_Gate.php">城牆和城門</a>
+                <br>+10對<a href="Armor_class_Castle.php">城堡</a>
+                <br>+8/+10(精銳)對<a href="Armor_class_building.php">建築類</a>
+                <br>+8/+10(精銳)對<a href="Armor_class_wall_and_gate.php">城牆和城門</a>
               </td>
             </tr>
             <tr>
