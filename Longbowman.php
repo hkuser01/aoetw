@@ -39,7 +39,7 @@
               href="Cavalry_Archer.php">馬弓騎兵</a>與移動快速騎兵單位，難以發揮效果。</p>
             <p>長弓手最好選擇堅守崗位模式，避免隨意地攻擊後，破壞本身的陣型讓敵人趁虛而入。由於<a href="Britons.php">不列顛人</a>缺乏
               <a
-              href="Thumb _Ring.php">拇指環</a>科技，缺乏100%命中率與提升攻擊速度，最好避免與其他擁有<a href="Thumb _Ring.php">拇指環</a>科技的弓手對射。</p>
+              href="Thumb_Ring.php">拇指環</a>科技，缺乏100%命中率與提升攻擊速度，最好避免與其他擁有<a href="Thumb_Ring.php">拇指環</a>科技的弓手對射。</p>
             <p>長弓手在面對<a href="Siege_Weapons.php">攻城器</a>，例如<a href="Siege_Onager.php">重型投石車</a>與
               <a
               href="Heavy_Scorpion.php">重型弩砲</a>時，能夠在攻城器攻擊範圍外先摧毀目標。但長弓手在攻城器的攻擊範圍下，將會承受毀滅性的打擊。</p>
