@@ -413,7 +413,7 @@
               <td class="unit4">0.65</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="los.php">視野</a>
+              <td class="unit3">視野</a>
               </td>
               <td class="unit4">9</td>
             </tr>
