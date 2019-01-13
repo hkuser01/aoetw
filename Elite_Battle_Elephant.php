@@ -74,7 +74,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">近戰單位、<a href="building.php">建築物</a>
+              <td class="tta4">近戰單位、<a href="Armor_class_building.php">建築物</a>
               </td>
             </tr>
             <tr>
@@ -414,7 +414,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+10對<a href="Armor_class_stone_defense.php">石材建築類</a>
-                <br>+10對<a href="Armor_Class_Building.php">建築類</a>
+                <br>+10對<a href="Armor_class_building.php">建築類</a>
               </td>
             </tr>
             <tr>
