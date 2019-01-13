@@ -217,7 +217,7 @@
         <div class="n1">
           <ul>
             <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速<a href="Conscription.php">徵兵制度</a>的研究時間(快25%)</li>
-            <li><a href="Britons.php">不列顛</a>：火槍兵生產快20%。研發<a href="Thumb _Ring.php">拇指環</a>速度快20%。</li>
+            <li><a href="Britons.php">不列顛</a>：火槍兵生產快20%。研發<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
             <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>快80%。</li>
             <li><a href="Teutons.php">條頓</a>：火槍兵更不容易被招降。</li>
             <li><a href="Turks.php">土耳其</a>:火槍兵訓練速度快20％。</li>
