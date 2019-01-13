@@ -64,7 +64,7 @@
             <br> <a href="Demolition_Raft .php">自爆筏</a>。 <a href="Demolition_Ship.php">神風船</a>。
             <a
             href="Heavy_Demolition_Ship.php">重型神風船</a>。
-              <br> <a href="Cannon_Galleon .php">火炮戰船</a>。 <a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>。
+              <br> <a href="Cannon_Galleon.php">火炮戰船</a>。 <a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>。
               <br> <a href="Longboat.php">維京大戰船</a>。 <a href="Turtle_Ship.php">龜甲船</a>。
               <a
               href="Caravel.php">卡拉維爾戰船</a>
