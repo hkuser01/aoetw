@@ -92,7 +92,7 @@
                 <br>
                 <img class="gg" src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Double Crossbow.php">雙弩箭</a>:可發射雙弩</td>
+                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Double_Crossbow.php">雙弩箭</a>:可發射雙弩</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊距離</td>
@@ -364,7 +364,7 @@
               <li>弩炮象屬於騎兵單位又屬於攻城單位，讓弩炮象成為遊戲中唯一可以被僧侶治療而不用被村民修復的攻城武器。</li>
               <li>弩炮象是遊戲中唯一城堡時代就能砸倒樹木的單位。</li>
               <li>弩炮象是遊戲中開火速率最慢的騎兵單位(2.5)。</li>
-              <li>非精銳弩炮象對<a href="Armor_Class_Building.php">建築</a>應該有攻擊+2的加成但是因為bug而沒有實際加成。</li>
+              <li>非精銳弩炮象對<a href="Armor_class_building.php">建築</a>應該有攻擊+2的加成但是因為bug而沒有實際加成。</li>
             </ul>
           </div>
            <h3>歷史</h3>
