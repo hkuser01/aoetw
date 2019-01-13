@@ -97,7 +97,7 @@
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</p>
+                  <img src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+18%)</p>
               </td>
             </tr>
             <tr>
