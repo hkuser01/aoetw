@@ -90,7 +90,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Skirmisher.php">矛兵系列</a>、<a href="Skirmisher.php">矛兵系列</a>、
+              <td class="tta4"><a href="Skirmisher.php">矛兵系列</a>、
                 <a
                 href="Infantry_Units.php">步兵系列</a>、<a href="Siege_Weapons.php">攻城武器</a>、<a href="Light_Cavalry.php">輕騎兵</a>。</td>
             </tr>
@@ -129,7 +129,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
@@ -411,8 +411,8 @@
             </tr>
             <tr>
               <td class="unit3">防禦類型</td>
-              <td class="unit4"><a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>(+12, +16(精銳))
-                <br><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_Cavalry_Archer.php">騎兵</a>(+12, +16(精銳))
+                <br><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>
