@@ -413,9 +413,9 @@
             </tr>
             <tr>
               <td class="unit3">裝甲類型</td>
-              <td class="unit4"><a href="Armor_Class:_War_Elephant.php">戰象</a>
-                <br> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
-                <br> <a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_War_Elephant.php">戰象</a>
+                <br> <a href="Armor_Class_Cavalry_Archer.php">騎兵</a>
+                <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>
