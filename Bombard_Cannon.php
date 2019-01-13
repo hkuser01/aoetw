@@ -56,7 +56,7 @@
            <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>火砲是非常強大的兵種，他可以摧毀大部分的建築，射程只輸給條頓城堡、韓國箭塔與土耳其<a href="Cannon_Galleon .php">火砲戰船</a>。一群火砲可以瞬間摧毀一個
+            <p>火砲是非常強大的兵種，他可以摧毀大部分的建築，射程只輸給條頓城堡、韓國箭塔與土耳其<a href="Cannon_Galleon.php">火砲戰船</a>。一群火砲可以瞬間摧毀一個
               <a
               href="Town_Center.php">城鎮中心</a>，但務必給予充分的保護。除了<a href="Siege_Weapons.php">攻城武器</a>的功用外，也可以拿來對付重型弩砲與投石車，更可以有效打擊對方遠距離部隊與船隻。但對騎士等近戰類的則是沒有抵抗能力。需注意的火砲擁有
                 <a
@@ -92,9 +92,9 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+20%。
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定</td>
+                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Torsion_Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
