@@ -89,7 +89,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
+              <td class="tta4"><a href="Armor_class_building.php">建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -110,9 +110,9 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+20%。
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Torsion Engines.php">扭力彈射器</a>:攻城器製造所的單位傷害範圍增加(輕型衝撞車和攻城塔除外)，
+                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Torsion_Engines.php">扭力彈射器</a>:攻城器製造所的單位傷害範圍增加(輕型衝撞車和攻城塔除外)，
                 <a
                 href="Ethiopians.php">衣索比亞</a>限定</td>
             </tr>
