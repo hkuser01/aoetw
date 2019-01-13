@@ -63,7 +63,7 @@
                 <img class="gg" src="img/HeavyDemoShipIcon.jpg"
                 alt=""><a href="Heavy_Demolition_Ship.php">重型神風船</a>5()</li>
               <li>
-                <img src="img/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon .php">火炮戰船</a>→
+                <img src="img/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火炮戰船</a>→
                 <img src="img/CannonGalleonIcon.jpg"
                 alt=""><a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a> 
               </li>
