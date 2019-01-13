@@ -340,8 +340,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="img/Armor_Class_Infantry.php">步兵</a>
-                <br> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
+                <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>
