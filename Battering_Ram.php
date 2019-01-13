@@ -80,7 +80,7 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。</td>
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+20%。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
