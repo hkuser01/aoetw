@@ -116,14 +116,14 @@
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</td>
+                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+18%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)
                 <br>
-                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(命中率提升到100%)</td>
+                <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(命中率提升到100%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -311,10 +311,10 @@
             </tr>
             <tr>
               <td class="unit3">防禦類別</td>
-              <td class="unit4"><a href="Armor_Class:_Archer.php">射手</a>
-                <br> <a href="Armor_Class:_Cavalry_Archer.php">馬弓騎兵</a>(0)
+              <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
+                <br> <a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>(0)
                 <br> <a href="Armor_Class_Camel.php">駱駝騎兵</a>(0)
-                <br> <a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+                <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>
