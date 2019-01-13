@@ -297,7 +297,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">大多數<a href="bulding.php">建築物</a>，<a href="Skirmisher.php">矛兵</a>，<a href="Battering_Ram.php">衝撞車</a>系，
+              <td class="tta4">大多數<a href="Armor_class_building.php">建築物</a>，<a href="Skirmisher.php">矛兵</a>，<a href="Battering_Ram.php">衝撞車</a>系，
                 <a
                 href="Spearman.php">長槍兵</a>，<a href="Trebuchet.php">投石機</a>。</td>
             </tr>
