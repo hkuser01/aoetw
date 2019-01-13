@@ -105,7 +105,7 @@
                 <br>
                 <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Farimba.php">驃悍精神</a>：馬廄單位攻擊+5。<a href="Malians.php">馬利</a>限定
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_Class_Building.php">建築</a>和
+                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_class_building.php">建築</a>和
                 <a
                 href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+3。<a href="Burmese.php">緬甸</a>限定</td>
             </tr>
@@ -165,7 +165,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="Indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                   </div>
