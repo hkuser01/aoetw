@@ -99,7 +99,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
+              <td class="tta4"><a href="Armor_class_building.php">建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -115,7 +115,7 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+40%。
+                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_class_building.php">建築物</a>攻擊加成+40%。
                 <br>
               </td>
             </tr>
@@ -271,12 +271,12 @@
               <td class="unit4">無</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速</a>
               </td>
               <td class="unit4">0.8</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="los.php">視野</a>
+              <td class="unit3">視野</a>
               </td>
               <td class="unit4">4</td>
             </tr>
