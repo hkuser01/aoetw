@@ -543,7 +543,7 @@ and (max-device-width: 480px)  {
       ">鑄幣術</a></div><i class="fas fa-arrow-down "></i></td>         <td class="t23 trm
       "></td>          <td class="t23 trm "></td>        </tr>        <tr>          <td style=" vertical-align:
       middle; " class="t5 trm im "><div><a href="Imperial_Age.php
-      ">帝王時代</a></div></td>            <td class="t23 trm not "><img class="gg " src="img/Guilds.jpg "><div><a href="Guilds.phpp
+      ">帝王時代</a></div></td>            <td class="t23 trm not "><img class="gg " src="img/Guilds.jpg "><div><a href="Guilds.php
       ">行會制度</a></div></td>            <td class="t23 trm "><img class="gg " src="img/Banking.jpg "><div><a href="Banking.php
       ">銀行制度</a></div></td>            <td class="t23 trm "></td>             <td class="t23 trm
       "></td>        </tr>    </table>        <table class="table " style="margin-top:50px;
