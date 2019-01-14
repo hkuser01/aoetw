@@ -404,7 +404,7 @@ and (max-device-width: 480px)  {
       "></td>        </tr>    </table>      <table class="table " style="margin-top:50px; ">         <tr>            <td class="trm
       " colspan="5 " style="border-top: none; ">                <a href="Mill.php
       "><img class="ng " src="img/Lumbercampicon.png " alt="
-      "></a>                <div><a href="Mill.php
+      "></a>                <div><a href="Lumber_Camp.php
       ">伐木場</a></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><a href="Feudal_Age.php
       ">封建時代</a></td>                     <td class="t23 trm "><img class="gg " src="img/Doublebitaxe.jpg " alt="
       "><div><a href="Double-Bit_Axe.php ">雙刃斧</a></div><i class="fas fa-arrow-down
@@ -433,7 +433,7 @@ and (max-device-width: 480px)  {
       ">城堡時代</a></td>                  <td class="t23 trm "><img class="gg " src="img/Goldshaftmining.jpg " alt="
       "><div><a href="Gold_Shaft_Mining.php ">礦井採金</a></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t23 trm "><img class="gg " src="img/Stone_Shaft_Mining.jpg " alt="
-      "><div><a href="Stone_Shaft_Mining.phpp ">礦井採石</a></div></td>         <td class="t23 trm
+      "><div><a href="Stone_Shaft_Mining.php ">礦井採石</a></div></td>         <td class="t23 trm
       "></td>         <td class="t23 trm "></td>         </tr>    </table>   <table class="table
       " style="margin-top:50px; ">         <tr>            <td class="trm " colspan="10
       " style="border-top: none; ">                <a href="Dock.php "><img class="ng
