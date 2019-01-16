@@ -477,7 +477,7 @@
               <img class="gg" src="img/HeavyCamelIcon.jpg"
               alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
               <img class="gg" src="img/ImperialCamelIcon.jpg"
-              alt=""><a href="Imperial Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="Indians.php">印度</a>限定)</li>
+              alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="Indians.php">印度</a>限定)</li>
           </ul>
           <div style="margin:12px 0px;"><strong>+5攻擊</strong>
           </div>
