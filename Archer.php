@@ -276,7 +276,7 @@
             <li><a href="Italians.php">義大利</a>:<a href="Pavise.php">巨盾</a>現在會加成弓兵。</li>
             <li><a href="Mayans.php">馬雅</a>:<a href="Obsidian_Arrows.php">黑曜石之箭</a>現在給弓兵對
               <a
-              href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+6。4.8版後增加對<a href="Armor_Class_Stone_Defence.php">石造建築</a>攻擊+6</li>
+              href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+6。4.8版後增加對<a href="Armor_class_stone_defense.php">石造建築</a>攻擊+6</li>
           </ul>
         </div>
          <h3>趣事</h3>
