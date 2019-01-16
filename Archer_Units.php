@@ -1052,7 +1052,7 @@
               <tr>
                 <td class="tunitc6">
                   <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Berbers.php">柏柏</a> 
-                  <td class="tunitc4"><a href="Maghrabi Camels.php">馬格拉比駱駝</a>
+                  <td class="tunitc4"><a href="Maghrabi_Camels.php">馬格拉比駱駝</a>
                   </td>
                   <td class="tunitc5">700F 300G</td>
                   <td class="tunitc6">駱駝部隊獲得回血能力(每分鐘回15 HP)。</td>
