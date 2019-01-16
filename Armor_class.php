@@ -50,7 +50,7 @@
               <a
               href="Cataphract.php">聖騎兵</a>的防禦類型是<a href="Armor_Class_Cavalry.php">騎兵</a>，但他的騎兵裝甲值是12，這代表他比其他
                 <a
-                href="Cavalry_Unit.php">騎兵</a>更不怕反騎兵的攻擊。另一方面，<a href="Ballista_Elephant.php">弩砲象</a>的<a href="Armor_Class_Cavalry.php">騎兵防禦</a>類型裝甲是-2，這表示他會受到更多的反騎兵攻擊加成。當然以上的數字遊戲內都不會告訴你。</p>
+                href="Cavalry_Units.php">騎兵</a>更不怕反騎兵的攻擊。另一方面，<a href="Ballista_Elephant.php">弩砲象</a>的<a href="Armor_Class_Cavalry.php">騎兵防禦</a>類型裝甲是-2，這表示他會受到更多的反騎兵攻擊加成。當然以上的數字遊戲內都不會告訴你。</p>
           </div>
            <h3>防禦類型列表</h3>
           <div class="hrn1"></div>
