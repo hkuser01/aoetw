@@ -215,8 +215,8 @@
                   </ul>
                   <ul>
                     <li>
-                      <img src="img/OrganGunIcon.jpg" alt=""><a href="OrganGunIcon.php">風琴炮</a>→
-                      <img src="img/OrganGunIcon.jpg" alt=""><a href="OrganGunIcon.php">精銳風琴炮</a>(<a href="Portugese.php">葡萄牙</a>限定)</li>
+                      <img src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">風琴炮</a>→
+                      <img src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">精銳風琴炮</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <ul>
                     <li>
