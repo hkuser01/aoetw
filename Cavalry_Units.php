@@ -580,7 +580,7 @@
               <tr>
                 <td class="tunitc6">
                   <img class="gg" width="22" style="margin: 2px;" src="img/Bloodlines.png"
-                  alt=""><a href="Bloodlines.oho">品種</a>
+                  alt=""><a href="Bloodlines.php">品種</a>
                 </td>
                 <td class="tunitc4">封建</td>
                 <td class="tunitc5">150F 100G</td>
