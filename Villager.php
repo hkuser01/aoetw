@@ -24,8 +24,8 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>村民訓練於<a href="Dark_Age.php">黑暗時代</a>的<a href="Town_Center">城鎮中心</a>，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現</p>
-            <p>所有文明開始時都有三位村民，除了<a href="Chinese.php">中國人</a>和<a href=".php">瑪雅人</a>(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。</p>
+            <p>村民訓練於<a href="Dark_Age.php">黑暗時代</a>的<a href="Town_Center.php">城鎮中心</a>，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現</p>
+            <p>所有文明開始時都有三位村民，除了<a href="Chinese.php">中國人</a>和<a href="Mayans.php">瑪雅人</a>(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。</p>
             <p><a href="Spanish.php">西班牙</a>的特殊科技<a href="Supremacy.php">霸權</a>，能夠讓村民具有戰鬥力。</div>
           <h3>任務與單位名稱</h3>
           <div class="hrn1"></div>
@@ -155,7 +155,7 @@
                     <img class="gg" src="img/Millicon.png" width="30" alt=""><a href="Mill.php">磨坊</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php  Farm.phpp">農田</a>
+                    <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>
                   </li>
                   <li>
                     <img class="gg" src="img/Miningcampicon.png" width="30" alt=""><a href="Mining_Camp.php">採礦營地</a>
@@ -167,7 +167,7 @@
                     <img class="gg" src="img/Dockicon.png" width="30" alt=""><a href="Dock.php">碼頭</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Barracks-logo.jpg" width="30" alt=""><a href="Barracks.phpp">軍營</a>
+                    <img class="gg" src="img/Barracks-logo.jpg" width="30" alt=""><a href="Barracks.php">軍營</a>
                   </li>
                   <li>
                     <img class="gg" src="img/Outposticon.png" width="30" alt=""><a href="Outpost.php">哨站</a>
@@ -447,7 +447,7 @@
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+            <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>村民對箭塔、牆與城堡有+3的攻擊。</li>
               <li>土耳其的村民挖金速度快15％。</li>
