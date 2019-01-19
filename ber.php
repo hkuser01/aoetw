@@ -368,7 +368,7 @@ $(document).ready(function(){
       <table class="table" style="margin-top:50px;">
          <tr>
             <td class="trm" colspan="5" style="border-top: none;">
-                <a href="Mill.php"><img class="ng" src="img/Lumbercampicon.png" alt=""></a>
+                <a href="Lumber_Camp.php"><img class="ng" src="img/Lumbercampicon.png" alt=""></a>
                 <div><a href="Lumber_Camp.php">伐木場</a></div>
             </td>
         </tr>
