@@ -57,7 +57,7 @@
                 <img class="gg" src="img/FastFireShipIcon.jpg"
                 alt=""><a href="Fast_Fire_Ship.php">快速火戰船</a>(9)</li>
               <li>
-                <img class="gg" src="img/DemoRaftIcon.jpg" alt=""><a href="Demolition_Raft .php">自爆筏</a>(1)→
+                <img class="gg" src="img/DemoRaftIcon.jpg" alt=""><a href="Demolition_Raft.php">自爆筏</a>(1)→
                 <img class="gg" src="img/DemoShipIcon.jpg"
                 width="22" alt=""><a href="Demolition_Ship.php">神風船</a>(3)→
                 <img class="gg" src="img/HeavyDemoShipIcon.jpg"
@@ -136,7 +136,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                     <li>
                       <img class="gg" src="img/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
                     </li>
