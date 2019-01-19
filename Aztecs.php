@@ -134,7 +134,7 @@
               <td class="unit4">
                 <img class="gg" src="img/CastleAgeUnique.png"><a href="Atlatl.php">擲矛器</a>
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg"><a href="img/Garland_Wars.php">榮冠戰爭</a>
+                <img class="gg" src="img/Unique-tech.jpg"><a href="Garland_Wars.php">榮冠戰爭</a>
               </td>
             </tr>
           </table>
