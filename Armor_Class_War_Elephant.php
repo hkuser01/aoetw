@@ -94,7 +94,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/HeavyScorpionIcon.jpg" alt=""><a href="HeavyScorpion.php">重型弩炮</a>
+                      <img class="gg" src="img/HeavyScorpionIcon.jpg" alt=""><a href="Heavy_Scorpion.php">重型弩炮</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
