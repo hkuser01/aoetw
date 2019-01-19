@@ -123,7 +123,7 @@
                       <img width="25px" src="img/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a>
                     </li>
                     <li>
-                      <img width="25px" src="img/Feitoriaicon.png" alt=""><a href="">港灣大商站</a>(<a href="Portyguese.php">葡萄牙</a>限定)</li>
+                      <img width="25px" src="img/Feitoriaicon.png" alt=""><a href="">港灣大商站</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                     <li>
                       <img width="25px" src="img/Dockicon.png" alt=""><a href="">巨港</a>(<a href="Malians.php">馬來</a>限定)</li>
                   </ul>
@@ -219,7 +219,7 @@
                     <li>
                       <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>(<a href="Franks.php">法蘭克</a>限定)</li>
                     <li>
-                      <img class="gg" src="img/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Eithopians.php">衣索比亞</a>限定)</li>
+                      <img class="gg" src="img/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Ethiopians.php">衣索比亞</a>限定)</li>
                     <li>
                       <img class="gg" src="img/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">精銳爪刀勇士</a>(<a href="Malay.php">馬來</a>限定)</li>
                   </ul>
@@ -297,7 +297,7 @@
                 <li>
                   <img class="gg" src="img/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>→
                   <img class="gg" src="img/ShotelIcon.png"
-                  alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Eithopians.php">衣索比亞</a>限定)</li>
+                  alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Ethiopians.php">衣索比亞</a>限定)</li>
                 <li>
                   <img class="gg" src="img/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>→
                   <img class="gg" src="img/GbetoIcon.png"
@@ -402,7 +402,7 @@
                     <li>
                       <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>→
                       <img class="gg" src="img/New_Genoese_Crossbowman.png"
-                      alt=""><a href="Genoese_Crossbowman.php">熱那亞弩精銳手</a>(<a href="Italians">義大利</a>限定)</li>
+                      alt=""><a href="Genoese_Crossbowman.php">熱那亞弩精銳手</a>(<a href="Italians.php">義大利</a>限定)</li>
                     <li>
                       <img class="gg" src="img/Rattanarchericon.png" alt=""><a href="Rattan_Archer.php">藤甲弓兵</a>→
                       <img class="gg" src="img/Rattanarchericon.png"
