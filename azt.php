@@ -608,7 +608,7 @@ and (max-device-width: 480px)  {
         <td class="t23 trm">
           <img class="gg" src="img/Goldshaftmining.jpg" alt="">
           <div><a href="Gold_Shaft_Mining.php">礦井採金</a>
-          </div><i class="fas fa-arrow-down"></i>
+          </div>
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Stone_Shaft_Mining.jpg" alt="">
