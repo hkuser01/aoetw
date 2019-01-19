@@ -34,7 +34,7 @@
               href="Fire_Ship.php">火戰船</a>。</p>
             <p>當火炮戰船在執行岸邊轟炸城堡和箭塔時，火炮戰船身邊應該要有<a href="War_Galley.php">弩炮戰船</a>和<a href="Fire_Ship.php">火戰船</a>做護衛保護。</p>
             <p>一般來說，火炮戰船主要用來清理敵方海岸線的建築物，偶爾騷擾範圍內的地面單位。他們不應該用來對付敵方的船隻，而且如果海上威脅沒有完全消失的話，他們很容易就會被消滅。</p>
-            <p>西班牙的火炮戰船比其他文明的射速要快(每秒飛行7格而不是每秒飛行1.39格)，而且有<a href="Ballistic.php">彈道學</a>加成可以更容易擊中移動目標。</p>
+            <p>西班牙的火炮戰船比其他文明的射速要快(每秒飛行7格而不是每秒飛行1.39格)，而且有<a href="Ballistics.php">彈道學</a>加成可以更容易擊中移動目標。</p>
           </div>
            <h3>文明可訓練與否</h3> 
           <div class="hrn1"></div>
@@ -77,7 +77,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="bulding.php">建築物</a>。</td>
+              <td class="tta4"><a href="Armor_class_bulding.php">建築物</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -189,7 +189,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                     <li>
                       <img class="gg" src="img/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
                     </li>
@@ -322,10 +322,10 @@
               <li><a href="Chinese.php">中國</a>：有利於火炮戰船的科技在帝王時代便宜20％。</li>
               <li><a href="Italians.php">義大利</a>：訓練火炮戰船成本便宜20%。研究<a href="Careening.php">傾側維修術</a>，
                 <a
-                href="Dry Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。升級成精銳火炮戰船的花費便宜50%。</li>
+                href="Dry_Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。升級成精銳火炮戰船的花費便宜50%。</li>
               <li><a href="Persians.php">波斯</a>：火炮戰船訓練的速度在帝王提高20%。研究<a href="Careening.php">傾側維修術</a>、
                 <a
-                href="Dry Dock.php">旱碼頭</a>和升級精銳火炮戰船的速度快20％。</li>
+                href="Dry_Dock.php">旱碼頭</a>和升級精銳火炮戰船的速度快20％。</li>
               <li><a href="Portuguese.php">葡萄牙</a>：訓練火炮戰船的黃金花費減少15%，火炮戰船HP+10％。</li>
               <li><a href="Spanish.php">西班牙</a>：火炮戰船自身有彈道學加成而且砲彈速度更快。</li>
               <li><a href="Turks.php">土耳其</a>：火炮戰船HP+25%。升級精銳火炮戰船話費-50%。</li>
