@@ -39,7 +39,7 @@
                 <img class="gg" src="img/HeavyCamelIcon.jpg"
                 alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                 <img class="gg" src="img/ImperialCamelIcon.jpg"
-                alt=""><a href="Imperial Camel.php">帝王駱駝騎兵</a>(<a href="Indians.php">印度</a>限定)</li>
+                alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>(<a href="Indians.php">印度</a>限定)</li>
               <li>
                 <img class="gg" src="img/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>→
                 <img class="gg" src="img/Saracenmamluk_icon.png"
@@ -91,7 +91,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵→</a> 
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""><a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
