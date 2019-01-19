@@ -49,7 +49,7 @@
                   <a
                   href="Incas.php">印加</a>、 <a href="Italians.php">義大利</a>、 <a href="Japanese.php">日本</a>、
                     <a
-                    href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、 <a href="Magyar.php">馬札爾</a>、 <a href="Malay.php">馬來</a>、
+                    href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、 <a href="Magyars.php">馬札爾</a>、 <a href="Malay.php">馬來</a>、
                       <a
                       href="Mayans.php">馬雅</a>、 <a href="Portuguese.php">葡萄牙</a>、 <a href="Slavs.php">斯拉夫</a>、
                         <a
@@ -292,7 +292,7 @@
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>駱駝有5的攻擊。</li>
               <li>駱駝對騎兵+10攻擊。</li>
