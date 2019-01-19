@@ -101,7 +101,7 @@
                 <td width="9%"><a href="Rate_of_Fire.php">射速</a>
                 </td>
                 <td width="9%">命中率</td>
-                <td width="9%"><a href="los.php">視野</a>
+                <td width="9%">視野</a>
                 </td>
                 <td width="9%">速度</td>
                 <td width="9%">開火
