@@ -185,7 +185,7 @@
           <div class="n1">
             <ul>
               <li><a href="Goths.php">歌德</a>：軍營工作速度快20% 。</li>
-              <li><a href="Italians.php">義大利</a>： 帝王時代軍營可生產<a href="CondottieroNewIcon.php">傭兵</a>。</li>
+              <li><a href="Italians.php">義大利</a>： 帝王時代軍營可生產<a href="Condottiero.php">傭兵</a>。</li>
               <li><a href="Slavs.php">斯拉夫</a>：軍營可提供5人口</li>
             </ul>
           </div>
