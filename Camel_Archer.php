@@ -121,7 +121,7 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)
+                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>(對移動目標命中率上升)
                 <br>
                 <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(命中率提升到100%)</td>
             </tr>
@@ -168,7 +168,7 @@
               <li><a href="Conscription.php">徵兵制度</a>、<a href="Kasbah.php">聚居堡壘</a>、<a href="Maghrabi_Camels.php">馬格拉比駱駝</a>的研究時間(快25%)</li>
               <li><a href="Britons.php">不列顛</a>：研究<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
               <li><a href="Huns.php">匈奴</a>：研究<a href="Bloodlines.php">品種</a>和<a href="Husbandry.php">畜牧培育</a>速度快20%。</li>
-              <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>速度快80%。</li>
+              <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistics.php">彈道學</a>速度快80%。</li>
               <li><a href="Teutons.php">條頓</a>：駱駝弓騎兵更不容易被招降。</li>
             </ul>
           </div>
