@@ -148,7 +148,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                     <li>
                       <img class="gg" src="img/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
                     </li>
@@ -282,10 +282,10 @@
               <li><a href="Chinese.php">中國</a>：有利於神風船的科技在城堡/帝王時代便宜15%/20％。神風船HP+50%。</li>
               <li><a href="Italians.php">義大利</a>：研究<a href="Careening.php">傾側維修術</a>，
                 <a
-                href="Dry Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。</li>
+                href="Dry_Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。</li>
               <li><a href="Persians.php">波斯</a>：神風船訓練的速度在城堡/帝王提高15%/20%。研究<a href="Careening.php">傾側維修術</a>的速度在城堡/帝王提高15%/20％。研究
                 <a
-                href="Dry Dock.php">旱碼頭</a>和升級重型神風船的速度快20％。</li>
+                href="Dry_Dock.php">旱碼頭</a>和升級重型神風船的速度快20％。</li>
               <li><a href="Portuguese.php">葡萄牙</a>：訓練神風船的花費減少15%黃金，神風船HP+10％。</li>
               <li><a href="Vikings.php">維京</a>：神風船訓練的費用在城堡/帝王減少15%/20%。</li>
             </ul>
