@@ -289,7 +289,7 @@
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>訓練時間為23秒。</li>
               <li>攻擊速度為2.03。</li>
