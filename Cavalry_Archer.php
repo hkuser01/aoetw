@@ -24,7 +24,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>馬弓騎兵訓練於城堡時代的<a href="Archery_Range">射箭場</a>，他有非常快的速度與遠程的攻擊，使他成為一名出色的騷擾者，是非常有效對付步兵單位的兵種。但因為他是騎馬的遠程單位，因此懼怕
+            <p>馬弓騎兵訓練於城堡時代的<a href="Archery_Range.php">射箭場</a>，他有非常快的速度與遠程的攻擊，使他成為一名出色的騷擾者，是非常有效對付步兵單位的兵種。但因為他是騎馬的遠程單位，因此懼怕
               <a
               href="Skirmisher.php">戰矛兵</a>與<a href="Spearman.php">槍兵</a>。而 <a href="Camel_Archer.php">駱駝射手</a>更是馬弓騎兵的超級天敵</p>
             <p>除了<a href="Aztecs.php">阿茲特克</a>、<a href="Incas.php">印加</a>與<a href="Mayans.php">馬雅</a>外，所以文明都可以使用。</p>
@@ -108,7 +108,7 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
                 <br>
                 <img class="gg" src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>:命中率提升到100%</td>
             </tr>
@@ -337,7 +337,7 @@
          <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
-           <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+           <h3><em><a href="aok.php">帝王世紀</a></em></h3>
           <ul>
             <li>成本為40木材70黃金。</li>
             <li>移動速度為1.43，射程3。</li>
