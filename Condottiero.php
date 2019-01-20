@@ -43,7 +43,7 @@
               <li>傭兵移動速度快，有不錯的裝甲和高生命值。他們生產速度快，也不需要升級。然而，相對較高的黃金成本，要大量生產不是那麼簡單。<a href="Elite_Skirmisher.php">戰矛兵</a>在成本比較上及處理火藥單位的效率比傭兵要高得多，而攻城單位的表現也比傭兵好，限制了傭兵的定位只能在應急上使用。</li>
               <li>傭兵可以暫時作為<a href="Champion.php">劍兵勇士</a>的替代品。這情況可能發生在玩家還沒升級好<a href="Champion.php">劍兵勇士</a>，或者玩家的文明沒有
                 <a
-                href="Champion.php">劍兵勇士</a>（<a href="Eithopians.php">衣索比亞人</a>、<a href="Huns.php">匈奴人</a>、
+                href="Champion.php">劍兵勇士</a>（<a href="Ethiopians.php">衣索比亞人</a>、<a href="Huns.php">匈奴人</a>、
                   <a
                   href="Khmer.php">高棉人</a>、<a href="Malay.php">馬來人</a>、<a href="Mayans.php">馬雅人</a>和<a href="Persians.php">波斯人</a>）。然而馬來的話，不應該用傭兵取代
                     <a
