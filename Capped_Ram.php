@@ -53,7 +53,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
+              <td class="tta4"><a href="Armor_class_building.php">建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -212,7 +212,7 @@
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>升級到<a href="Siege_Ram.php">重型衝撞車</a>成本為1000F/800G。</li>
             </ul>
