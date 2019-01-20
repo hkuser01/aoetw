@@ -24,7 +24,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>弩兵在<a href="Castle_Age.php">城堡時代</a>的<a href="Archery_Range">射箭場</a>訓練，可以有效率的屠殺
+            <p>弩兵在<a href="Castle_Age.php">城堡時代</a>的<a href="Archery_Range.php">射箭場</a>訓練，可以有效率的屠殺
               <a
               href="Infantry_Units.php">步兵</a>與<a href="Villager.php">村民</a>，但對抗<a href="Knight.php">騎士</a>、
                 <a
@@ -81,7 +81,7 @@
                 <br>
                 <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Obsidian_Arrows.php">黑曜石之箭</a>:射箭場弓兵單位對<a href="Armor_Class_Standard_Building.php">標準建築</a>和
                 <a
-                href="Armor_Class_Stone_Defence.php">石造建築</a>攻擊+6，<a href="Mayans.php">馬雅</a>限定</td>
+                href="Armor_class_stone_defense.php">石造建築</a>攻擊+6，<a href="Mayans.php">馬雅</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
@@ -251,7 +251,7 @@
                   <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速<a href="Conscription.php">徵兵制度</a>的研究時間(快25%)</li>
                   <li><a href="Britons.php">不列顛</a>：弩兵生產和升級快20%。研發<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
                   <li><a href="Magyars.php">馬扎爾</a>：弩兵<a href="">視野</a>+2。</li>
-                  <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>快80%。</li>
+                  <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistics.php">彈道學</a>快80%。</li>
                   <li><a href="Saracens.php">薩拉森</a>：弩兵對<a href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+1。</li>
                   <li><a href="Teutons.php">條頓</a>：弩兵更不容易被招降。</li>
                 </ul>
@@ -279,7 +279,7 @@
                   <li><a href="Italians.php">義大利</a>:<a href="Pavise.php">巨盾</a>現在會加成弩兵。</li>
                   <li><a href="Mayans.php">馬雅</a>:<a href="Obsidian_Arrows.php">黑曜石之箭</a>現在給弩兵對
                     <a
-                    href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+6。4.8版後增加對<a href="Armor_Class_Stone_Defence.php">石造建築</a>攻擊+6</li>
+                    href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+6。4.8版後增加對<a href="Armor_class_stone_defense.php">石造建築</a>攻擊+6</li>
                 </ul>
               </div>
                <h3>趣事</h3>
