@@ -39,7 +39,7 @@
                     <a
                     href="Indians.php">印度</a>、 <a href="Italians.php">義大利</a>、 <a href="Japanese.php">日本</a>、
                       <a
-                      href="Koreans.php">韓國</a>、 <a href="Magyar.php">馬札爾</a>、 <a href="Malians.php">馬利</a>、 <a href="Mongols.php">蒙古</a>、
+                      href="Koreans.php">韓國</a>、 <a href="Magyars.php">馬札爾</a>、 <a href="Malians.php">馬利</a>、 <a href="Mongols.php">蒙古</a>、
                         <a
                         href="Portuguese.php">葡萄牙</a>、 <a href="Saracens.php">薩拉森</a>、 <a href="Slavs.php">斯拉夫</a>、
                           <a
@@ -79,7 +79,7 @@
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><a href="Skirmisher.php">矛兵</a>、<a href="Villager.php">戟兵</a>、<a href="Scout_Cavalry.php">駱駝騎兵</a>、
                 <a
-                href="Eagle_Scout.php">鷹勇士</a>、<a href="building.php">建築物</a>、<a href="Spearman.php">輕騎兵</a>、
+                href="Eagle_Scout.php">鷹勇士</a>、<a href="Armor_class_building.php">建築物</a>、<a href="Spearman.php">輕騎兵</a>、
                   <a
                   href="Huskarl.php">哥德衛隊</a>、<a href="Battering_Ram.php">衝撞車</a>。</td>
             </tr>
@@ -266,7 +266,7 @@
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>劍兵勇士擁有+3攻擊VS<a href="Armor_Class_Standard_Building.php">標準建築</a>。</li>
               <li>劍兵勇士遠防是0。</li>
@@ -303,7 +303,7 @@
           <div class="n1">
             <ul>
               <li>民兵系兵是遊戲內唯一，三階以上升級的單位。</li>
-              <li>馬來的民兵系在研發<a href="Forced Levy.php">強制徵兵</a>後不用黃金。</li>
+              <li>馬來的民兵系在研發<a href="Forced_Levy.php">強制徵兵</a>後不用黃金。</li>
               <li>遊戲內唯一有遠防的非特殊兵種步兵。</li>
               <li>由於圖形錯誤，有時候旋轉劍兵勇士，他有可能會一次出現兩把劍。</li>
             </ul>
