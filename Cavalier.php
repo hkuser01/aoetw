@@ -39,7 +39,7 @@
                   <a
                   href="Franks.php">法蘭克</a>、 <a href="Goths.php">哥德</a>、 <a href="Huns.php">匈奴</a>、 <a href="Italians.php">義大利</a>、
                     <a
-                    href="Japanese.php">日本</a>、 <a href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、 <a href="Magyar.php">馬札爾</a>、
+                    href="Japanese.php">日本</a>、 <a href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、 <a href="Magyars.php">馬札爾</a>、
                       <a
                       href="Malay.php">馬來</a>、 <a href="Malians.php">馬利</a>、 <a href="Mongols.php">蒙古</a>、 <a href="Persians.php">波斯</a>、
                         <a
@@ -396,7 +396,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速</a>
               </td>
               <td class="unit4">1.35</td>
             </tr>
