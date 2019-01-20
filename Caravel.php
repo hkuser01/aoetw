@@ -87,7 +87,7 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:較易擊中移動目標</td>
+                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:較易擊中移動目標</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">護甲</td>
@@ -173,7 +173,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                     <li>
                       <img class="gg" src="img/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
                     </li>
@@ -308,7 +308,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>、<a href="Ballistic.php">彈道學</a>的速度提高80%。</li>
+              <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>、<a href="Ballistics.php">彈道學</a>的速度提高80%。</li>
               <li><a href="Teutons.php">條頓</a>：卡拉維爾戰船對招降的抵抗力更強。</li>
             </ul>
           </div>
