@@ -37,7 +37,7 @@
               <a
               href="Turks.php">土耳其</a>與<a href="Saracens.php">薩拉森</a>是絕佳的使用馬弓騎兵的國家。雖然其他文明也可以使用，但都不如這些國家。蒙古有非常出色的攻擊速度，匈奴有非常便宜的造價，可以把省下來的資源用於別的兵種，如騎兵。馬札爾、土耳其與薩拉森人則是在帝王時期可以展現出強大的威力。馬札爾通過
                 <a
-                href="Recurve Bow.php">反曲弓</a>技術，可以使射程與攻擊額外+1，土耳其人通過 <a href="Sipahi.php">采邑騎士</a>血量+20、<a href="Saracens.php">薩拉森</a>人則是對建築物攻擊+4。</p>
+                href="Recurve_Bow.php">反曲弓</a>技術，可以使射程與攻擊額外+1，土耳其人通過 <a href="Sipahi.php">采邑騎士</a>血量+20、<a href="Saracens.php">薩拉森</a>人則是對建築物攻擊+4。</p>
           </div>
            <h3>更多數據</h3>
           <div class="hrn1"></div>
