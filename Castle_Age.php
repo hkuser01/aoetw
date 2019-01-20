@@ -56,7 +56,7 @@
                 <img class="gg" src="img/Stonewallicon.png" width="22" alt=""><a href="Fortified_Wall.php">垛牆</a>：更厚實的城牆</li>
               <li>
                 <img class="gg" src="img/Dockicon.png" width="22" alt=""><a href="Harbor.php">巨港</a>：更強大可攻擊的港口（限<a href="Malay.php">馬來</a>）</li>
-               <h4>1.<a href="Harbor.php">巨港</a>也是軍事和民生建築，需先研發<a href="Thalassocracy.phpp">海上霸主</a>。</h4>
+               <h4>1.<a href="Harbor.php">巨港</a>也是軍事和民生建築，需先研發<a href="Thalassocracy.php">海上霸主</a>。</h4>
             </ul>
           </div>
            <h3>可生產單位</h3>
