@@ -237,7 +237,7 @@
             <tr>
               <td class="tta1">準確度</td>
               <td class="tta4">
-                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:較易擊中移動目標</td>
+                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:較易擊中移動目標</td>
             </tr>
             <tr>
               <td class="tta1">護甲</td>
