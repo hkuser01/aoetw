@@ -187,7 +187,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                     <li>
                       <img class="gg" src="img/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
                     </li>
@@ -319,10 +319,10 @@
               <li><a href="Burmese.php">緬甸</a>：<a href="Faith.php">忠誠信仰</a>花費便宜50%。</li>
               <li><a href="Italians.php">義大利</a>：訓練精銳火炮戰船成本便宜20%。研究<a href="Careening.php">傾側維修術</a>，
                 <a
-                href="Dry Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。</li>
+                href="Dry_Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。</li>
               <li><a href="Persians.php">波斯</a>：精銳火炮戰船訓練的速度在帝王提高20%。研究<a href="Careening.php">傾側維修術</a>、
                 <a
-                href="Dry Dock.php">旱碼頭</a>的速度快20％。</li>
+                href="Dry_Dock.php">旱碼頭</a>的速度快20％。</li>
               <li><a href="Portuguese.php">葡萄牙</a>：訓練精銳火炮戰船的花費減少15%黃金，精銳火炮戰船HP+10％。</li>
               <li><a href="Spanish.php">西班牙</a>：精銳火炮戰船自身有彈道學加成而且射速更快。</li>
               <li><a href="Turks.php">土耳其</a>：精銳火炮戰船HP+25%。升級精銳火炮戰船話費-50%。</li>
