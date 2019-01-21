@@ -104,7 +104,7 @@
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)</p>
+                  <img src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>(對移動目標命中率上升)</p>
               </td>
             </tr>
             <tr>
@@ -159,7 +159,7 @@
           <div class="n1">
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
             <ul>
-              <li><a href="ver-5.8">5.8版</a>後，象弓騎兵對弓兵防禦類型 -2 → 0，對反弓兵防禦類型0 → -2</li>
+              <li><a href="ver5-8.php">5.8版</a>後，象弓騎兵對弓兵防禦類型 -2 → 0，對反弓兵防禦類型0 → -2</li>
             </ul>
           </div>
            <h3>趣事</h3>
