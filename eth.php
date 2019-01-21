@@ -619,8 +619,8 @@ and (max-device-width: 480px)  {
     </table>
     <table class="table" style="margin-top:50px;">
       <tr>
-        <td class="trm" colspan="5" style="border-top: none;"> <a href="Mill.php"><img class="ng" src="img/Lumbercampicon.png" alt=""></a> 
-          <div><a href="Mill.php">伐木場</a>
+        <td class="trm" colspan="5" style="border-top: none;"> <a href="Lumber_Camp.php"><img class="ng" src="img/Lumbercampicon.png" alt=""></a> 
+          <div><a href="Lumber_Camp.php">伐木場</a>
           </div>
         </td>
       </tr>
@@ -694,7 +694,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Stone_Shaft_Mining.jpg" alt="">
-          <div><a href="Stone_Shaft_Mining.phpp">礦井採石</a>
+          <div><a href="Stone_Shaft_Mining.php">礦井採石</a>
           </div>
         </td>
         <td class="t23 trm"></td>
@@ -1012,7 +1012,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/Guilds.jpg">
-          <div><a href="Guilds.phpp">行會制度</a>
+          <div><a href="Guilds.php">行會制度</a>
           </div>
         </td>
         <td class="t23 trm">
@@ -1090,7 +1090,7 @@ and (max-device-width: 480px)  {
         </td>
         <td class="t11 trm">
           <img class="gg" src="img/Illumination.jpg" width="30" alt="">
-          <div><a href="Illumination.php not">啟發教化</a>
+          <div><a href="Illumination.php">啟發教化</a>
           </div>
         </td>
         <td class="t11 trm not">
