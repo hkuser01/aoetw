@@ -161,7 +161,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                     <li>
                       <img class="gg" src="img/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
                     </li>
@@ -297,10 +297,10 @@
               <li><a href="Chinese.php">中國</a>：有利於火蒙衝科技在城堡/帝王便宜15%/20％</li>
               <li><a href="Italians.php">義大利</a>：研究<a href="Careening.php">傾側維修術</a>，
                 <a
-                href="Dry Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％，升級到弩砲戰船便宜50%。</li>
+                href="Dry_Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％，升級到弩砲戰船便宜50%。</li>
               <li><a href="Persians.php">波斯</a>：火蒙衝在封建/城堡/帝王時代訓練的速度提高10/15/20% <a href="Careening.php">傾側維修術</a>和升級到
                 <a
-                href="Fire_Galley.php">火戰船</a>的研發速度在城堡/帝王時代提高15%/20％。研究<a href="Dry Dock.php">旱碼頭</a>的速度快20％。</li>
+                href="Fire_Galley.php">火戰船</a>的研發速度在城堡/帝王時代提高15%/20％。研究<a href="Dry_Dock.php">旱碼頭</a>的速度快20％。</li>
               <li><a href="Portuguese.php">葡萄牙</a>：火蒙衝訓練減少15%黃金成本，火蒙衝+10％HP。</li>
             </ul>
           </div>
@@ -308,7 +308,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Malians.php">馬利</a>：研究<a href="Ballistic.php">彈道學</a>的速度提高80%</li>
+              <li><a href="Malians.php">馬利</a>：研究<a href="Ballistics.php">彈道學</a>的速度提高80%</li>
               <li><a href="Teutons.php">條頓</a>：火蒙衝對招降的抵抗力更強。</li>
             </ul>
           </div>
@@ -319,7 +319,7 @@
             <ul>
               <li>火蒙衝有5的遠防。</li>
               <li>火蒙衝有100的HP。</li>
-              <li>4.8版本後火蒙衝有95的HP，並且會受到<a href="Ballistic.php">彈道學</a>的影響。</li>
+              <li>4.8版本後火蒙衝有95的HP，並且會受到<a href="Ballistics.php">彈道學</a>的影響。</li>
             </ul>
             <h3><em><a href="aor.php">王者崛起</a></em></h3>
             <ul>
