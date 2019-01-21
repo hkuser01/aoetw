@@ -49,11 +49,11 @@
               <td class="tta1" style="width:20%">農田產量</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Horsecollar.jpg" width="30" alt=""><a href="Horsecollar.php">馬軛</a>+75</p>
+                  <img class="gg" src="img/Horsecollar.jpg" width="30" alt=""><a href="Horse_Collar.php">馬軛</a>+75</p>
                 <p>
-                  <img class="gg" src="img/Heavyplow.jpg" width="30" alt=""><a href="Heavyplow.php">重犁</a>+125</p>
+                  <img class="gg" src="img/Heavyplow.jpg" width="30" alt=""><a href="Heavy_Plow.php">重犁</a>+125</p>
                 <p>
-                  <img class="gg" src="img/Croprotation.jpg" width="30" alt=""><a href="Croprotation.php">輪耕</a>+175</p>
+                  <img class="gg" src="img/Croprotation.jpg" width="30" alt=""><a href="Crop_Rotation.php">輪耕</a>+175</p>
               </td>
             </tr>
             <tr>
@@ -170,7 +170,7 @@
               <td class="tta1">
                 <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
                 <img src="img/Horsecollar.jpg" width="30"
-                alt="" class="gg"><a href="Horsecollar.php">馬軛</a>+75)</td>
+                alt="" class="gg"><a href="Horse_Collar.php">馬軛</a>+75)</td>
               <td class="tta2">250</td>
               <td class="tta3">4.17</td>
             </tr>
@@ -178,7 +178,7 @@
               <td class="tta1">
                 <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
                 <img src="img/Heavyplow.jpg" width="30" alt=""
-                class="gg"><a href="Heavyplow.php">重犁</a>+125)</td>
+                class="gg"><a href="Heavy_Plow.php">重犁</a>+125)</td>
               <td class="tta2">375</td>
               <td class="tta3">6.25</td>
             </tr>
@@ -186,7 +186,7 @@
               <td class="tta1">
                 <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
                 <img src="img/Croprotation.jpg" width="30"
-                alt="" class="gg"><a href="Croprotation.php">輪耕</a>+175)</td>
+                alt="" class="gg"><a href="Crop_Rotation.php">輪耕</a>+175)</td>
               <td class="tta2">550</td>
               <td class="tta3">9.17</td>
             </tr>
