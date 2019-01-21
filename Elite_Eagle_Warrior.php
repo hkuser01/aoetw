@@ -31,7 +31,7 @@
           <div class="n1">
             <p>可以根據三個文明不同而打出不同戰術，而相同的是鷹勇士克制所有的攻城武器與僧侶，對騎兵部隊有加成。但幾乎所有的步兵都對鷹勇士有額外的傷。從根本上說，鷹勇士彌補了南美文明沒有馬的不足。</p><strong><a href="Aztecs.php">阿茲特克</a></strong>
             <p> <a href="Garland_Wars.php">榮冠戰爭</a>為他們的所有步兵加4攻擊，這攻擊讓他們更佳強大，只要三下即可殺死一位村民。配合豹勇士殺步兵，與鷹勇士相輔相成。</p><strong><p><a href="Mayans.php">馬雅</a></strong>
-            <p><a href="El Dorado.php">黃金國</a>為他們的鷹勇士加40生命，這生命讓他們可以更坦。配合速度快的羽毛箭射手讓人聞風喪膽。</p><strong><a href="Incas.php">印加</a></strong>
+            <p><a href="El_Dorado.php">黃金國</a>為他們的鷹勇士加40生命，這生命讓他們可以更坦。配合速度快的羽毛箭射手讓人聞風喪膽。</p><strong><a href="Incas.php">印加</a></strong>
             <p><a href="Couriers.php">信使</a>為他們的鷹勇士加防禦，這防禦讓他們可以不用怕任何弓(含<a href="Castle.php">城堡</a>)。高防禦鷹勇士配合印加的
               <a
               href="Kamayuk.php">槍隊長</a>與<a href="Slinger.php">投石手</a>，組成了印加堅不可破的防線，除了遇到<a href="Hand_Cannoneer.php">火槍兵</a>以外。</p>
