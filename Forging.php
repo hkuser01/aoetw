@@ -26,7 +26,7 @@
           <div class="n1">
             <p>鍛造可於<a href="Feudal_Age.php">封建時代</a>在<a href="Blacksmith.php">兵工廠</a>研發，可讓
               <a
-              href="Infantry_Units.php">步兵</a>、<a href="Cavalry_Unit.php">騎兵</a>攻擊+1。</p>
+              href="Infantry_Units.php">步兵</a>、<a href="Cavalry_Units.php">騎兵</a>攻擊+1。</p>
           </div>
            <h3>文明加成</h3> 
           <div class="hrn1"></div>
