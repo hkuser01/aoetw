@@ -143,7 +143,7 @@
                     <li>
                       <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
                       <img class="gg" src="img/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
                     <li>
                       <img class="gg" src="img/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
                     </li>
@@ -277,11 +277,11 @@
               <li><a href="Chinese.php">中國</a>：有利於漁船的科技在城堡/帝王便宜 15/20％</li>
               <li><a href="Italians.php">義大利</a>：漁船便宜20％。研究<a href="Gillnets.php">流刺網</a>，
                 <a
-                href="Dry Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。</li>
+                href="Dry_Dock.php">旱碼頭</a>和<a href="Shipwright.php">造船匠</a>便宜50％。</li>
               <li><a href="Japanese.php">日本</a>：漁船具有2倍HP和裝甲+2。漁船的工作效率在黑暗/封建/城堡/帝王提高5%/10%/15%/20%</li>
               <li><a href="Persians.php">波斯</a>：漁船訓練的速度在封建/城堡/帝王提高10%/15%/20%，<a href="Careening.php">傾側維修術</a>和
                 <a
-                href="Gillnets.php">流刺網</a>的研究速度在城堡/帝王提高15%/20％。研究<a href="Dry Dock.php">旱碼頭</a>快20％。</li>
+                href="Gillnets.php">流刺網</a>的研究速度在城堡/帝王提高15%/20％。研究<a href="Dry_Dock.php">旱碼頭</a>快20％。</li>
               <li><a href="Portuguese.php">葡萄牙</a>：漁船有+10％HP。</li>
             </ul>
           </div>
